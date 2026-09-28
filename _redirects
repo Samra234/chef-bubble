@@ -1,0 +1,10 @@
+# Chef Bubble Kitchen - Netlify Redirects & Clean URLs
+/recipes/:name      /recipes/:name.html     200
+/about              /about.html             200
+/contact            /contact.html           200
+/categories         /categories.html        200
+/privacy-policy     /privacy-policy.html    200
+/terms              /terms.html             200
+
+# Custom 404 error page for any unresolved URLs
+/*                  /404.html               404
