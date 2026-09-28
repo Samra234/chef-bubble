@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chef Bubble Kitchen | Delicious Pakistani & Fusion Recipes</title>
+  <meta name="description" content="Welcome to Chef Bubble Kitchen! Discover 30 authentic Pakistani, Fast Food, Breakfast, and Dessert recipes with step-by-step instructions and cooking tips.">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <!-- Header / Navigation -->
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link active">Home</a></li>
+          <li><a href="#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link">Categories</a></li>
+          <li><a href="/about.html" class="nav-link">About</a></li>
+          <li><a href="/contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()" aria-label="Open Favorites">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn" aria-label="Toggle menu">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <span class="hero-badge">✨ Authentic Home Cooking Made Easy</span>
+        <h1 class="hero-title">Welcome to <span>Chef Bubble Kitchen</span></h1>
+        <p class="hero-subtitle">
+          Master the art of aromatic Pakistani biryanis, sizzler karahis, crispy fast food snacks, and mouth-watering desserts with step-by-step guides from Chef Bubble.
+        </p>
+
+        <div class="hero-search-box">
+          <input type="text" class="hero-search-input recipe-search-input" placeholder="Search biryani, karahi, zinger, cake...">
+          <button class="btn-primary" onclick="document.getElementById('all-recipes').scrollIntoView({behavior:'smooth'})">
+            🔍 Search
+          </button>
+        </div>
+
+        <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+          <a href="#all-recipes" class="btn-primary">Explore All 30 Recipes ↓</a>
+          <a href="/categories.html" class="btn-outline">Browse Categories</a>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="hero-img-wrapper">
+          <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80" alt="Chef Bubble Kitchen Royal Biryani">
+        </div>
+        <div class="floating-card fc-1">
+          <span>🔥</span>
+          <div>
+            <div>30+ Tested Recipes</div>
+            <span style="font-size:0.75rem; color:var(--text-muted); font-weight:normal;">Step-by-Step Guides</span>
+          </div>
+        </div>
+        <div class="floating-card fc-2">
+          <span>⭐</span>
+          <div>
+            <div>4.9 Star Ratings</div>
+            <span style="font-size:0.75rem; color:var(--text-muted); font-weight:normal;">Loved by Home Chefs</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Recipes -->
+  <section class="section" style="background: white;">
+    <div class="container">
+      <div class="section-header">
+        <span style="color: var(--primary); font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Chef's Special Selection</span>
+        <h2 class="section-title">⭐ Featured Recipes</h2>
+        <p class="section-desc">Handpicked crowd favorites celebrated for rich traditional taste and foolproof preparation.</p>
+      </div>
+
+      <div class="recipes-grid" id="featuredRecipesGrid">
+        <!-- Featured cards rendered via JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Recipe Categories -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <span style="color: var(--primary); font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Delicious Diversity</span>
+        <h2 class="section-title">🍽️ Recipe Categories</h2>
+        <p class="section-desc">Filter by your craving—from rich Desi curries to crispy fast food and sweet endings.</p>
+      </div>
+
+      <div class="categories-grid">
+        <div class="category-card" onclick="selectCategory('Pakistani Recipes')">
+          <span class="category-icon">🥘</span>
+          <span class="category-name">Pakistani</span>
+          <span class="category-count">10 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="selectCategory('Chicken Recipes')">
+          <span class="category-icon">🍗</span>
+          <span class="category-name">Chicken</span>
+          <span class="category-count">6 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="selectCategory('Beef & Mutton')">
+          <span class="category-icon">🥩</span>
+          <span class="category-name">Beef & Mutton</span>
+          <span class="category-count">2 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="selectCategory('Rice Recipes')">
+          <span class="category-icon">🍚</span>
+          <span class="category-name">Rice Dishes</span>
+          <span class="category-count">3 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="selectCategory('Fast Food')">
+          <span class="category-icon">🍔</span>
+          <span class="category-name">Fast Food</span>
+          <span class="category-count">6 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="selectCategory('Breakfast')">
+          <span class="category-icon">🥞</span>
+          <span class="category-name">Breakfast</span>
+          <span class="category-count">3 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="selectCategory('Desserts')">
+          <span class="category-icon">🍰</span>
+          <span class="category-name">Desserts</span>
+          <span class="category-count">7 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="selectCategory('Drinks & Beverages')">
+          <span class="category-icon">🍹</span>
+          <span class="category-name">Drinks & Beverages</span>
+          <span class="category-count">3 Recipes</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- All 36 Recipes + Search/Filter -->
+  <section class="section" id="all-recipes" style="background: white;">
+    <div class="container">
+      <div class="section-header">
+        <span style="color: var(--primary); font-weight: 700; text-transform: uppercase; font-size: 0.85rem;">Complete Recipe Index</span>
+        <h2 class="section-title">🍲 ALL 36 RECIPES</h2>
+        <p class="section-desc">Search and filter through our full collection of tested step-by-step culinary recipes.</p>
+      </div>
+
+      <!-- Search & Filter Controls -->
+      <div class="filter-wrapper">
+        <div class="filter-row">
+          <div class="search-input-group">
+            <span class="search-icon-inside">🔍</span>
+            <input type="text" class="recipe-search-input" placeholder="Search recipe title, ingredients or keywords...">
+          </div>
+
+          <div class="filter-selects">
+            <select class="filter-select" id="categoryFilterSelect">
+              <option value="All">All Categories</option>
+              <option value="Pakistani Recipes">Pakistani Recipes</option>
+              <option value="Chicken Recipes">Chicken Recipes</option>
+              <option value="Beef & Mutton">Beef & Mutton</option>
+              <option value="Rice Recipes">Rice Recipes</option>
+              <option value="Fast Food">Fast Food</option>
+              <option value="Breakfast">Breakfast</option>
+              <option value="Desserts">Desserts</option>
+              <option value="Drinks & Beverages">Drinks & Beverages</option>
+            </select>
+
+            <select class="filter-select" id="difficultyFilterSelect">
+              <option value="All">All Difficulties</option>
+              <option value="Easy">Easy</option>
+              <option value="Medium">Medium</option>
+              <option value="Hard">Hard</option>
+            </select>
+
+            <select class="filter-select" id="sortFilterSelect">
+              <option value="default">Default Sort</option>
+              <option value="title-asc">Title (A-Z)</option>
+              <option value="time-asc">Cooking Time (Fastest)</option>
+              <option value="difficulty-asc">Difficulty (Easiest)</option>
+            </select>
+
+            <button class="btn-reset-filters" id="resetFiltersBtn">Reset All</button>
+          </div>
+        </div>
+
+        <div style="margin-top: 1rem; font-size: 0.85rem; color: var(--text-muted); font-weight: 600;" id="recipeResultCount">
+          Showing 30 Recipes
+        </div>
+      </div>
+
+      <!-- ALL 30 RECIPES GRID -->
+      <div class="recipes-grid" id="allRecipesGrid">
+        <!-- Rendered dynamically by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- About Chef Bubble -->
+  <section class="section">
+    <div class="container">
+      <div class="about-chef-box">
+        <div class="about-chef-grid">
+          <div class="chef-avatar-wrapper">
+            <img src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=600&q=80" alt="Chef Bubble" class="chef-avatar">
+            <span class="chef-badge-floating">👨‍🍳 Head Chef</span>
+          </div>
+
+          <div class="about-chef-content">
+            <span style="color: var(--primary); font-weight: 700; font-size: 0.85rem; text-transform: uppercase;">Meet Your Culinary Guide</span>
+            <h2>About Chef Bubble</h2>
+            <p>
+              Welcome to my kitchen! I am Chef Bubble, a passionate culinary enthusiast dedicated to bringing traditional Pakistani flavors and globally loved comfort food to your home table.
+            </p>
+            <p>
+              My cooking philosophy revolves around simplicity, authentic spices, and precise step-by-step techniques that empower both beginners and experienced home cooks to achieve restaurant-quality results every single time.
+            </p>
+
+            <div class="chef-pillars">
+              <div class="pillar-item">
+                <strong>💯 Tested Recipes</strong>
+                <span>100% foolproof measurements</span>
+              </div>
+              <div class="pillar-item">
+                <strong>🌶️ Real Spices</strong>
+                <span>Authentic aroma & flavor</span>
+              </div>
+              <div class="pillar-item">
+                <strong>❤️ Made with Love</strong>
+                <span>Comfort food for families</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Social Media Section -->
+  <section class="social-section">
+    <div class="container">
+      <h2>📱 Follow Chef Bubble Kitchen</h2>
+      <p style="color: var(--text-muted); max-width: 500px; margin: 0.5rem auto 0;">
+        Join our thriving community of food lovers! Watch video tutorials, quick kitchen hacks, and behind-the-scenes recipes.
+      </p>
+
+      <div class="social-links">
+        <a href="https://youtube.com" target="_blank" rel="noopener" class="social-btn sb-youtube">
+          <span>▶</span> YouTube
+        </a>
+        <a href="https://facebook.com" target="_blank" rel="noopener" class="social-btn sb-facebook">
+          <span>f</span> Facebook
+        </a>
+        <a href="https://instagram.com" target="_blank" rel="noopener" class="social-btn sb-instagram">
+          <span>📷</span> Instagram
+        </a>
+        <a href="https://tiktok.com" target="_blank" rel="noopener" class="social-btn sb-tiktok">
+          <span>🎵</span> TikTok
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter Section -->
+  <section class="section">
+    <div class="container">
+      <div class="newsletter-card">
+        <h2>📧 Join Chef Bubble's Recipe Club</h2>
+        <p>Get weekly fresh recipes, seasonal cooking tips, and secret spice mixes delivered directly to your inbox!</p>
+        <form class="newsletter-form" id="newsletterForm">
+          <input type="email" placeholder="Enter your email address..." required>
+          <button type="submit">Subscribe Free</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <div class="brand-logo" style="color: white; margin-bottom: 1rem;">
+            <div class="brand-icon">🍳</div>
+            <span>Chef Bubble Kitchen</span>
+          </div>
+          <p style="font-size: 0.9rem; line-height: 1.6;">
+            Your premier destination for authentic Pakistani recipes, street style fast food, and heavenly desserts with easy-to-follow cooking instructions.
+          </p>
+        </div>
+
+        <div class="footer-col">
+          <h4>Recipe Categories</h4>
+          <ul class="footer-links">
+            <li><a href="javascript:void(0)" onclick="selectCategory('Pakistani Recipes')">Pakistani Recipes</a></li>
+            <li><a href="javascript:void(0)" onclick="selectCategory('Chicken Recipes')">Chicken Recipes</a></li>
+            <li><a href="javascript:void(0)" onclick="selectCategory('Beef & Mutton')">Beef & Mutton</a></li>
+            <li><a href="javascript:void(0)" onclick="selectCategory('Rice Recipes')">Rice Recipes</a></li>
+            <li><a href="javascript:void(0)" onclick="selectCategory('Fast Food')">Fast Food</a></li>
+            <li><a href="javascript:void(0)" onclick="selectCategory('Desserts')">Desserts</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Quick Links</h4>
+          <ul class="footer-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="#all-recipes">All Recipes</a></li>
+            <li><a href="/categories.html">Categories</a></li>
+            <li><a href="/about.html">About Chef Bubble</a></li>
+            <li><a href="/contact.html">Contact Us</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Legal & Support</h4>
+          <ul class="footer-links">
+            <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/terms.html">Terms & Conditions</a></li>
+            <li><a href="/sitemap.xml">Sitemap</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>© <span id="currentYear">2026</span> Chef Bubble Kitchen. All rights reserved.</p>
+        <p>Crafted with ❤️ for Food Lovers Worldwide.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Favorites Modal Drawer -->
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems">
+        <!-- Favorites rendered here -->
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript Files -->
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/search.js"></script>
+  <script src="/js/filter.js"></script>
+  <script src="/js/main.js"></script>
+
+</body>
+</html>

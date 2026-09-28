@@ -1,0 +1,1925 @@
+[
+  {
+    "id": "oven-baked-bbq-chicken",
+    "slug": "oven-baked-bbq-chicken",
+    "title": "Oven-Baked BBQ Chicken",
+    "category": "Chicken Recipes",
+    "prepTime": "15 mins",
+    "cookTime": "45 mins",
+    "totalTime": "60 mins",
+    "servings": "4",
+    "difficulty": "Easy",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Tender, juicy chicken thighs and drumsticks glazed with a smoky, sweet homemade BBQ sauce baked to golden perfection.",
+    "longDescription": "Chef Bubble's Oven-Baked BBQ Chicken brings the irresistible smoky aroma of outdoor grilling straight to your kitchen oven. Tender chicken pieces are first seasoned with a signature spice rub featuring smoked paprika, garlic powder, onion powder, and brown sugar. As it bakes, the chicken absorbs rich spices while staying extraordinarily juicy inside. In the final minutes, we brush a generous coating of tangy-sweet BBQ sauce that caramelizes under the oven heat, creating sticky, finger-licking goodness that everyone at the dinner table will adore.",
+    "ingredients": [
+      "1 kg chicken pieces (bone-in drumsticks and thighs)",
+      "2 tbsp olive oil or melted butter",
+      "1 tbsp smoked paprika",
+      "1 tsp garlic powder",
+      "1 tsp onion powder",
+      "1/2 tsp cayenne pepper or chili powder",
+      "1 tbsp brown sugar",
+      "1 tsp salt and 1/2 tsp freshly cracked black pepper",
+      "1 cup sweet & smoky BBQ sauce (Chef Bubble special rub mix)"
+    ],
+    "instructions": [
+      "Pat the chicken pieces thoroughly dry with paper towels to ensure crispy skin.",
+      "In a small bowl, combine smoked paprika, garlic powder, onion powder, cayenne pepper, brown sugar, salt, and black pepper.",
+      "Drizzle olive oil over the chicken, then rub the spice mixture evenly over all sides.",
+      "Preheat your oven to 200°C (400°F). Line a baking sheet with foil and place a wire rack on top.",
+      "Arrange chicken pieces on the wire rack and bake for 30 minutes until skin turns golden.",
+      "Remove chicken from oven and brush liberally with BBQ sauce on all sides.",
+      "Return to the oven for another 15 minutes, brushing with additional sauce every 5 minutes until caramelized and internal temperature reaches 75°C (165°F).",
+      "Garnish with freshly chopped parsley or green onions before serving warm."
+    ],
+    "chefTips": "For extra sticky glaze, turn on the oven broiler during the last 2 minutes, watching closely to avoid burning the brown sugar in the sauce.",
+    "servingSuggestions": "Serve hot alongside garlic butter cornbread, creamy coleslaw, and seasoned potato wedges.",
+    "storageInstructions": "Store leftover chicken in an airtight container in the refrigerator for up to 3 days. Reheat in the oven at 180°C (350°F) for 10-12 minutes.",
+    "nutrition": {
+      "calories": "420 kcal",
+      "protein": "38g",
+      "carbs": "18g",
+      "fat": "21g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "Can I use boneless chicken breasts instead?",
+        "answer": "Yes, boneless chicken breasts can be used, but reduce baking time to 20-25 minutes to prevent drying out."
+      },
+      {
+        "question": "How do I ensure the skin turns crispy?",
+        "answer": "Drying the chicken thoroughly with paper towels and using an oven wire rack allows hot air to circulate underneath."
+      }
+    ],
+    "related": [
+      "chicken-tikka",
+      "chicken-karahi",
+      "zinger-burger"
+    ]
+  },
+  {
+    "id": "chicken-karahi",
+    "slug": "chicken-karahi",
+    "title": "Pakistani Street-Style Chicken Karahi",
+    "category": "Pakistani Recipes",
+    "prepTime": "15 mins",
+    "cookTime": "30 mins",
+    "totalTime": "45 mins",
+    "servings": "5",
+    "difficulty": "Medium",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "An iconic Pakistani curry made with fresh tomatoes, ginger juliennes, green chilies, and coarsely crushed spicescooked in a traditional wok.",
+    "longDescription": "Chicken Karahi is the heartbeat of Pakistani street food and highway dhabas. Cooked in a wok-like heavy skillet (karahi), this famous curry relies on ripe juicy tomatoes, ginger, garlic, and freshly crushed spices rather than heavy onions or cream. The high flame cooking seals in the juices of small cut chicken pieces, while tomatoes melt into a thick, fragrant gravy glistening with oil. Finished with fresh coriander, sliced green chilies, and slivers of fresh ginger, this dish delivers an electrifying burst of authentic flavor.",
+    "ingredients": [
+      "800g bone-in chicken cut into small karahi pieces",
+      "5 large ripe tomatoes, halved",
+      "1/2 cup cooking oil or ghee",
+      "1.5 tbsp ginger paste and 1.5 tbsp garlic paste",
+      "1 tsp crushed red chili flakes",
+      "1 tsp cumin seeds (coarsely ground)",
+      "1 tbsp coriander seeds (coarsely ground)",
+      "1/2 tsp turmeric powder",
+      "1 tsp black pepper (freshly crushed)",
+      "1 tsp salt (to taste)",
+      "4-5 fresh green chilies (slit lengthwise)",
+      "Fresh ginger juliennes and cilantro for garnish"
+    ],
+    "instructions": [
+      "Heat oil or ghee in a heavy karahi or wok over high heat. Add chicken pieces and salt.",
+      "Sear chicken for 5-7 minutes until it turns pale white and develops light golden edges.",
+      "Add ginger paste and garlic paste; stir vigorously for 2 minutes until fragrant.",
+      "Place tomato halves skin-side up over the chicken. Cover with a lid and cook on medium heat for 8-10 minutes.",
+      "Remove the lid; the tomato skins will have softened. Peel off all tomato skins easily using tongs.",
+      "Mash the tomatoes into the gravy using a spoon while cooking on high flame to reduce moisture.",
+      "Add red chili flakes, crushed cumin, crushed coriander, and turmeric powder. Bhunno (fry) on high heat until oil separates from the masala.",
+      "Stir in crushed black pepper, green chilies, and ginger juliennes. Simmer for 3 minutes.",
+      "Garnish with chopped cilantro and serve sizzling hot."
+    ],
+    "chefTips": "Never add onions or water to an authentic street-style Lahori Karahi. The entire gravy relies on fresh ripe tomatoes cooked on high heat.",
+    "servingSuggestions": "Best served piping hot with fresh garlic naan, rofni naan, or tandoori roti and fresh mint raita.",
+    "storageInstructions": "Refrigerate in a sealed container for up to 3 days. Reheat in a karahi on medium heat with a splash of water.",
+    "nutrition": {
+      "calories": "380 kcal",
+      "protein": "34g",
+      "carbs": "10g",
+      "fat": "24g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "Why are tomato skins removed in Karahi?",
+        "answer": "Removing the skins ensures a smooth, glossy gravy that coats the chicken without tough skins in every bite."
+      },
+      {
+        "question": "Can I use boneless chicken?",
+        "answer": "Bone-in chicken yields richer flavor, but boneless chicken thighs can be substituted if cooked on medium-high heat."
+      }
+    ],
+    "related": [
+      "mutton-karahi",
+      "chicken-handi",
+      "butter-chicken"
+    ]
+  },
+  {
+    "id": "chicken-biryani",
+    "slug": "chicken-biryani",
+    "title": "Royal Special Chicken Biryani",
+    "category": "Rice Recipes",
+    "prepTime": "30 mins",
+    "cookTime": "45 mins",
+    "totalTime": "75 mins",
+    "servings": "6",
+    "difficulty": "Hard",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "A majestic layered rice dish featuring fragrant basmati rice, tender spiced chicken gravy, saffron milk, and crispy fried onions.",
+    "longDescription": "Nothing defines South Asian festive dining like a steaming pot of authentic Chicken Biryani. Chef Bubble's Special Biryani recipe blends long-grain aged Basmati rice with succulent chicken marinated in spiced yogurt, golden fried onions (birista), fresh mint, and kewra water. The secret lies in the ancient 'Dum' cooking method—sealing the heavy pot to trap aromatic steam, allowing every grain of rice to absorb the spicy chicken gravy while remaining distinct, fluffy, and aromatic.",
+    "ingredients": [
+      "1 kg long-grain aged Basmati rice (soaked for 30 mins)",
+      "1 kg chicken pieces (bone-in preferred)",
+      "1 cup thick yogurt (whisked)",
+      "3 large onions (sliced paper-thin and fried golden brown)",
+      "2 tbsp ginger-garlic paste",
+      "2 large tomatoes (chopped)",
+      "Whole spices: 2 bay leaves, 4 cardamom pods, 1 cinnamon stick, 4 cloves, 1 star anise",
+      "1 tbsp Biryani Masala powder",
+      "1 tsp red chili powder, 1/2 tsp turmeric powder",
+      "1/2 cup fresh mint leaves and 1/2 cup cilantro",
+      "Pinch of saffron dissolved in 3 tbsp warm milk + 1 tsp Kewra water",
+      "1/2 cup ghee or cooking oil"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, ginger-garlic paste, half fried onions, red chili powder, turmeric, biryani masala, and salt for 1 hour.",
+      "In a large pot, heat ghee/oil. Add whole spices, tomatoes, and marinated chicken. Cook for 15-20 minutes until chicken is tender and gravy thickens.",
+      "In a separate big pot, boil 3 liters of water with salt, mint leaves, and whole spices. Add soaked Basmati rice and cook until 70% done. Drain rice.",
+      "In a heavy-bottomed pot, spread half the cooked chicken gravy at the bottom.",
+      "Layer half the parboiled rice over the chicken, followed by remaining fried onions, chopped mint, cilantro, and saffron milk.",
+      "Add remaining chicken gravy and top with the second layer of rice. Drizzle melted ghee and kewra water over top.",
+      "Cover tightly with foil and lid (Dum). Cook on high heat for 5 mins, then lower flame to minimum for 20 mins.",
+      "Gently fluff rice layers with a wide saucer before serving."
+    ],
+    "chefTips": "Parboil rice strictly to 70-80% (it should feel firm in center when pinched); it finishes cooking perfectly during the 20-minute Dum steam phase.",
+    "servingSuggestions": "Serve hot with cool cucumber zeera raita, sliced red onions, and fresh plum chutney.",
+    "storageInstructions": "Refrigerate up to 3 days. Steam reheat with a sprinkle of water to restore fluffy rice texture.",
+    "nutrition": {
+      "calories": "550 kcal",
+      "protein": "32g",
+      "carbs": "68g",
+      "fat": "18g",
+      "fiber": "3g"
+    },
+    "faqs": [
+      {
+        "question": "Which rice is best for Biryani?",
+        "answer": "Always choose long-grain aged Basmati rice for superior aroma and non-sticky separate grains."
+      },
+      {
+        "question": "Can I make this biryani less spicy?",
+        "answer": "Reduce the red chili powder by half and add extra yogurt for a milder, creamier korma base."
+      }
+    ],
+    "related": [
+      "beef-biryani",
+      "chicken-pulao",
+      "chicken-qorma"
+    ]
+  },
+  {
+    "id": "beef-biryani",
+    "slug": "beef-biryani",
+    "title": "Karachi Style Spicy Beef Biryani",
+    "category": "Rice Recipes",
+    "prepTime": "35 mins",
+    "cookTime": "60 mins",
+    "totalTime": "95 mins",
+    "servings": "6",
+    "difficulty": "Hard",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Rich, robust beef biryani infused with dried plums (alubukhara), tangy tomatoes, spiced potatoes, and fragrant basmati rice.",
+    "longDescription": "Famous in Karachi street kitchens, Beef Biryani is celebrated for its tender chunks of beef, spiced potatoes, and dried sour plums that deliver a punchy sour-and-spicy balance. The beef is slow-cooked until melt-in-your-mouth soft before layering with steamed rice. The combination of rich beef broth and tangy tomatoes absorbed into every grain of rice creates a unforgettable feast.",
+    "ingredients": [
+      "1 kg beef (cut into curry size cubes)",
+      "1 kg long-grain Basmati rice",
+      "3 medium potatoes (peeled and quartered)",
+      "6 dried plums (Aloo Bukhara)",
+      "1 cup yogurt",
+      "4 medium tomatoes (sliced)",
+      "3 fried onions",
+      "2 tbsp ginger-garlic paste",
+      "Spices: Biryani masala, chili flakes, coriander, cumin, cloves, cardamom, star anise",
+      "Yellow food color + kewra essence",
+      "1/2 cup oil"
+    ],
+    "instructions": [
+      "Pressure cook beef with ginger-garlic paste, salt, and water for 25 minutes until 90% tender.",
+      "In a large pot, fry tomatoes, yogurt, dried plums, potatoes, and spices in oil until oil separates.",
+      "Add cooked beef with its rich broth into the masala; simmer until potatoes are tender and thick qorma forms.",
+      "Boil basmati rice in salted water with whole spices until 75% cooked. Drain.",
+      "Layer beef qorma and rice in a heavy pot. Sprinkle fried onions, yellow food color, and kewra water.",
+      "Seal with foil and lid. Steam (Dum) for 25 minutes on lowest heat setting.",
+      "Mix gently from the sides and serve hot."
+    ],
+    "chefTips": "Boiling potatoes directly in the beef qorma allows them to soak up rich spicy beef broth.",
+    "servingSuggestions": "Pair with chilled kachumber salad and mint raita.",
+    "storageInstructions": "Keeps well in fridge for 3 days; flavor often tastes even richer the next day.",
+    "nutrition": {
+      "calories": "610 kcal",
+      "protein": "36g",
+      "carbs": "72g",
+      "fat": "22g",
+      "fiber": "4g"
+    },
+    "faqs": [
+      {
+        "question": "Can I use mutton instead of beef?",
+        "answer": "Yes, mutton works fantastically with the exact same spices and procedure."
+      }
+    ],
+    "related": [
+      "chicken-biryani",
+      "beef-keema",
+      "nihari"
+    ]
+  },
+  {
+    "id": "chicken-tikka",
+    "slug": "chicken-tikka",
+    "title": "Smoky Charcoal Chicken Tikka",
+    "category": "Chicken Recipes",
+    "prepTime": "20 mins",
+    "cookTime": "25 mins",
+    "totalTime": "45 mins",
+    "servings": "4",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Flame-grilled chicken quarter legs marinated in hung curd, lemon juice, garlic, and fiery tandoori spices with a smoky charcoal finish.",
+    "longDescription": "Chicken Tikka is a classic barbecue staple loved worldwide. Chef Bubble's authentic formula marinates quarter chicken legs in tangy yogurt, Kashmiri red chili for natural ruby color, raw papaya for tenderness, and garlic-ginger paste. Skewered and grilled over hot coals or oven-broiled with coal smoke infusion, the skin gets crisp with charred edges while the meat inside remains piping hot and dripping juicy.",
+    "ingredients": [
+      "4 chicken leg quarters (deeply slashed)",
+      "1/2 cup thick hung yogurt",
+      "2 tbsp lemon juice",
+      "1.5 tbsp ginger-garlic paste",
+      "1 tbsp Kashmiri red chili powder",
+      "1 tsp crushed cumin, 1 tsp coriander powder, 1/2 tsp garam masala",
+      "1 tsp chaat masala",
+      "2 tbsp mustard oil or vegetable oil",
+      "1 red hot piece of charcoal + 1 tsp butter for smoke infusion"
+    ],
+    "instructions": [
+      "Make deep diagonal cuts across chicken leg quarters.",
+      "Whisk yogurt with lemon juice, ginger-garlic, Kashmiri chili, spices, oil, and salt to form a vibrant paste.",
+      "Rub marinade thoroughly into all chicken slits. Cover and refrigerate for at least 4 hours (overnight preferred).",
+      "Grill over outdoor charcoal grill OR bake at 220°C (425°F) for 25 minutes, turning midway and basting with butter.",
+      "For smoke infusion: place cooked chicken in a pot, put a small foil cup with burning hot charcoal inside, drop butter on charcoal, and cover tightly for 3 minutes."
+    ],
+    "chefTips": "Longer marination is key to soft meat fibers; hung yogurt prevents watery coating.",
+    "servingSuggestions": "Serve on a bed of sliced rings of onions with green chili mint chutney and lemon wedges.",
+    "storageInstructions": "Refrigerate up to 2 days or freeze marinated chicken for up to 1 month.",
+    "nutrition": {
+      "calories": "350 kcal",
+      "protein": "40g",
+      "carbs": "4g",
+      "fat": "18g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "How to get bright red color without artificial dye?",
+        "answer": "Kashmiri red chili powder provides intense vibrant crimson color without heat or artificial food dye."
+      }
+    ],
+    "related": [
+      "oven-baked-bbq-chicken",
+      "butter-chicken",
+      "chicken-shawarma"
+    ]
+  },
+  {
+    "id": "chicken-handi",
+    "slug": "chicken-handi",
+    "title": "Creamy Restaurant Style Chicken Handi",
+    "category": "Chicken Recipes",
+    "prepTime": "15 mins",
+    "cookTime": "25 mins",
+    "totalTime": "40 mins",
+    "servings": "4",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Boneless chicken cubes cooked in a clay pot gravy with onions, tomatoes, heavy cream, butter, and fragrant kasuri methi.",
+    "longDescription": "Chicken Handi gets its name from traditional clay pots ('handi') where curries are slowly simmered. This restaurant favorite features bite-sized boneless chicken cooked in a smooth, silky gravy enriched with butter, cream, and dry fenugreek leaves (kasuri methi). It is mild, buttery, and exceptionally velvety.",
+    "ingredients": [
+      "600g boneless chicken cubes",
+      "1/2 cup fresh heavy cream",
+      "2 tbsp butter + 2 tbsp oil",
+      "1 large onion (finely pureed)",
+      "2 medium tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp white pepper powder",
+      "1 tbsp dry fenugreek leaves (Kasuri Methi)",
+      "Green chilies & fresh ginger for garnish"
+    ],
+    "instructions": [
+      "Heat oil and butter in a handi or deep pot. Fry pureed onion until pale golden.",
+      "Add ginger-garlic paste and chicken cubes; sauté until chicken turns white.",
+      "Pour in tomato puree, cumin, coriander, white pepper, and salt. Cook until oil separates.",
+      "Reduce heat to low and fold in heavy cream and crushed Kasuri Methi.",
+      "Simmer for 5 minutes until gravy becomes glossy and smooth.",
+      "Top with sliced green chilies and butter knob before serving."
+    ],
+    "chefTips": "Rub kasuri methi between your palms before dropping into curry to release maximum aroma.",
+    "servingSuggestions": "Ideal with butter naan or sheermaal.",
+    "storageInstructions": "Keep refrigerated up to 2 days; warm gently on low heat.",
+    "nutrition": {
+      "calories": "460 kcal",
+      "protein": "32g",
+      "carbs": "8g",
+      "fat": "32g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "Can I make this without cream?",
+        "answer": "Cashew paste or thick Greek yogurt can be used as a lighter cream substitute."
+      }
+    ],
+    "related": [
+      "butter-chicken",
+      "chicken-karahi",
+      "white-sauce-pasta"
+    ]
+  },
+  {
+    "id": "butter-chicken",
+    "slug": "butter-chicken",
+    "title": "Classic Murgh Makhani (Butter Chicken)",
+    "category": "Chicken Recipes",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "totalTime": "50 mins",
+    "servings": "4",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Tender grilled tandoori chicken simmered in a velvety, buttery tomato gravy infused with cashews and honey.",
+    "longDescription": "Murgh Makhani is globally renowned for its silky texture and rich taste. Tandoori marinated chicken pieces are pre-grilled and bathed in a pureed tomato, cashew, and butter sauce sweetened with a touch of honey. Balanced with gentle spices and fresh cream, it offers pure comfort food perfection.",
+    "ingredients": [
+      "600g boneless chicken thighs (cut into cubes)",
+      "4 tbsp butter + 1 tbsp oil",
+      "1/2 cup raw cashews (soaked in warm water)",
+      "4 ripe tomatoes (boiled and pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp Kashmiri chili powder, 1/2 tsp garam masala",
+      "1 tbsp honey or sugar",
+      "1/2 cup cooking cream",
+      "1 tbsp crushed kasuri methi"
+    ],
+    "instructions": [
+      "Marinate chicken cubes in yogurt, chili, and garlic paste for 30 mins; pan grill until browned.",
+      "Blend soaked cashews with pureed tomatoes until completely smooth.",
+      "Melt butter in saucepan, add ginger-garlic paste, then pour in smooth cashew-tomato puree.",
+      "Add chili powder, salt, and honey. Simmer for 10 minutes until sauce thickens.",
+      "Add browned chicken, cream, and Kasuri Methi. Cook on low heat for 8 minutes.",
+      "Finish with a swirl of cream and extra butter."
+    ],
+    "chefTips": "Straining the tomato-cashew puree through a fine wire mesh sieve guarantees 100% silkiness.",
+    "servingSuggestions": "Serve with hot buttered Garlic Naan.",
+    "storageInstructions": "Refrigerate up to 3 days; freezes well for up to 1 month.",
+    "nutrition": {
+      "calories": "490 kcal",
+      "protein": "30g",
+      "carbs": "14g",
+      "fat": "35g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "Is Butter Chicken spicy?",
+        "answer": "No, Butter Chicken is traditionally mild and creamy with subtle aromatic spices."
+      }
+    ],
+    "related": [
+      "chicken-handi",
+      "chicken-tikka",
+      "white-sauce-pasta"
+    ]
+  },
+  {
+    "id": "chicken-pulao",
+    "slug": "chicken-pulao",
+    "title": "Aromatic Yakhni Chicken Pulao",
+    "category": "Rice Recipes",
+    "prepTime": "20 mins",
+    "cookTime": "40 mins",
+    "totalTime": "60 mins",
+    "servings": "5",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Subtly spiced basmati rice simmered in clear chicken broth (yakhni) with whole spices and caramelized onions.",
+    "longDescription": "Yakhni Pulao is an elegant, fragrant rice dish where chicken is first boiled with whole spices (coriander seeds, fennel, cardamom, cumin) to create a deeply flavorful broth (yakhni). Basmati rice is then cooked inside this concentrated broth, absorbing every drop of rich chicken flavor without heavy tomatoes or red chili.",
+    "ingredients": [
+      "750g chicken bone-in",
+      "3 cups long grain Basmati rice (soaked)",
+      "For Broth (Yakhni): 1 onion, 1 garlic head, 2 inch ginger, 2 tbsp coriander seeds, 1 tbsp fennel seeds, whole spice bouquet",
+      "2 medium onions (sliced thin)",
+      "1/2 cup yogurt",
+      "1/2 cup oil or ghee",
+      "4 green chilies"
+    ],
+    "instructions": [
+      "Boil chicken with broth ingredients in 6 cups water for 20 mins; strain clear Yakhni broth and set chicken aside.",
+      "In a main pot, fry sliced onions in ghee until medium brown.",
+      "Add ginger-garlic paste, chicken pieces, yogurt, and green chilies. Fry for 5 mins.",
+      "Pour in measured Yakhni broth (approx 5 cups) and bring to a rolling boil.",
+      "Add soaked rice, adjust salt, and cook on high heat until water reduces.",
+      "Cover pot tightly and steam (Dum) on low heat for 15 minutes."
+    ],
+    "chefTips": "Tying fennel seeds and coriander seeds in a cheesecloth bundle (potli) makes straining the broth effortless.",
+    "servingSuggestions": "Serve with zeera mint yogurt and fresh salad.",
+    "storageInstructions": "Refrigerate up to 3 days.",
+    "nutrition": {
+      "calories": "480 kcal",
+      "protein": "28g",
+      "carbs": "62g",
+      "fat": "14g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "What is the difference between Biryani and Pulao?",
+        "answer": "Biryani is layered with spicy gravy and cooked rice, whereas Pulao cooks rice directly in seasoned chicken broth."
+      }
+    ],
+    "related": [
+      "chicken-biryani",
+      "daal-chawal",
+      "aloo-gosht"
+    ]
+  },
+  {
+    "id": "mutton-karahi",
+    "slug": "mutton-karahi",
+    "title": "Shinwari Mutton Karahi",
+    "category": "Pakistani Recipes",
+    "prepTime": "15 mins",
+    "cookTime": "45 mins",
+    "totalTime": "60 mins",
+    "servings": "4",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1545247181-516773cae754?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Peshawari style succulent mutton cooked in animal fat or ghee with fresh tomatoes, black pepper, and green chilies.",
+    "longDescription": "Hailing from Pashtun food streets in Khyber Pakhtunkhwa, Shinwari Mutton Karahi relies on extreme simplicity: tender young mutton, salt, tomatoes, black pepper, and green chilies. No onion, garlic paste, or red powder is added—allowing the natural sweet meat juices and tomato reduction to shine.",
+    "ingredients": [
+      "800g fresh mutton (goat/lamb with fat)",
+      "6 ripe tomatoes (cut in half)",
+      "1/2 cup ghee or cooking fat",
+      "1.5 tsp salt",
+      "1.5 tsp freshly coarsely ground black pepper",
+      "6 green chilies (slit)",
+      "Ginger juliennes"
+    ],
+    "instructions": [
+      "In a wok or karahi, heat ghee. Add mutton and salt; stir fry on high flame for 8 minutes until color turns dark.",
+      "Cover and cook on medium low heat for 25 minutes in mutton's own juices until tender.",
+      "Place tomato halves over mutton, cover for 7 mins, then peel off tomato skins.",
+      "Bhunno (fry on high heat) while mashing tomatoes until gravy turns rich and thick.",
+      "Throw in coarsely crushed black pepper and green chilies. Simmer for 2 minutes and serve."
+    ],
+    "chefTips": "Coarsely ground black pepper added at the very end prevents gravy from turning dark while delivering fresh heat.",
+    "servingSuggestions": "Eat with hot Peshawari Khameeri Naan.",
+    "storageInstructions": "Refrigerate up to 3 days.",
+    "nutrition": {
+      "calories": "520 kcal",
+      "protein": "36g",
+      "carbs": "6g",
+      "fat": "38g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "Can I cook mutton in pressure cooker first?",
+        "answer": "Yes, pressure cook mutton for 10 minutes to shorten total time before finishing in the karahi."
+      }
+    ],
+    "related": [
+      "chicken-karahi",
+      "nihari",
+      "beef-keema"
+    ]
+  },
+  {
+    "id": "beef-keema",
+    "slug": "beef-keema",
+    "title": "Spicy Dhaba Style Beef Keema Matar",
+    "category": "Beef & Mutton",
+    "prepTime": "15 mins",
+    "cookTime": "30 mins",
+    "totalTime": "45 mins",
+    "servings": "4",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Savory minced beef sautéed with green peas, onions, tomatoes, and aromatic warm spices.",
+    "longDescription": "Beef Keema Matar is a fast, flavor-packed minced meat dish. Hand-ground minced beef is simmered with onions, garlic, ginger, sweet green peas, and warm spices until rich, dry, and glistening with spicy gravy.",
+    "ingredients": [
+      "600g lean minced beef (keema)",
+      "1 cup sweet green peas (fresh or frozen)",
+      "2 large onions (finely chopped)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin, 1.5 tsp coriander powder, 1 tsp chili powder, 1/2 tsp turmeric",
+      "1 tsp garam masala powder",
+      "Fresh mint & cilantro"
+    ],
+    "instructions": [
+      "Heat oil in pan; fry onions until golden brown.",
+      "Add ginger-garlic and minced beef; break up meat clumps and fry on high heat for 7 minutes.",
+      "Add tomatoes, chili powder, turmeric, coriander, and salt. Cover and cook for 15 mins.",
+      "Add green peas and 1/4 cup water. Simmer until peas are tender.",
+      "Finish with garam masala, green chilies, and mint leaves."
+    ],
+    "chefTips": "Searing mincemeat on high heat evaporates liquid quickly and prevents boiled texture.",
+    "servingSuggestions": "Serve with hot crispy parathas or naan.",
+    "storageInstructions": "Refrigerate up to 3 days; makes excellent sandwich fillings next day.",
+    "nutrition": {
+      "calories": "390 kcal",
+      "protein": "32g",
+      "carbs": "12g",
+      "fat": "24g",
+      "fiber": "3g"
+    },
+    "faqs": [
+      {
+        "question": "Can I use mutton mince?",
+        "answer": "Absolutely! Mince of lamb or mutton works perfectly."
+      }
+    ],
+    "related": [
+      "aloo-paratha",
+      "beef-biryani",
+      "chicken-samosa"
+    ]
+  },
+  {
+    "id": "chicken-qorma",
+    "slug": "chicken-qorma",
+    "title": "Shahi Shadiyon Wala Chicken Qorma",
+    "category": "Pakistani Recipes",
+    "prepTime": "20 mins",
+    "cookTime": "35 mins",
+    "totalTime": "55 mins",
+    "servings": "5",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Rich festive wedding style chicken qorma with grainy onion-yogurt gravy, nutmeg, mace, and kewra.",
+    "longDescription": "Traditional Pakistani wedding Qorma is distinguished by its golden brown grainy gravy (danedar) achieved by crushing crisp fried onions into whipped yogurt along with nutmeg, mace, and kewra water. Elegant, rich, and regal.",
+    "ingredients": [
+      "800g bone-in chicken",
+      "1 cup yogurt (whisked thoroughly)",
+      "2 large onions (sliced thin, fried dark golden and crushed)",
+      "1 tbsp ginger-garlic paste",
+      "Whole spices: black cardamom, cloves, cinnamon, green cardamom",
+      "Pinch of nutmeg (jaiphal) & mace (javitri) powder",
+      "1 tsp kewra water",
+      "1/2 cup ghee"
+    ],
+    "instructions": [
+      "In ghee, fry whole spices and chicken until chicken turns light golden.",
+      "Add ginger-garlic paste, red chili powder, coriander powder, turmeric, and salt.",
+      "Pour whisked yogurt and cook until oil separates.",
+      "Mix crushed fried onions into the gravy; gravy will instantly turn thick and grainy (danedar).",
+      "Add 1 cup water, cover, and simmer for 15 mins until chicken is tender.",
+      "Sprinkle nutmeg-mace powder and kewra water. Cover for 2 minutes before opening."
+    ],
+    "chefTips": "Crush fried onions with hands or mortar pestle, never blend in electric blender to keep danedar texture.",
+    "servingSuggestions": "Serve with Taftan, Roghani Naan, or Sheermal.",
+    "storageInstructions": "Refrigerate up to 3 days.",
+    "nutrition": {
+      "calories": "470 kcal",
+      "protein": "35g",
+      "carbs": "11g",
+      "fat": "32g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "What gives qorma its signature aroma?",
+        "answer": "Nutmeg, mace powder, and kewra water added in final step create authentic wedding qorma aroma."
+      }
+    ],
+    "related": [
+      "chicken-biryani",
+      "butter-chicken",
+      "chicken-handi"
+    ]
+  },
+  {
+    "id": "aloo-gosht",
+    "slug": "aloo-gosht",
+    "title": "Homestyle Aloo Gosht Gravy",
+    "category": "Pakistani Recipes",
+    "prepTime": "15 mins",
+    "cookTime": "40 mins",
+    "totalTime": "55 mins",
+    "servings": "5",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Comforting mutton meat and potato curry with clear thin savory gravy spiced with warm spices and fresh coriander.",
+    "longDescription": "Aloo Gosht is the quintessential Pakistani soul food served at family Sunday lunches. Soft potatoes soak up the rich, flavorful meat broth made from tender mutton or beef.",
+    "ingredients": [
+      "700g mutton or beef with bones",
+      "3 medium potatoes (peeled and halved)",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp red chili, 1/2 tsp turmeric, 1.5 tsp coriander powder",
+      "1 tsp Garam Masala",
+      "4 tbsp oil"
+    ],
+    "instructions": [
+      "Pressure cook meat with onions, ginger-garlic, tomatoes, red chili, turmeric, salt, and water for 18 mins.",
+      "Open cooker, add oil and coriander powder, and fry (bhunno) until oil separates.",
+      "Add potato halves and fry for 3 minutes.",
+      "Add 3 cups water for gravy, cover and cook until potatoes are tender.",
+      "Garnish with garam masala and fresh coriander."
+    ],
+    "chefTips": "Halving potatoes keeps them firm without turning mushy into gravy.",
+    "servingSuggestions": "Serve with plain white boiled rice or hot chapatis.",
+    "storageInstructions": "Refrigerate up to 3 days.",
+    "nutrition": {
+      "calories": "410 kcal",
+      "protein": "30g",
+      "carbs": "22g",
+      "fat": "22g",
+      "fiber": "3g"
+    },
+    "faqs": [
+      {
+        "question": "Can I make Aloo Gosht with chicken?",
+        "answer": "Yes, chicken cooks much faster (15 mins total)."
+      }
+    ],
+    "related": [
+      "nihari",
+      "mutton-karahi",
+      "daal-chawal"
+    ]
+  },
+  {
+    "id": "nihari",
+    "slug": "nihari",
+    "title": "Authentic Royal Beef Nihari",
+    "category": "Pakistani Recipes",
+    "prepTime": "25 mins",
+    "cookTime": "180 mins",
+    "totalTime": "205 mins",
+    "servings": "6",
+    "difficulty": "Hard",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Slow-cooked beef shank curry in a velvety flour-thickened broth with floating spiced oil (tari) and fresh herbs.",
+    "longDescription": "Nihari is a historic Mughlai dish traditionally slow-simmered overnight. Beef shank (bong) and marrow bones are cooked in a spice gravy containing fennel, dry ginger (sonth), and whole spices. Thickened with roasted wheat flour slurry and topped with spicy ghee tari, ginger juliennes, and lime.",
+    "ingredients": [
+      "1 kg beef shank (Bong meat) + marrow bones",
+      "1/2 cup ghee",
+      "Nihari masala: 2 tbsp fennel seeds, 1 tbsp dry ginger powder, mace, nutmeg, black pepper, cardamom, cinnamon",
+      "1/2 cup wheat flour (atta) roasted light brown",
+      "Garnish: fresh ginger juliennes, green chilies, lemon wedges, fried onions"
+    ],
+    "instructions": [
+      "Heat ghee, fry ginger-garlic and beef shank with bones until seared.",
+      "Add Nihari spice powder and salt; fry for 5 minutes.",
+      "Pour 6-8 cups water, cover, and simmer on low flame for 3 hours (or 45 mins in pressure cooker) until meat is butter-soft.",
+      "Dissolve roasted flour in water to make a smooth slurry; pour slowly into stew while stirring continuously.",
+      "Simmer for 20 minutes as gravy thickens to silky finish.",
+      "Serve piping hot topped with extra spiced ghee (tari), ginger juliennes, and lemon juice."
+    ],
+    "chefTips": "Slow cooking over low heat breaks down connective tissue in shank meat into melting tenderness.",
+    "servingSuggestions": "Serve hot with hot Khamiri Naan or Garlic Tandoori Naan.",
+    "storageInstructions": "Refrigerate up to 4 days; Nihari flavor intensifies overnight.",
+    "nutrition": {
+      "calories": "580 kcal",
+      "protein": "42g",
+      "carbs": "16g",
+      "fat": "38g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "What meat cut is best for Nihari?",
+        "answer": "Beef shank (Bong) with marrow bones yields authentic silky broth and tender texture."
+      }
+    ],
+    "related": [
+      "haleem",
+      "aloo-gosht",
+      "mutton-karahi"
+    ]
+  },
+  {
+    "id": "haleem",
+    "slug": "haleem",
+    "title": "Special Shahi Beef Haleem / Khichda",
+    "category": "Pakistani Recipes",
+    "prepTime": "40 mins",
+    "cookTime": "150 mins",
+    "totalTime": "190 mins",
+    "servings": "8",
+    "difficulty": "Hard",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Slow-cooked stew of 7 grains, lentils, and shredded meat blended into a creamy rich paste topped with fried onions.",
+    "longDescription": "Haleem is a nutritious royal dish made by slow-cooking cracked wheat, barley, four types of lentils, and beef or chicken for hours until meat fibers stretch and blend completely into the grains. Garnished with golden onions, chaat masala, mint, and lemon.",
+    "ingredients": [
+      "500g beef or chicken meat",
+      "1 cup cracked wheat (daliya)",
+      "1/2 cup barley (jow/jao)",
+      "1/4 cup each: Chana daal, Moong daal, Masoor daal, Mash daal, Rice",
+      "1 cup ghee",
+      "2 tbsp ginger-garlic paste",
+      "Spices: Haleem masala powder, red chili, turmeric, garam masala",
+      "Garnish: fried onions, mint, green chili, ginger, lemon"
+    ],
+    "instructions": [
+      "Soak grains and lentils overnight. Boil until completely soft and blend coarsely.",
+      "Cook meat with ginger-garlic, spices, and ghee until falling apart tender; shred meat thoroughly.",
+      "Combine shredded meat and boiled grains in a large pot.",
+      "Mash continuously with wooden mallet (ghota) for 30 minutes until stretchy smooth paste forms.",
+      "Pour hot tadka ghee over top and garnish with crispy fried onions."
+    ],
+    "chefTips": "Using a hand wooden ghota breaks meat fibers into famous stretchy silk texture.",
+    "servingSuggestions": "Serve with fresh lemon wedges, chaat masala, and naan.",
+    "storageInstructions": "Freezes exceptionally well up to 1 month.",
+    "nutrition": {
+      "calories": "510 kcal",
+      "protein": "34g",
+      "carbs": "48g",
+      "fat": "20g",
+      "fiber": "8g"
+    },
+    "faqs": [
+      {
+        "question": "Can I make Haleem with chicken?",
+        "answer": "Yes! Chicken Haleem cooks faster and tastes equally delicious."
+      }
+    ],
+    "related": [
+      "nihari",
+      "daal-chawal",
+      "beef-keema"
+    ]
+  },
+  {
+    "id": "daal-chawal",
+    "slug": "daal-chawal",
+    "title": "Tadka Daal Chawal with Zeera Rice",
+    "category": "Pakistani Recipes",
+    "prepTime": "15 mins",
+    "cookTime": "30 mins",
+    "totalTime": "45 mins",
+    "servings": "4",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Yellow yellow lentil curry tempered with garlic, cumin, and red chilies in ghee served over cumin rice.",
+    "longDescription": "Daal Chawal is the ultimate Pakistani home comfort food. Yellow split lentils (Moong and Masoor) are simmered with turmeric and garlic, then finished with sizzling hot ghee tadka infused with sliced garlic, cumin seeds, and whole dry red chilies.",
+    "ingredients": [
+      "1 cup Moong Daal + 1 cup Masoor Daal (washed)",
+      "4 cups water",
+      "1/2 tsp turmeric, 1 tsp red chili powder, 1 tsp salt",
+      "For Tadka (Tempering): 3 tbsp ghee, 5 cloves garlic (sliced), 1 tsp cumin seeds, 3 dry red chilies, curry leaves",
+      "2 cups Basmati rice cooked with 1 tsp cumin seeds (Zeera Rice)"
+    ],
+    "instructions": [
+      "Boil lentils in water with turmeric, chili powder, garlic paste, and salt for 20 mins until soft; whisk well.",
+      "Cook cumin Basmati rice separately.",
+      "Prepare Tadka: Heat ghee in small pan, add garlic slices until golden brown, then toss cumin seeds and red dry chilies.",
+      "Sizzle hot tadka directly into warm lentil pot; cover immediately to seal aroma.",
+      "Serve over hot Zeera rice with pickle."
+    ],
+    "chefTips": "Covering the pot right after pouring hot tadka seals garlic-cumin aroma into lentils.",
+    "servingSuggestions": "Serve with mango pickle (achaar), crisp papadum, and onion salad.",
+    "storageInstructions": "Refrigerate up to 3 days.",
+    "nutrition": {
+      "calories": "360 kcal",
+      "protein": "16g",
+      "carbs": "60g",
+      "fat": "8g",
+      "fiber": "6g"
+    },
+    "faqs": [
+      {
+        "question": "Can I use ghee for tempering?",
+        "answer": "Desi ghee delivers the finest rich aroma for lentil tempering."
+      }
+    ],
+    "related": [
+      "kadhi-pakora",
+      "chicken-pulao",
+      "aloo-paratha"
+    ]
+  },
+  {
+    "id": "kadhi-pakora",
+    "slug": "kadhi-pakora",
+    "title": "Punjabi Kadhi Pakora",
+    "category": "Pakistani Recipes",
+    "prepTime": "20 mins",
+    "cookTime": "45 mins",
+    "totalTime": "65 mins",
+    "servings": "5",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Tangy yogurt and gram flour curry cooked with crunchy onion fritters and aromatic chili ghee tempering.",
+    "longDescription": "Kadhi Pakora features crispy spiced onion gram flour fritters (pakoras) submerged in a simmering sour yogurt and besan curry. Tempered with red chilies, mustard seeds, and curry leaves.",
+    "ingredients": [
+      "For Kadhi: 2 cups sour yogurt, 1/2 cup besan (gram flour), 1 tsp turmeric, 1 tsp chili powder, 4 cups water",
+      "For Pakoras: 1 cup besan, 2 chopped onions, green chilies, cilantro, cumin seeds, pinch baking soda, oil for frying",
+      "For Tempering: 3 tbsp ghee, fenugreek seeds, mustard seeds, cumin, whole red chilies"
+    ],
+    "instructions": [
+      "Whisk yogurt, besan, turmeric, chili powder, and water until smooth without lumps. Simmer on low heat for 35 minutes.",
+      "Mix pakora ingredients with water into thick batter; drop spoonfuls into hot oil and fry golden.",
+      "Drop hot pakoras into simmering yogurt curry.",
+      "Heat ghee, sizzle tempering spices, and pour over kadhi."
+    ],
+    "chefTips": "Use slightly sour yogurt for authentic tangy Kadhi flavor.",
+    "servingSuggestions": "Serve hot with plain boiled Basmati rice.",
+    "storageInstructions": "Refrigerate up to 3 days; pakoras soak up gravy making it thicker next day.",
+    "nutrition": {
+      "calories": "390 kcal",
+      "protein": "14g",
+      "carbs": "42g",
+      "fat": "18g",
+      "fiber": "5g"
+    },
+    "faqs": [
+      {
+        "question": "How to make yogurt sour naturally?",
+        "answer": "Leave yogurt out at room temperature for 4-5 hours before cooking."
+      }
+    ],
+    "related": [
+      "daal-chawal",
+      "vegetable-spring-rolls",
+      "aloo-paratha"
+    ]
+  },
+  {
+    "id": "aloo-paratha",
+    "slug": "aloo-paratha",
+    "title": "Crispy Stuffed Aloo Paratha",
+    "category": "Breakfast",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "totalTime": "35 mins",
+    "servings": "4",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Flaky whole wheat flatbread stuffed with spiced mashed potatoes cooked golden with ghee.",
+    "longDescription": "A popular breakfast staple! Crisp on the outside and soft inside, stuffed with spiced boiled potatoes, coriander, green chilies, and dry pomegranate seeds (anardana).",
+    "ingredients": [
+      "2 cups whole wheat flour (atta) kneaded into dough",
+      "3 boiled mashed potatoes",
+      "1 tsp crushed cumin, 1 tsp coriander seeds, 1/2 tsp red chili, 1 tsp dry pomegranate seeds (anardana)",
+      "Fresh cilantro & green chilies",
+      "Ghee or butter for frying"
+    ],
+    "instructions": [
+      "Mix mashed potatoes with spices, herbs, and salt.",
+      "Roll small dough ball into disc, place potato stuffing in center, pinch edges together and flatten.",
+      "Roll gently into stuffed round paratha.",
+      "Cook on hot skillet (tawa), apply ghee on both sides, and fry until golden crisp spots form."
+    ],
+    "chefTips": "Ensure mashed potatoes have no hard lumps to prevent tear while rolling.",
+    "servingSuggestions": "Serve piping hot with fresh dollop of white butter and spicy mango pickle.",
+    "storageInstructions": "Best eaten fresh; cooked parathas can be reheated on tawa.",
+    "nutrition": {
+      "calories": "320 kcal",
+      "protein": "7g",
+      "carbs": "48g",
+      "fat": "12g",
+      "fiber": "4g"
+    },
+    "faqs": [
+      {
+        "question": "How to prevent paratha from bursting while rolling?",
+        "answer": "Ensure potato stuffing is cool and finely mashed before stuffing into dough."
+      }
+    ],
+    "related": [
+      "french-toast",
+      "chicken-samosa",
+      "beef-keema"
+    ]
+  },
+  {
+    "id": "chicken-samosa",
+    "slug": "chicken-samosa",
+    "title": "Crispy Golden Chicken Samosa",
+    "category": "Fast Food",
+    "prepTime": "30 mins",
+    "cookTime": "20 mins",
+    "totalTime": "50 mins",
+    "servings": "10 samosas",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Deep-fried triangular pastry stuffed with savory minced chicken, green peas, and warm spices.",
+    "longDescription": "Samosas are the king of tea-time snacks! Flaky pastry filled with seasoned minced chicken, green chilies, and herbs fried to crunchy perfection.",
+    "ingredients": [
+      "10 samosa pastry sheets (or flour dough discs)",
+      "300g cooked minced chicken",
+      "1 finely chopped onion",
+      "1 tsp cumin, 1 tsp garam masala, 1/2 tsp chili flakes",
+      "1/2 cup green peas",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Sauté minced chicken with onions, peas, spices, and green herbs until dry.",
+      "Fold pastry sheet into cone shape, fill with chicken mixture, seal edges with flour paste.",
+      "Deep fry in medium-hot oil until golden brown and crispy."
+    ],
+    "chefTips": "Frying on medium-low oil temperature yields extra flaky crispy crust.",
+    "servingSuggestions": "Serve with tamarind chutney and green mint chutney.",
+    "storageInstructions": "Unfried samosas can be frozen for up to 1 month.",
+    "nutrition": {
+      "calories": "220 kcal (per piece)",
+      "protein": "11g",
+      "carbs": "18g",
+      "fat": "12g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "Can I air fry samosas?",
+        "answer": "Yes, brush with oil and air fry at 190°C (375°F) for 12-15 minutes."
+      }
+    ],
+    "related": [
+      "vegetable-spring-rolls",
+      "zinger-burger",
+      "chicken-shawarma"
+    ]
+  },
+  {
+    "id": "vegetable-spring-rolls",
+    "slug": "vegetable-spring-rolls",
+    "title": "Crispy Chinese Vegetable Spring Rolls",
+    "category": "Fast Food",
+    "prepTime": "25 mins",
+    "cookTime": "15 mins",
+    "totalTime": "40 mins",
+    "servings": "8 rolls",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Thin crispy spring roll sheets wrapped around stir-fried shredded cabbage, carrots, bell peppers, and soy sauce.",
+    "longDescription": "A crunchy Asian appetizer loaded with colorful shredded vegetables stir-fried on high flame with soy sauce, sesame oil, and black pepper wrapped in thin spring roll sheets.",
+    "ingredients": [
+      "8 spring roll wrapper sheets",
+      "2 cups shredded cabbage",
+      "1 cup julienned carrots & bell peppers",
+      "1 tbsp soy sauce, 1 tbsp chili sauce, 1 tsp black pepper",
+      "1 tbsp cornstarch paste for sealing",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Stir fry shredded vegetables on high heat for 3 minutes with soy sauce, pepper, and salt; cool completely.",
+      "Place filling on spring roll sheet corner, roll tightly, fold sides, and seal with cornstarch paste.",
+      "Fry in hot oil until golden crisp."
+    ],
+    "chefTips": "Cool veggie filling completely before rolling to keep wrappers crisp.",
+    "servingSuggestions": "Serve with sweet chili dip.",
+    "storageInstructions": "Freeze wrapped rolls up to 1 month.",
+    "nutrition": {
+      "calories": "180 kcal (per roll)",
+      "protein": "4g",
+      "carbs": "22g",
+      "fat": "8g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "How to keep spring rolls crisp longer?",
+        "answer": "Ensure filling is moisture-free and fry on medium heat."
+      }
+    ],
+    "related": [
+      "chicken-samosa",
+      "chicken-noodles",
+      "zinger-burger"
+    ]
+  },
+  {
+    "id": "chicken-shawarma",
+    "slug": "chicken-shawarma",
+    "title": "Middle Eastern Street Style Chicken Shawarma",
+    "category": "Fast Food",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "totalTime": "35 mins",
+    "servings": "4",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Spiced grilled chicken slices wrapped in pita bread with garlic toum sauce, pickled cucumbers, and french fries.",
+    "longDescription": "Street style shawarma with spiced grilled chicken strips, creamy homemade garlic mayo (toum), pickled turnips, fresh cucumber slices, and crispy fries wrapped snugly in warm pita bread.",
+    "ingredients": [
+      "500g boneless chicken strips",
+      "4 pita or flatbread wraps",
+      "1/2 cup garlic mayonnaise sauce (Toum)",
+      "Pickled cucumbers & jalapenos",
+      "French fries",
+      "Shawarma seasoning: cumin, paprika, garlic powder, cardamom, cinnamon, lemon juice"
+    ],
+    "instructions": [
+      "Marinate chicken strips with shawarma spices, lemon juice, yogurt, and olive oil for 30 mins.",
+      "Pan grill chicken strips on high heat until charred and tender.",
+      "Spread garlic toum sauce over pita bread.",
+      "Layer grilled chicken, pickles, and fries; roll tightly in parchment paper."
+    ],
+    "chefTips": "Toasting wrapped shawarma on a hot grill pan seals the roll and warms the bread.",
+    "servingSuggestions": "Serve with extra garlic sauce and french fries.",
+    "storageInstructions": "Eat immediately for best crisp wrap texture.",
+    "nutrition": {
+      "calories": "520 kcal",
+      "protein": "32g",
+      "carbs": "48g",
+      "fat": "22g",
+      "fiber": "3g"
+    },
+    "faqs": [
+      {
+        "question": "How to make authentic garlic shawarma sauce?",
+        "answer": "Emulsify garlic, oil, lemon juice, and egg white or mayo until fluffy white."
+      }
+    ],
+    "related": [
+      "zinger-burger",
+      "chicken-tikka",
+      "chicken-pizza"
+    ]
+  },
+  {
+    "id": "zinger-burger",
+    "slug": "zinger-burger",
+    "title": "Crispy KFC Style Zinger Burger",
+    "category": "Fast Food",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "totalTime": "35 mins",
+    "servings": "2 burgers",
+    "difficulty": "Easy",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Extra crunchy fried chicken thigh fillet in toasted sesame bun with iceberg lettuce and spicy mayo.",
+    "longDescription": "The ultimate fast food dream! Succulent buttermilk marinated chicken fillet double-dusted in seasoned flour creating craggy crispy coating, fried golden, and layered with spicy mayonnaise and fresh iceberg lettuce in toasted sesame buns.",
+    "ingredients": [
+      "2 boneless chicken thigh fillets",
+      "1 cup buttermilk",
+      "1.5 cups plain flour + 2 tbsp cornstarch",
+      "Paprika, garlic powder, pepper, salt, chili powder",
+      "2 burger buns",
+      "Iceberg lettuce & mayo sauce",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Marinate chicken fillets in buttermilk and hot sauce for 1 hour.",
+      "Mix flour with cornstarch and seasonings.",
+      "Dip chicken fillet in seasoned flour, submerge briefly in ice water, then re-coat in flour pressing firmly for craggy coating.",
+      "Deep fry at 170°C for 7 minutes until crispy golden.",
+      "Assemble burger with toasted buns, spicy mayo, crisp chicken zinger fillet, and lettuce."
+    ],
+    "chefTips": "The flour-ice water-flour double dip technique creates trademark crunchy zinger flakiness.",
+    "servingSuggestions": "Serve with golden french fries and coleslaw.",
+    "storageInstructions": "Best eaten fresh right after frying.",
+    "nutrition": {
+      "calories": "620 kcal",
+      "protein": "34g",
+      "carbs": "54g",
+      "fat": "28g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "Why thigh fillet instead of breast?",
+        "answer": "Chicken thigh fillet remains far juicier after deep frying."
+      }
+    ],
+    "related": [
+      "chicken-shawarma",
+      "chicken-pizza",
+      "oven-baked-bbq-chicken"
+    ]
+  },
+  {
+    "id": "chicken-pizza",
+    "slug": "chicken-pizza",
+    "title": "Homemade Cheesy Chicken Fajita Pizza",
+    "category": "Fast Food",
+    "prepTime": "30 mins",
+    "cookTime": "20 mins",
+    "totalTime": "50 mins",
+    "servings": "1 large pizza",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Fluffy homemade pizza crust topped with spicy fajita chicken, peppers, tomatoes, oregano, and gooey mozzarella cheese.",
+    "longDescription": "Freshly baked homemade pizza with a light, airy dough crust, rich tomato pizza sauce, spicy fajita chicken chunks, bell peppers, onions, black olives, and melted stretchy Mozzarella cheese.",
+    "ingredients": [
+      "2 cups pizza flour dough (yeast raised)",
+      "1 cup spiced fajita chicken chunks",
+      "1/2 cup pizza sauce",
+      "1.5 cups Mozzarella & Cheddar cheese shredded",
+      "Sliced bell peppers, onions, black olives, oregano"
+    ],
+    "instructions": [
+      "Roll out pizza dough on pan and prick with fork.",
+      "Spread tomato pizza sauce evenly over base.",
+      "Generously layer cheese, spiced cooked chicken chunks, peppers, onions, and olives.",
+      "Bake in preheated oven at 230°C (450°F) for 15-18 minutes until cheese bubbles golden."
+    ],
+    "chefTips": "Preheating baking pan ensures crisp bottom crust without sogginess.",
+    "servingSuggestions": "Serve with chili flakes and garlic mayo dip.",
+    "storageInstructions": "Refrigerate leftovers; reheat in skillet or oven.",
+    "nutrition": {
+      "calories": "290 kcal (per slice)",
+      "protein": "16g",
+      "carbs": "32g",
+      "fat": "12g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "How long to proof yeast dough?",
+        "answer": "Allow dough to rise in warm spot for 1 hour until doubled in size."
+      }
+    ],
+    "related": [
+      "zinger-burger",
+      "white-sauce-pasta",
+      "chicken-shawarma"
+    ]
+  },
+  {
+    "id": "white-sauce-pasta",
+    "slug": "white-sauce-pasta",
+    "title": "Creamy Garlic White Sauce Pasta (Alfredo)",
+    "category": "Fast Food",
+    "prepTime": "15 mins",
+    "cookTime": "20 mins",
+    "totalTime": "35 mins",
+    "servings": "3",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3def6164286?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Penne pasta tossed in rich butter, garlic, heavy cream, parmesan, and sautéed chicken with herbs.",
+    "longDescription": "Decadent fettuccine or penne pasta smothered in homemade garlic Alfredo white sauce made with butter, heavy cream, parmesan cheese, black pepper, and oregano.",
+    "ingredients": [
+      "250g Penne or Fettuccine pasta boiled al dente",
+      "2 tbsp butter",
+      "1 tbsp minced garlic",
+      "1 cup heavy cream + 1/2 cup milk",
+      "1/2 cup grated Parmesan cheese",
+      "1 cup grilled chicken strips",
+      "1 tsp oregano, 1/2 tsp crushed black pepper"
+    ],
+    "instructions": [
+      "Boil pasta in salted water until al dente; reserve 1/2 cup pasta water.",
+      "Melt butter in skillet, sauté garlic for 1 minute.",
+      "Pour in cream and milk; simmer for 3 minutes until smooth.",
+      "Stir in Parmesan cheese, oregano, black pepper, grilled chicken, and pasta.",
+      "Toss well, adding reserved pasta water if needed for creamy texture."
+    ],
+    "chefTips": "Always cook pasta al dente so it absorbs white sauce without turning mushy.",
+    "servingSuggestions": "Serve hot with toasted garlic bread.",
+    "storageInstructions": "Reheat with splash of milk to loosen cream sauce.",
+    "nutrition": {
+      "calories": "520 kcal",
+      "protein": "22g",
+      "carbs": "52g",
+      "fat": "26g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "Can I add vegetables?",
+        "answer": "Broccoli, mushrooms, and bell peppers pair wonderfully with white sauce."
+      }
+    ],
+    "related": [
+      "chicken-noodles",
+      "chicken-pizza",
+      "butter-chicken"
+    ]
+  },
+  {
+    "id": "chicken-noodles",
+    "slug": "chicken-noodles",
+    "title": "Desi Chinese Chicken Chow Mein Noodles",
+    "category": "Fast Food",
+    "prepTime": "15 mins",
+    "cookTime": "15 mins",
+    "totalTime": "30 mins",
+    "servings": "3",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Stir-fried egg noodles with chicken strips, crisp cabbage, carrots, bell peppers, soy sauce, and chili vinegar.",
+    "longDescription": "Street style Indo-Chinese Chow Mein noodles flash stir-fried on high heat with sliced chicken, crunchy vegetables, dark soy sauce, chili sauce, and sesame oil.",
+    "ingredients": [
+      "250g egg noodles (boiled)",
+      "200g chicken strips",
+      "1 cup shredded cabbage, carrots, capsicum",
+      "2 tbsp soy sauce, 1 tbsp chili sauce, 1 tbsp vinegar, 1 tsp crushed black pepper",
+      "2 tbsp oil"
+    ],
+    "instructions": [
+      "Stir fry chicken strips in hot oil until cooked.",
+      "Add garlic and shredded vegetables; toss on high flame for 2 minutes.",
+      "Add boiled noodles, soy sauce, chili sauce, vinegar, black pepper, and salt.",
+      "Toss vigorously on high heat for 3 minutes and serve hot."
+    ],
+    "chefTips": "Cooking on high flame yields authentic wok hei smoky flavor.",
+    "servingSuggestions": "Serve hot with hot sauce or chili vinegar.",
+    "storageInstructions": "Refrigerate up to 2 days.",
+    "nutrition": {
+      "calories": "410 kcal",
+      "protein": "24g",
+      "carbs": "56g",
+      "fat": "12g",
+      "fiber": "3g"
+    },
+    "faqs": [
+      {
+        "question": "How to keep noodles non-sticky?",
+        "answer": "Rinse boiled noodles under cold running water and toss with 1 tsp oil."
+      }
+    ],
+    "related": [
+      "white-sauce-pasta",
+      "vegetable-spring-rolls",
+      "chicken-samosa"
+    ]
+  },
+  {
+    "id": "french-toast",
+    "slug": "french-toast",
+    "title": "Classic Cinnamon Butter French Toast",
+    "category": "Breakfast",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "totalTime": "20 mins",
+    "servings": "2",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Thick bread slices soaked in custard milk, cinnamon, vanilla, pan-fried golden in butter and drizzled with maple syrup.",
+    "longDescription": "Golden fluffy French Toast slices made with brioche or thick milk bread soaked in eggs, milk, vanilla extract, and warm cinnamon pan-seared in rich butter.",
+    "ingredients": [
+      "4 thick slices of bread",
+      "2 eggs",
+      "1/2 cup milk",
+      "1 tbsp sugar",
+      "1/2 tsp cinnamon powder, 1/2 tsp vanilla extract",
+      "Butter for pan frying",
+      "Maple syrup & fresh berries"
+    ],
+    "instructions": [
+      "Whisk eggs, milk, sugar, cinnamon, and vanilla in shallow bowl.",
+      "Dip bread slices into custard mixture for 10 seconds per side.",
+      "Melt butter on skillet over medium heat.",
+      "Fry bread for 3-4 minutes per side until golden brown.",
+      "Serve warm drizzled with syrup."
+    ],
+    "chefTips": "Day-old bread absorbs egg mixture better without getting soggy.",
+    "servingSuggestions": "Serve with fresh strawberries and maple syrup.",
+    "storageInstructions": "Best enjoyed freshly cooked.",
+    "nutrition": {
+      "calories": "310 kcal",
+      "protein": "12g",
+      "carbs": "38g",
+      "fat": "12g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "What bread works best?",
+        "answer": "Brioche, Challah, or thick white milk bread."
+      }
+    ],
+    "related": [
+      "pancakes",
+      "aloo-paratha",
+      "chocolate-cake"
+    ]
+  },
+  {
+    "id": "pancakes",
+    "slug": "pancakes",
+    "title": "Fluffy American Butter Pancakes",
+    "category": "Breakfast",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "totalTime": "25 mins",
+    "servings": "4 pancakes",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Tall, fluffy diner style pancakes topped with melting butter and pure maple syrup.",
+    "longDescription": "Soft, pillowy buttermilk pancakes cooked golden brown on griddle topped with warm maple syrup and melted butter.",
+    "ingredients": [
+      "1.5 cups flour, 2 tbsp sugar, 1 tbsp baking powder, pinch salt",
+      "1.25 cups buttermilk or milk",
+      "1 egg",
+      "3 tbsp melted butter"
+    ],
+    "instructions": [
+      "Whisk dry ingredients together.",
+      "Whisk egg, milk, and melted butter; combine gently with dry ingredients without overmixing.",
+      "Pour batter onto warm greased skillet.",
+      "Flip when surface bubbles pop (2 mins) and cook until golden brown."
+    ],
+    "chefTips": "Do not overmix batter; small lumps make pancakes lighter and fluffier.",
+    "servingSuggestions": "Top with blueberries and syrup.",
+    "storageInstructions": "Freeze cooked pancakes up to 1 month.",
+    "nutrition": {
+      "calories": "280 kcal",
+      "protein": "7g",
+      "carbs": "44g",
+      "fat": "8g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "When to flip pancakes?",
+        "answer": "Flip when bubbles pop on surface and edges look set."
+      }
+    ],
+    "related": [
+      "french-toast",
+      "mango-dessert",
+      "chocolate-cake"
+    ]
+  },
+  {
+    "id": "chocolate-cake",
+    "slug": "chocolate-cake",
+    "title": "Moist Rich Dark Chocolate Fudge Cake",
+    "category": "Desserts",
+    "prepTime": "20 mins",
+    "cookTime": "35 mins",
+    "totalTime": "55 mins",
+    "servings": "8 slices",
+    "difficulty": "Medium",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Ultra-moist dark cocoa chocolate cake frosted with glossy chocolate ganache fudge.",
+    "longDescription": "A chocolate lover's dream! Decadent, soft dark chocolate cake layers baked with espresso-infused cocoa batter and layered with velvety dark chocolate fudge frosting.",
+    "ingredients": [
+      "2 cups flour, 2 cups sugar, 3/4 cup cocoa powder",
+      "2 tsp baking powder, 1.5 tsp baking soda",
+      "2 eggs, 1 cup milk, 1/2 cup vegetable oil",
+      "1 cup hot coffee (brewed)",
+      "For Ganache: 200g dark chocolate + 150ml cream"
+    ],
+    "instructions": [
+      "Whisk dry ingredients in bowl.",
+      "Add eggs, milk, oil, vanilla; mix well.",
+      "Stir in hot coffee (batter will be thin).",
+      "Bake at 175°C (350°F) for 32-35 mins.",
+      "Cool completely and frost with rich chocolate ganache."
+    ],
+    "chefTips": "Hot brewed coffee enhances dark chocolate flavor without tasting like coffee.",
+    "servingSuggestions": "Serve warm with vanilla ice cream.",
+    "storageInstructions": "Keep refrigerated up to 5 days.",
+    "nutrition": {
+      "calories": "420 kcal (per slice)",
+      "protein": "6g",
+      "carbs": "58g",
+      "fat": "20g",
+      "fiber": "4g"
+    },
+    "faqs": [
+      {
+        "question": "Can I omit coffee?",
+        "answer": "Yes, substitute hot coffee with hot boiling water."
+      }
+    ],
+    "related": [
+      "gulab-jamun",
+      "kheer",
+      "mango-dessert"
+    ]
+  },
+  {
+    "id": "gulab-jamun",
+    "slug": "gulab-jamun",
+    "title": "Warm Melt-in-Mouth Gulab Jamun",
+    "category": "Desserts",
+    "prepTime": "20 mins",
+    "cookTime": "25 mins",
+    "totalTime": "45 mins",
+    "servings": "12 balls",
+    "difficulty": "Medium",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1599785209707-a456fc1337cc?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Soft milk-solid fried balls soaked in hot cardamom and rose water sugar syrup.",
+    "longDescription": "Golden brown sweet dumplings made from khoya (milk solids) or milk powder soft dough, fried on low flame and soaked in fragrant warm cardamom sugar syrup.",
+    "ingredients": [
+      "1 cup milk powder, 2 tbsp flour, 1 tbsp semolina (sooji), 1 tsp ghee, pinch baking soda",
+      "Milk to knead soft dough",
+      "For Syrup: 1.5 cups sugar, 1.5 cups water, 4 cardamom pods, 1 tsp rose water",
+      "Ghee/oil for frying"
+    ],
+    "instructions": [
+      "Boil sugar and water with cardamoms for 8 mins until sticky syrup forms.",
+      "Knead milk powder, flour, ghee, and milk into smooth dough without cracks.",
+      "Shape into smooth ball dumplings.",
+      "Fry on very low heat until dark golden.",
+      "Soak in warm sugar syrup for 2 hours."
+    ],
+    "chefTips": "Fry strictly on low flame so center cooks completely without remaining doughy.",
+    "servingSuggestions": "Serve warm with silver leaf and sliced pistachios.",
+    "storageInstructions": "Store in syrup in fridge up to 7 days.",
+    "nutrition": {
+      "calories": "190 kcal (per piece)",
+      "protein": "3g",
+      "carbs": "36g",
+      "fat": "5g",
+      "fiber": "0g"
+    },
+    "faqs": [
+      {
+        "question": "Why did my gulab jamun turn hard?",
+        "answer": "Over-kneading or frying on high heat turns them dense."
+      }
+    ],
+    "related": [
+      "kheer",
+      "mango-dessert",
+      "chocolate-cake"
+    ]
+  },
+  {
+    "id": "kheer",
+    "slug": "kheer",
+    "title": "Zafrani Badami Shahi Rice Kheer",
+    "category": "Desserts",
+    "prepTime": "15 mins",
+    "cookTime": "45 mins",
+    "totalTime": "60 mins",
+    "servings": "6",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Slow-simmered rice pudding enriched with milk, saffron strands, almonds, pistachios, and kewra.",
+    "longDescription": "Creamy traditional South Asian rice pudding simmered until thick, flavored with crushed cardamom, saffron, kewra water, slivered almonds, and green pistachios.",
+    "ingredients": [
+      "2 liters full cream milk",
+      "1/2 cup coarse Basmati rice (soaked and ground)",
+      "3/4 cup sugar",
+      "1/2 cup crushed almonds & pistachios",
+      "Pinch of saffron, 1/2 tsp cardamom powder, 1 tsp kewra water"
+    ],
+    "instructions": [
+      "Boil milk in thick bottom pot; add ground soaked rice.",
+      "Simmer on low heat for 40 minutes while stirring frequently until milk reduces and thickens.",
+      "Add sugar, nuts, cardamom, and saffron; cook for 10 more minutes.",
+      "Cool completely and chill in refrigerator before serving."
+    ],
+    "chefTips": "Serve chilled in clay bowls (matki) for traditional flavor.",
+    "servingSuggestions": "Garnish with silver leaf (vark) and slivered almonds.",
+    "storageInstructions": "Refrigerate up to 4 days.",
+    "nutrition": {
+      "calories": "290 kcal",
+      "protein": "8g",
+      "carbs": "42g",
+      "fat": "10g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "Can I add condensed milk?",
+        "answer": "Yes, condensed milk makes kheer richer and speeds up cooking time."
+      }
+    ],
+    "related": [
+      "gulab-jamun",
+      "mango-dessert",
+      "daal-chawal"
+    ]
+  },
+  {
+    "id": "mango-dessert",
+    "slug": "mango-dessert",
+    "title": "Creamy Mango Delight Mousse Dessert",
+    "category": "Desserts",
+    "prepTime": "20 mins",
+    "cookTime": "0 mins",
+    "totalTime": "20 mins",
+    "servings": "6",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "No-bake layered dessert made with mango puree, whipped cream, crushed biscuits, and fresh mango cubes.",
+    "longDescription": "A refreshing summer dessert layered with crushed buttery tea biscuits, sweet ripe Chaunsa or Alphonso mango puree, airy whipped cream, and fresh diced mango chunks.",
+    "ingredients": [
+      "2 cups fresh sweet mango puree",
+      "1 cup heavy whipping cream",
+      "1 cup crushed Marie or digestive biscuits + 2 tbsp melted butter",
+      "1 cup fresh diced mango cubes",
+      "Mint leaves for garnish"
+    ],
+    "instructions": [
+      "Mix crushed biscuits with melted butter and press into base of dessert glasses.",
+      "Whip heavy cream until soft peaks form; fold in half the mango puree.",
+      "Layer mango cream over biscuit base, topped with pure mango puree.",
+      "Finish with diced fresh mango cubes and mint leaf.",
+      "Chill for 2 hours before serving."
+    ],
+    "chefTips": "Use naturally sweet, non-fibrous mangoes like Chaunsa or Alphonso.",
+    "servingSuggestions": "Serve ice cold.",
+    "storageInstructions": "Refrigerate up to 2 days.",
+    "nutrition": {
+      "calories": "260 kcal",
+      "protein": "3g",
+      "carbs": "35g",
+      "fat": "13g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "Can I use canned mango pulp?",
+        "answer": "Yes, canned mango pulp works great year-round!"
+      }
+    ],
+    "related": [
+      "kheer",
+      "chocolate-cake",
+      "gulab-jamun"
+    ]
+  },
+  {
+    "id": "mango-lassi",
+    "slug": "mango-lassi",
+    "title": "Chilled Sweet Mango Lassi",
+    "category": "Drinks & Beverages",
+    "prepTime": "10 mins",
+    "cookTime": "0 mins",
+    "totalTime": "10 mins",
+    "servings": "3",
+    "difficulty": "Easy",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Creamy, smooth, and refreshing sweet mango yogurt drink infused with fragrant green cardamom and crushed pistachios.",
+    "longDescription": "Chef Bubble's Chilled Sweet Mango Lassi is the ultimate refreshing beverage for hot summer afternoons and spice-rich dinner feasts. Made by blending sweet Chaunsa or Alphonso mango pulp with thick whole-milk yogurt, chilled milk, sugar, and crushed green cardamom. Served in tall chilled glasses topped with slivered pistachios and a pinch of saffron threads.",
+    "ingredients": [
+      "2 cups sweet ripe mango pulp or fresh mango cubes",
+      "1.5 cups thick plain Greek or whole-milk yogurt (dahi)",
+      "1/2 cup chilled whole milk",
+      "3 tbsp sugar or honey (adjust to taste)",
+      "1/4 tsp crushed green cardamom powder",
+      "6-8 crushed ice cubes",
+      "1 tbsp slivered pistachios and almonds for garnish",
+      "A pinch of saffron threads (optional)"
+    ],
+    "instructions": [
+      "In a high-speed blender, add ripe mango pulp, thick yogurt, chilled milk, sugar, and cardamom powder.",
+      "Add crushed ice cubes and blend on high speed for 60 seconds until completely smooth, thick, and frothy.",
+      "Taste and adjust sweetness or milk thickness according to preference.",
+      "Pour into tall chilled glass tumblers.",
+      "Garnish with slivered pistachios, chopped almonds, and a pinch of saffron threads before serving immediately."
+    ],
+    "chefTips": "Use ripe, fragrant sweet mangoes like Chaunsa, Sindhari, or Alphonso for the richest natural yellow color and aroma without needing artificial flavorings.",
+    "servingSuggestions": "Serve icy cold alongside spicy Biryani, Karahi, or as a cooling afternoon refresher.",
+    "storageInstructions": "Best enjoyed immediately. Can be stored in a sealed glass jar in the refrigerator for up to 24 hours. Shake vigorously before serving.",
+    "nutrition": {
+      "calories": "210 kcal",
+      "protein": "6g",
+      "carbs": "36g",
+      "fat": "5g",
+      "fiber": "2g"
+    },
+    "faqs": [
+      {
+        "question": "Can I use canned mango pulp?",
+        "answer": "Yes! Alphonso or Kesar canned mango pulp works fantastically well when fresh mangoes are out of season."
+      },
+      {
+        "question": "How can I make a dairy-free vegan version?",
+        "answer": "Substitute milk and yogurt with coconut milk and thick coconut yogurt or oat milk."
+      }
+    ],
+    "related": [
+      "mint-lemonade-margarita",
+      "zafrani-karak-chai",
+      "mango-dessert"
+    ]
+  },
+  {
+    "id": "zafrani-karak-chai",
+    "slug": "zafrani-karak-chai",
+    "title": "Dhaba-Style Zafrani Karak Chai",
+    "category": "Drinks & Beverages",
+    "prepTime": "5 mins",
+    "cookTime": "12 mins",
+    "totalTime": "17 mins",
+    "servings": "4 Cups",
+    "difficulty": "Easy",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Strong, rich, aromatic milk tea slow-boiled with cardamom, cinnamon, crushed ginger, and luxurious saffron threads.",
+    "longDescription": "Nothing brings people together like a steaming hot pot of Dhaba-Style Zafrani Karak Chai. Chef Bubble's signature recipe slow-boils strong black tea leaves with whole spices—green cardamom pods, cinnamon bark, and freshly bruised ginger root—in a mixture of water and full-cream evaporated milk. Infused with pure saffron threads, this tea boasts a rich amber tint, velvety mouthfeel, and an invigorating aroma.",
+    "ingredients": [
+      "2 cups water",
+      "2 cups full-cream milk (or evaporated milk)",
+      "3 tbsp strong black tea leaves (Danedar / Tapal)",
+      "4 green cardamom pods, lightly crushed",
+      "1 small piece cinnamon stick",
+      "1/2 inch fresh ginger, crushed",
+      " Pinch of saffron threads (zafran)",
+      "2-3 tbsp sugar (adjust to taste)"
+    ],
+    "instructions": [
+      "In a saucepan, bring water to a rolling boil with crushed cardamom, cinnamon stick, crushed ginger, and saffron threads.",
+      "Boil for 3 minutes until spices release their fragrance into the water.",
+      "Add black tea leaves and simmer on low heat for 3 minutes until tea extracts deeply.",
+      "Pour in full-cream milk and sugar. Bring to a boil on medium flame.",
+      "When tea rises to the top, reduce heat and pour high using a ladle repeatedly ('phainta') for 3-4 minutes to create a frothy texture.",
+      "Strain through a tea sieve directly into clay cups (matka) or mugs. Serve piping hot!"
+    ],
+    "chefTips": "Ladling the tea up and down ('phainta') while simmering incorporates air, creating a velvety micro-foam and enhancing the rich karak tea taste.",
+    "servingSuggestions": "Serve piping hot alongside crispy Aloo Paratha, Samosas, or buttery Bakery Biscuits.",
+    "storageInstructions": "Tea is best served fresh. Leftovers can be kept in a thermos flask for up to 3 hours.",
+    "nutrition": {
+      "calories": "110 kcal",
+      "protein": "4g",
+      "carbs": "14g",
+      "fat": "4g",
+      "fiber": "0g"
+    },
+    "faqs": [
+      {
+        "question": "What makes tea 'Karak'?",
+        "answer": "'Karak' means strong and intense. Boiling black tea leaves longer with full-cream milk creates a thick, strong brew."
+      },
+      {
+        "question": "Can I skip saffron?",
+        "answer": "Yes, cardamom and ginger alone create a wonderful aromatic chai, though saffron adds a regal aroma."
+      }
+    ],
+    "related": [
+      "mango-lassi",
+      "aloo-paratha",
+      "chicken-samosa"
+    ]
+  },
+  {
+    "id": "mint-lemonade-margarita",
+    "slug": "mint-lemonade-margarita",
+    "title": "Pakistani Mint Lemonade (Mint Margarita)",
+    "category": "Drinks & Beverages",
+    "prepTime": "8 mins",
+    "cookTime": "0 mins",
+    "totalTime": "8 mins",
+    "servings": "2",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "The iconic Pakistani restaurant slushie made with fresh mint, lemon juice, black salt, sugar syrup, and fizzy soda blended with crushed ice.",
+    "longDescription": "If you have ever dined at a Pakistani restaurant or cafe, you know the instant magic of a frosty green Mint Margarita! Chef Bubble's recipe blends fresh fragrant garden mint leaves, freshly squeezed lemon juice, black salt (kala namak), sugar syrup, ice cubes, and a splash of lemon-lime soda into a zesty ice slushie that wakes up all your senses.",
+    "ingredients": [
+      "1 cup fresh mint leaves (spearmint)",
+      "4 tbsp freshly squeezed lemon juice",
+      "1/2 tsp black salt (kala namak)",
+      "3 tbsp sugar or simple syrup",
+      "1.5 cups crushed ice",
+      "1 cup chilled 7Up, Sprite, or sparkling soda water",
+      "Lemon wheels and mint sprigs for garnish"
+    ],
+    "instructions": [
+      "Rinse fresh mint leaves thoroughly in cold water.",
+      "In a blender, combine mint leaves, lemon juice, black salt, sugar, and half of the crushed ice.",
+      "Blend on high speed until mint is finely pulverized into an emerald green liquid.",
+      "Add remaining crushed ice and 7Up/soda. Pulse briefly for 5 seconds to create a frosty slush texture.",
+      "Pour immediately into sugar-rimmed glasses.",
+      "Garnish with a lemon wheel and fresh mint sprig."
+    ],
+    "chefTips": "Black salt (kala namak) is the secret ingredient! It provides that signature savory tang unique to South Asian summer coolers.",
+    "servingSuggestions": "Serve immediately while icy alongside grilled BBQ chicken tikka, burgers, or pizza.",
+    "storageInstructions": "Must be served immediately as ice melts and mint settles upon standing.",
+    "nutrition": {
+      "calories": "95 kcal",
+      "protein": "0.5g",
+      "carbs": "24g",
+      "fat": "0g",
+      "fiber": "1g"
+    },
+    "faqs": [
+      {
+        "question": "Does this drink contain alcohol?",
+        "answer": "No! Despite being called 'Mint Margarita' in Pakistani cafes, it is a 100% non-alcoholic virgin mint lemonade."
+      },
+      {
+        "question": "Can I use regular salt instead of black salt?",
+        "answer": "Regular sea salt works, but black salt adds an unmatched authentic depth of flavor."
+      }
+    ],
+    "related": [
+      "mango-lassi",
+      "chicken-tikka",
+      "zinger-burger"
+    ]
+  },
+  {
+    "id": "shahi-tukda",
+    "slug": "shahi-tukda",
+    "title": "Royal Mughlai Shahi Tukda",
+    "category": "Desserts",
+    "prepTime": "15 mins",
+    "cookTime": "25 mins",
+    "totalTime": "40 mins",
+    "servings": "6",
+    "difficulty": "Medium",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Golden ghee-fried bread triangles soaked in warm saffron sugar syrup and topped with thick condensed cardamom rabri milk and nuts.",
+    "longDescription": "Shahi Tukda, translating to 'Royal Slice', originated in the royal kitchens of the Mughal Empire. Chef Bubble's recipe turns humble white bread into a majestic dessert. Crustless bread slices are trimmed into crisp triangles, fried in pure desi ghee until deep golden brown, dipped in cardamom-saffron sugar syrup, and drenched under velvety rabri milk cooked with khoya and silver leaves.",
+    "ingredients": [
+      "6 white bread slices, crusts removed and cut diagonally into triangles",
+      "1/2 cup desi ghee for shallow frying",
+      "1 cup sugar and 3/4 cup water (for sugar syrup)",
+      "4 green cardamom pods",
+      "Pinch of saffron threads",
+      "3 cups full-cream milk",
+      "1/2 cup condensed milk or khoya",
+      "2 tbsp chopped pistachios, almonds, and cashews",
+      "Edible silver leaf (chandi ka waraq) for decoration"
+    ],
+    "instructions": [
+      "Prepare Sugar Syrup: Boil sugar, water, crushed cardamom, and saffron in a saucepan for 6-8 minutes until it reaches 1-string consistency. Keep warm.",
+      "Prepare Rabri Milk: In a heavy pan, simmer 3 cups full-cream milk and condensed milk on medium flame, stirring constantly until reduced by half to a thick Rabri. Cool slightly.",
+      "Fry Bread: Heat ghee in a shallow pan. Fry bread triangles on medium heat until crispy and golden brown on both sides. Drain on paper towels.",
+      "Dip: Immediately dip fried bread triangles into warm sugar syrup for 20 seconds per side so they absorb sweetness without becoming soggy.",
+      "Assemble: Arrange syrup-coated bread on a broad serving platter. Pour thick saffron rabri generously over the slices.",
+      "Garnish with chopped pistachios, almonds, and edible silver leaf. Serve warm or chilled!"
+    ],
+    "chefTips": "Fry the bread on medium heat in pure ghee rather than oil for that genuine royal buttery crunch.",
+    "servingSuggestions": "Serve as a showstopper dessert after Eid feasts, weddings, or family dinner parties.",
+    "storageInstructions": "Best eaten freshly assembled. Rabri milk and sugar syrup can be prepared 1 day in advance.",
+    "nutrition": {
+      "calories": "380 kcal",
+      "protein": "8g",
+      "carbs": "52g",
+      "fat": "16g",
+      "fiber": "1.5g"
+    },
+    "faqs": [
+      {
+        "question": "Can I bake the bread instead of frying in ghee?",
+        "answer": "You can brush bread with ghee and bake at 200°C for 10 minutes, though traditional ghee frying yields superior flavor."
+      },
+      {
+        "question": "Should Shahi Tukda be served hot or cold?",
+        "answer": "It can be enjoyed either warm or chilled from the fridge according to personal delight!"
+      }
+    ],
+    "related": [
+      "gulab-jamun",
+      "kheer",
+      "soft-rasmalai"
+    ]
+  },
+  {
+    "id": "soft-rasmalai",
+    "slug": "soft-rasmalai",
+    "title": "Soft Halwai-Style Milk Rasmalai",
+    "category": "Desserts",
+    "prepTime": "20 mins",
+    "cookTime": "30 mins",
+    "totalTime": "50 mins",
+    "servings": "6",
+    "difficulty": "Medium",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Melt-in-mouth cottage cheese patties simmered in light sugar syrup and steeped in chilled saffron-pistachio cardamom milk.",
+    "longDescription": "Rasmalai is a legendary South Asian sweet dessert consisting of soft, spongy chhena (fresh cottage cheese) discs cooked in sugar syrup, then soaked in sweet, fragrant saffron and cardamom flavored milk (ras). Chef Bubble shares the foolproof technique to ensure your rasmalai patties remain pillowy soft and never rubbery.",
+    "ingredients": [
+      "1 liter full-fat milk (for chhena)",
+      "2 tbsp lemon juice or vinegar diluted in 2 tbsp water",
+      "1 tsp cornstarch",
+      "1.5 cups sugar and 4 cups water (for cooking syrup)",
+      "3 cups full-cream milk (for rabri Ras)",
+      "1/2 cup sugar (for milk)",
+      "1/2 tsp crushed green cardamom powder",
+      "Pinch of saffron threads soaked in 2 tbsp warm milk",
+      "2 tbsp pistachios and almonds, finely crushed"
+    ],
+    "instructions": [
+      "Make Chhena: Boil 1 liter milk. Turn off heat, add diluted lemon juice gradually until milk curdles completely. Strain through cheesecloth and rinse with cold water.",
+      "Knead Patties: Squeeze out excess water. Knead chhena smoothly with palms for 8 minutes until non-sticky. Add cornstarch and shape into 10 smooth flat discs without cracks.",
+      "Cook Patties: Boil 1.5 cups sugar and 4 cups water in a wide deep pan. Drop chhena discs in boiling syrup, cover with lid, and cook on high heat for 15 minutes until expanded.",
+      "Prepare Ras Milk: Simmer 3 cups milk with 1/2 cup sugar, cardamom, and saffron milk for 12 minutes until slightly thickened.",
+      "Soak & Chill: Gently squeeze sugar syrup out of cooked patties using two spoons. Place patties into warm saffron milk. Refrigerate for at least 4 hours before serving chilled garnished with pistachios."
+    ],
+    "chefTips": "Rinsing the curdled chhena with cold water removes lemon acidity completely and stops the cooking process so patties stay super tender.",
+    "servingSuggestions": "Serve chilled in individual dessert bowls sprinkled with crushed nuts.",
+    "storageInstructions": "Keep covered in the refrigerator for up to 4 days.",
+    "nutrition": {
+      "calories": "260 kcal",
+      "protein": "9g",
+      "carbs": "34g",
+      "fat": "10g",
+      "fiber": "0.5g"
+    },
+    "faqs": [
+      {
+        "question": "Why did my Rasmalai patties become hard?",
+        "answer": "Hard patties happen if chhena is over-kneaded or cooked in syrup that isn't boiling at high heat."
+      },
+      {
+        "question": "Can I use milk powder to make instant Rasmalai?",
+        "answer": "Yes! Milk powder dough with egg and baking powder is a popular quick alternative."
+      }
+    ],
+    "related": [
+      "shahi-tukda",
+      "kheer",
+      "gulab-jamun"
+    ]
+  },
+  {
+    "id": "royal-falooda",
+    "slug": "royal-falooda",
+    "title": "Special Layered Royal Falooda",
+    "category": "Desserts",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "totalTime": "25 mins",
+    "servings": "2 Glasses",
+    "difficulty": "Easy",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&q=80",
+    "shortIntro": "Rich, extravagant dessert drink stacked with rose syrup, basil seeds, cornstarch vermicelli, cold sweet milk, and topped with kulfa ice cream.",
+    "longDescription": "Royal Falooda is the ultimate celebration in a glass! Combining vibrant red rose syrup, soaked basil seeds (tukh malanga), soft cornstarch falooda noodles, chilled sweetened milk, and crowned with a scoop of creamy Kulfa ice cream, toasted nuts, and a sweet cherry. Chef Bubble brings this street-food classic straight into your kitchen.",
+    "ingredients": [
+      "4 tbsp sweet rose syrup (Rooh Afza)",
+      "2 tbsp basil seeds (tukh malanga), soaked in 1 cup warm water for 15 mins",
+      "1/2 cup cooked falooda vermicelli noodles",
+      "1.5 cups chilled full-cream milk sweetened with 2 tbsp sugar",
+      "2 scoops Kulfa or Vanilla ice cream",
+      "2 tbsp chopped pistachios and almonds",
+      "2 maraschino cherries for topping"
+    ],
+    "instructions": [
+      "Soak basil seeds in warm water for 15 minutes until fully swollen and gelatinous.",
+      "Boil falooda vermicelli according to package instructions, drain, and chill in cold water.",
+      "Assembly: Take two tall sundae glasses. Add 2 tbsp rose syrup to the bottom of each glass.",
+      "Layer 2 tablespoons soaked basil seeds over the rose syrup.",
+      "Add a generous layer of chilled falooda vermicelli.",
+      "Slowly pour chilled sweetened milk over a spoon so layers remain distinct.",
+      "Top each glass with a big scoop of Kulfa ice cream.",
+      "Drizzle extra rose syrup over the ice cream and garnish generously with crushed pistachios, almonds, and a cherry!"
+    ],
+    "chefTips": "Serve with both a long dessert spoon for the ice cream & noodles and a thick straw for drinking the sweet rose milk!",
+    "servingSuggestions": "Serve chilled immediately after dinner on hot summer evenings.",
+    "storageInstructions": "Assemble right before serving. Soaked basil seeds and falooda noodles can be stored in the fridge for up to 2 days.",
+    "nutrition": {
+      "calories": "340 kcal",
+      "protein": "7g",
+      "carbs": "56g",
+      "fat": "10g",
+      "fiber": "3g"
+    },
+    "faqs": [
+      {
+        "question": "What are basil seeds (tukh malanga)?",
+        "answer": "They are black seeds from sweet basil that swell into gel-coated pearls when soaked in water, providing cooling digestive benefits."
+      },
+      {
+        "question": "Can I use regular wheat vermicelli?",
+        "answer": "Thin cornstarch or arrowroot falooda noodles are best, but thin cooked wheat seviyan works as a substitute."
+      }
+    ],
+    "related": [
+      "mango-lassi",
+      "mango-dessert",
+      "shahi-tukda"
+    ]
+  }
+]

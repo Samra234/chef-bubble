@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crispy Chinese Vegetable Spring Rolls Recipe | Chef Bubble Kitchen</title>
+  <meta name="description" content="Thin crispy spring roll sheets wrapped around stir-fried shredded cabbage, carrots, bell peppers, and soy sauce.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/recipe.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link">Home</a></li>
+          <li><a href="/#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link">Categories</a></li>
+          <li><a href="/about.html" class="nav-link">About</a></li>
+          <li><a href="/contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Recipe Main Container -->
+  <main class="recipe-header-section">
+    <div class="container">
+
+      <!-- Breadcrumbs -->
+      <nav class="recipe-breadcrumb">
+        <a href="/">Home</a> <span>/</span>
+        <a href="/categories.html">Fast Food</a> <span>/</span>
+        <span style="color: var(--text-dark); font-weight: 600;">Crispy Chinese Vegetable Spring Rolls</span>
+      </nav>
+
+      <!-- Recipe Hero Box -->
+      <article class="recipe-hero-card">
+        <!-- Recipe Title -->
+        <h1 class="recipe-main-title">Crispy Chinese Vegetable Spring Rolls</h1>
+
+        <!-- Beautiful Recipe Image -->
+        <div class="recipe-featured-img-wrap">
+          <img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80" alt="Crispy Chinese Vegetable Spring Rolls">
+        </div>
+
+        <!-- Long SEO-Friendly Introduction -->
+        <p class="recipe-lead-intro">
+          A crunchy Asian appetizer loaded with colorful shredded vegetables stir-fried on high flame with soy sauce, sesame oil, and black pepper wrapped in thin spring roll sheets.
+        </p>
+
+        <!-- Recipe Overview Bar -->
+        <div class="recipe-meta-grid">
+          <div class="meta-box-item">
+            <span class="meta-box-label">Prep Time</span>
+            <span class="meta-box-value">⏱️ 25 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Cooking Time</span>
+            <span class="meta-box-value">🔥 15 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Total Time</span>
+            <span class="meta-box-value">⏳ 40 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Servings</span>
+            <span class="meta-box-value">👥 8 rolls Persons</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Difficulty</span>
+            <span class="meta-box-value">📊 Easy</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Two Column Grid for Ingredients & Instructions -->
+      <div class="recipe-content-grid">
+        <!-- Ingredients Section -->
+        <section class="recipe-ingredients-box">
+          <h2 class="box-title-icon">
+            <span>🥗</span> Ingredients
+          </h2>
+          <p style="font-size:0.85rem; color:var(--text-muted); margin-bottom:1rem;">Check items off as you prepare your kitchen station:</p>
+          <ul class="ingredient-list">
+            
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-0">
+      <label for="ing-0">8 spring roll wrapper sheets</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-1">
+      <label for="ing-1">2 cups shredded cabbage</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-2">
+      <label for="ing-2">1 cup julienned carrots & bell peppers</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-3">
+      <label for="ing-3">1 tbsp soy sauce, 1 tbsp chili sauce, 1 tsp black pepper</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-4">
+      <label for="ing-4">1 tbsp cornstarch paste for sealing</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-5">
+      <label for="ing-5">Oil for frying</label>
+    </li>
+  
+          </ul>
+        </section>
+
+        <!-- Step-by-Step Instructions -->
+        <section class="recipe-steps-box">
+          <h2 class="box-title-icon">
+            <span>👨‍🍳</span> Step-by-Step Instructions
+          </h2>
+          <div class="steps-list">
+            
+    <div class="step-card">
+      <div class="step-num">1</div>
+      <div class="step-text">Stir fry shredded vegetables on high heat for 3 minutes with soy sauce, pepper, and salt; cool completely.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">2</div>
+      <div class="step-text">Place filling on spring roll sheet corner, roll tightly, fold sides, and seal with cornstarch paste.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">3</div>
+      <div class="step-text">Fry in hot oil until golden crisp.</div>
+    </div>
+  
+          </div>
+        </section>
+      </div>
+
+      <!-- Chef Bubble's Tips -->
+      <section class="chef-tips-box">
+        <h3 class="chef-tips-title">💡 Chef Bubble's Secret Tip</h3>
+        <p class="chef-tips-desc">Cool veggie filling completely before rolling to keep wrappers crisp.</p>
+      </section>
+
+      <!-- Serving & Storage -->
+      <div class="serving-storage-grid">
+        <div class="info-card-block">
+          <h4>🍽️ Serving Suggestions</h4>
+          <p>Serve with sweet chili dip.</p>
+        </div>
+
+        <div class="info-card-block">
+          <h4>📦 Storage Instructions</h4>
+          <p>Freeze wrapped rolls up to 1 month.</p>
+        </div>
+      </div>
+
+      <!-- Nutrition Information -->
+      <section class="nutrition-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">🥗 Nutrition Information (Per Serving)</h3>
+        <p style="font-size: 0.88rem; color: var(--text-muted);">Estimated average nutritional metrics for balanced portion size:</p>
+        <div class="nutrition-grid">
+          <div class="nutrition-item">
+            <span class="nutrition-label">Calories</span>
+            <div class="nutrition-val">180 kcal (per roll)</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Protein</span>
+            <div class="nutrition-val">4g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Carbs</span>
+            <div class="nutrition-val">22g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fat</span>
+            <div class="nutrition-val">8g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fiber</span>
+            <div class="nutrition-val">2g</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Frequently Asked Questions -->
+      <section class="faq-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">❓ Frequently Asked Questions</h3>
+        <div class="faq-list">
+          
+    <div class="faq-item">
+      <div class="faq-question">
+        <span>❓ How to keep spring rolls crisp longer?</span>
+        <span>▼</span>
+      </div>
+      <div class="faq-answer">
+        Ensure filling is moisture-free and fry on medium heat.
+      </div>
+    </div>
+  
+        </div>
+      </section>
+
+      <!-- Share Recipe -->
+      <section class="share-bar-box">
+        <div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Loved this recipe?</h4>
+          <p style="font-size: 0.88rem; color: var(--text-muted);">Share it with your family and fellow food lovers!</p>
+        </div>
+
+        <div class="share-buttons-group">
+          <button class="btn-share btn-share-whatsapp" onclick="window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent('Crispy Chinese Vegetable Spring Rolls: ' + window.location.href))">
+            WhatsApp
+          </button>
+          <button class="btn-share btn-share-facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href))">
+            Facebook
+          </button>
+          <button class="btn-share btn-share-twitter" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent('Crispy Chinese Vegetable Spring Rolls recipe by Chef Bubble Kitchen') + '&url=' + encodeURIComponent(window.location.href))">
+            X / Twitter
+          </button>
+          <button class="btn-share btn-share-copy" onclick="copyToClipboard(window.location.href)">
+            Copy Link 📋
+          </button>
+        </div>
+      </section>
+
+      <!-- Related Recipes -->
+      
+      <section style="margin-top: 4rem;">
+        <h2 style="font-size: 1.85rem; margin-bottom: 1.5rem; text-align: center;">🍲 Related Recipes You'll Love</h2>
+        <div class="recipes-grid">
+          
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/chicken-samosa.html">
+          <img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80" alt="Crispy Golden Chicken Samosa" loading="lazy">
+        </a>
+        <span class="card-category-badge">Fast Food</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/chicken-samosa.html">Crispy Golden Chicken Samosa</a>
+        </h3>
+        <p class="card-intro">Deep-fried triangular pastry stuffed with savory minced chicken, green peas, and warm spices.</p>
+        <a href="/recipes/chicken-samosa.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/zinger-burger.html">
+          <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80" alt="Crispy KFC Style Zinger Burger" loading="lazy">
+        </a>
+        <span class="card-category-badge">Fast Food</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/zinger-burger.html">Crispy KFC Style Zinger Burger</a>
+        </h3>
+        <p class="card-intro">Extra crunchy fried chicken thigh fillet in toasted sesame bun with iceberg lettuce and spicy mayo.</p>
+        <a href="/recipes/zinger-burger.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/chicken-noodles.html">
+          <img src="https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80" alt="Desi Chinese Chicken Chow Mein Noodles" loading="lazy">
+        </a>
+        <span class="card-category-badge">Fast Food</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/chicken-noodles.html">Desi Chinese Chicken Chow Mein Noodles</a>
+        </h3>
+        <p class="card-intro">Stir-fried egg noodles with chicken strips, crisp cabbage, carrots, bell peppers, soy sauce, and chili vinegar.</p>
+        <a href="/recipes/chicken-noodles.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+        </div>
+      </section>
+      
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="border:none; padding:0;">
+        <p>© 2026 Chef Bubble Kitchen. All rights reserved.</p>
+        <p><a href="/" style="color:var(--secondary);">Back to Homepage</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Favorites Modal Drawer -->
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems"></div>
+    </div>
+  </div>
+
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>

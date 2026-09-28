@@ -1,0 +1,6 @@
+{
+  "name": "Chef Bubble Kitchen",
+  "description": "Official website for Chef Bubble Kitchen featuring 30 detailed Pakistani and fusion recipes, category filters, interactive search, favorites, step-by-step instructions, and FAQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

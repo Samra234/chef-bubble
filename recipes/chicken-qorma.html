@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shahi Shadiyon Wala Chicken Qorma Recipe | Chef Bubble Kitchen</title>
+  <meta name="description" content="Rich festive wedding style chicken qorma with grainy onion-yogurt gravy, nutmeg, mace, and kewra.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/recipe.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link">Home</a></li>
+          <li><a href="/#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link">Categories</a></li>
+          <li><a href="/about.html" class="nav-link">About</a></li>
+          <li><a href="/contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Recipe Main Container -->
+  <main class="recipe-header-section">
+    <div class="container">
+
+      <!-- Breadcrumbs -->
+      <nav class="recipe-breadcrumb">
+        <a href="/">Home</a> <span>/</span>
+        <a href="/categories.html">Pakistani Recipes</a> <span>/</span>
+        <span style="color: var(--text-dark); font-weight: 600;">Shahi Shadiyon Wala Chicken Qorma</span>
+      </nav>
+
+      <!-- Recipe Hero Box -->
+      <article class="recipe-hero-card">
+        <!-- Recipe Title -->
+        <h1 class="recipe-main-title">Shahi Shadiyon Wala Chicken Qorma</h1>
+
+        <!-- Beautiful Recipe Image -->
+        <div class="recipe-featured-img-wrap">
+          <img src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80" alt="Shahi Shadiyon Wala Chicken Qorma">
+        </div>
+
+        <!-- Long SEO-Friendly Introduction -->
+        <p class="recipe-lead-intro">
+          Traditional Pakistani wedding Qorma is distinguished by its golden brown grainy gravy (danedar) achieved by crushing crisp fried onions into whipped yogurt along with nutmeg, mace, and kewra water. Elegant, rich, and regal.
+        </p>
+
+        <!-- Recipe Overview Bar -->
+        <div class="recipe-meta-grid">
+          <div class="meta-box-item">
+            <span class="meta-box-label">Prep Time</span>
+            <span class="meta-box-value">⏱️ 20 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Cooking Time</span>
+            <span class="meta-box-value">🔥 35 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Total Time</span>
+            <span class="meta-box-value">⏳ 55 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Servings</span>
+            <span class="meta-box-value">👥 5 Persons</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Difficulty</span>
+            <span class="meta-box-value">📊 Medium</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Two Column Grid for Ingredients & Instructions -->
+      <div class="recipe-content-grid">
+        <!-- Ingredients Section -->
+        <section class="recipe-ingredients-box">
+          <h2 class="box-title-icon">
+            <span>🥗</span> Ingredients
+          </h2>
+          <p style="font-size:0.85rem; color:var(--text-muted); margin-bottom:1rem;">Check items off as you prepare your kitchen station:</p>
+          <ul class="ingredient-list">
+            
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-0">
+      <label for="ing-0">800g bone-in chicken</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-1">
+      <label for="ing-1">1 cup yogurt (whisked thoroughly)</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-2">
+      <label for="ing-2">2 large onions (sliced thin, fried dark golden and crushed)</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-3">
+      <label for="ing-3">1 tbsp ginger-garlic paste</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-4">
+      <label for="ing-4">Whole spices: black cardamom, cloves, cinnamon, green cardamom</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-5">
+      <label for="ing-5">Pinch of nutmeg (jaiphal) & mace (javitri) powder</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-6">
+      <label for="ing-6">1 tsp kewra water</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-7">
+      <label for="ing-7">1/2 cup ghee</label>
+    </li>
+  
+          </ul>
+        </section>
+
+        <!-- Step-by-Step Instructions -->
+        <section class="recipe-steps-box">
+          <h2 class="box-title-icon">
+            <span>👨‍🍳</span> Step-by-Step Instructions
+          </h2>
+          <div class="steps-list">
+            
+    <div class="step-card">
+      <div class="step-num">1</div>
+      <div class="step-text">In ghee, fry whole spices and chicken until chicken turns light golden.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">2</div>
+      <div class="step-text">Add ginger-garlic paste, red chili powder, coriander powder, turmeric, and salt.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">3</div>
+      <div class="step-text">Pour whisked yogurt and cook until oil separates.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">4</div>
+      <div class="step-text">Mix crushed fried onions into the gravy; gravy will instantly turn thick and grainy (danedar).</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">5</div>
+      <div class="step-text">Add 1 cup water, cover, and simmer for 15 mins until chicken is tender.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">6</div>
+      <div class="step-text">Sprinkle nutmeg-mace powder and kewra water. Cover for 2 minutes before opening.</div>
+    </div>
+  
+          </div>
+        </section>
+      </div>
+
+      <!-- Chef Bubble's Tips -->
+      <section class="chef-tips-box">
+        <h3 class="chef-tips-title">💡 Chef Bubble's Secret Tip</h3>
+        <p class="chef-tips-desc">Crush fried onions with hands or mortar pestle, never blend in electric blender to keep danedar texture.</p>
+      </section>
+
+      <!-- Serving & Storage -->
+      <div class="serving-storage-grid">
+        <div class="info-card-block">
+          <h4>🍽️ Serving Suggestions</h4>
+          <p>Serve with Taftan, Roghani Naan, or Sheermal.</p>
+        </div>
+
+        <div class="info-card-block">
+          <h4>📦 Storage Instructions</h4>
+          <p>Refrigerate up to 3 days.</p>
+        </div>
+      </div>
+
+      <!-- Nutrition Information -->
+      <section class="nutrition-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">🥗 Nutrition Information (Per Serving)</h3>
+        <p style="font-size: 0.88rem; color: var(--text-muted);">Estimated average nutritional metrics for balanced portion size:</p>
+        <div class="nutrition-grid">
+          <div class="nutrition-item">
+            <span class="nutrition-label">Calories</span>
+            <div class="nutrition-val">470 kcal</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Protein</span>
+            <div class="nutrition-val">35g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Carbs</span>
+            <div class="nutrition-val">11g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fat</span>
+            <div class="nutrition-val">32g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fiber</span>
+            <div class="nutrition-val">1g</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Frequently Asked Questions -->
+      <section class="faq-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">❓ Frequently Asked Questions</h3>
+        <div class="faq-list">
+          
+    <div class="faq-item">
+      <div class="faq-question">
+        <span>❓ What gives qorma its signature aroma?</span>
+        <span>▼</span>
+      </div>
+      <div class="faq-answer">
+        Nutmeg, mace powder, and kewra water added in final step create authentic wedding qorma aroma.
+      </div>
+    </div>
+  
+        </div>
+      </section>
+
+      <!-- Share Recipe -->
+      <section class="share-bar-box">
+        <div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Loved this recipe?</h4>
+          <p style="font-size: 0.88rem; color: var(--text-muted);">Share it with your family and fellow food lovers!</p>
+        </div>
+
+        <div class="share-buttons-group">
+          <button class="btn-share btn-share-whatsapp" onclick="window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent('Shahi Shadiyon Wala Chicken Qorma: ' + window.location.href))">
+            WhatsApp
+          </button>
+          <button class="btn-share btn-share-facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href))">
+            Facebook
+          </button>
+          <button class="btn-share btn-share-twitter" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent('Shahi Shadiyon Wala Chicken Qorma recipe by Chef Bubble Kitchen') + '&url=' + encodeURIComponent(window.location.href))">
+            X / Twitter
+          </button>
+          <button class="btn-share btn-share-copy" onclick="copyToClipboard(window.location.href)">
+            Copy Link 📋
+          </button>
+        </div>
+      </section>
+
+      <!-- Related Recipes -->
+      
+      <section style="margin-top: 4rem;">
+        <h2 style="font-size: 1.85rem; margin-bottom: 1.5rem; text-align: center;">🍲 Related Recipes You'll Love</h2>
+        <div class="recipes-grid">
+          
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/chicken-biryani.html">
+          <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80" alt="Royal Special Chicken Biryani" loading="lazy">
+        </a>
+        <span class="card-category-badge">Rice Recipes</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/chicken-biryani.html">Royal Special Chicken Biryani</a>
+        </h3>
+        <p class="card-intro">A majestic layered rice dish featuring fragrant basmati rice, tender spiced chicken gravy, saffron milk, and crispy fried onions.</p>
+        <a href="/recipes/chicken-biryani.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/chicken-handi.html">
+          <img src="https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80" alt="Creamy Restaurant Style Chicken Handi" loading="lazy">
+        </a>
+        <span class="card-category-badge">Chicken Recipes</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/chicken-handi.html">Creamy Restaurant Style Chicken Handi</a>
+        </h3>
+        <p class="card-intro">Boneless chicken cubes cooked in a clay pot gravy with onions, tomatoes, heavy cream, butter, and fragrant kasuri methi.</p>
+        <a href="/recipes/chicken-handi.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/butter-chicken.html">
+          <img src="https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80" alt="Classic Murgh Makhani (Butter Chicken)" loading="lazy">
+        </a>
+        <span class="card-category-badge">Chicken Recipes</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/butter-chicken.html">Classic Murgh Makhani (Butter Chicken)</a>
+        </h3>
+        <p class="card-intro">Tender grilled tandoori chicken simmered in a velvety, buttery tomato gravy infused with cashews and honey.</p>
+        <a href="/recipes/butter-chicken.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+        </div>
+      </section>
+      
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="border:none; padding:0;">
+        <p>© 2026 Chef Bubble Kitchen. All rights reserved.</p>
+        <p><a href="/" style="color:var(--secondary);">Back to Homepage</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Favorites Modal Drawer -->
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems"></div>
+    </div>
+  </div>
+
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>

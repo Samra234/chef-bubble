@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crispy KFC Style Zinger Burger Recipe | Chef Bubble Kitchen</title>
+  <meta name="description" content="Extra crunchy fried chicken thigh fillet in toasted sesame bun with iceberg lettuce and spicy mayo.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/recipe.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link">Home</a></li>
+          <li><a href="/#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link">Categories</a></li>
+          <li><a href="/about.html" class="nav-link">About</a></li>
+          <li><a href="/contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Recipe Main Container -->
+  <main class="recipe-header-section">
+    <div class="container">
+
+      <!-- Breadcrumbs -->
+      <nav class="recipe-breadcrumb">
+        <a href="/">Home</a> <span>/</span>
+        <a href="/categories.html">Fast Food</a> <span>/</span>
+        <span style="color: var(--text-dark); font-weight: 600;">Crispy KFC Style Zinger Burger</span>
+      </nav>
+
+      <!-- Recipe Hero Box -->
+      <article class="recipe-hero-card">
+        <!-- Recipe Title -->
+        <h1 class="recipe-main-title">Crispy KFC Style Zinger Burger</h1>
+
+        <!-- Beautiful Recipe Image -->
+        <div class="recipe-featured-img-wrap">
+          <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80" alt="Crispy KFC Style Zinger Burger">
+        </div>
+
+        <!-- Long SEO-Friendly Introduction -->
+        <p class="recipe-lead-intro">
+          The ultimate fast food dream! Succulent buttermilk marinated chicken fillet double-dusted in seasoned flour creating craggy crispy coating, fried golden, and layered with spicy mayonnaise and fresh iceberg lettuce in toasted sesame buns.
+        </p>
+
+        <!-- Recipe Overview Bar -->
+        <div class="recipe-meta-grid">
+          <div class="meta-box-item">
+            <span class="meta-box-label">Prep Time</span>
+            <span class="meta-box-value">⏱️ 20 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Cooking Time</span>
+            <span class="meta-box-value">🔥 15 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Total Time</span>
+            <span class="meta-box-value">⏳ 35 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Servings</span>
+            <span class="meta-box-value">👥 2 burgers Persons</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Difficulty</span>
+            <span class="meta-box-value">📊 Easy</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Two Column Grid for Ingredients & Instructions -->
+      <div class="recipe-content-grid">
+        <!-- Ingredients Section -->
+        <section class="recipe-ingredients-box">
+          <h2 class="box-title-icon">
+            <span>🥗</span> Ingredients
+          </h2>
+          <p style="font-size:0.85rem; color:var(--text-muted); margin-bottom:1rem;">Check items off as you prepare your kitchen station:</p>
+          <ul class="ingredient-list">
+            
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-0">
+      <label for="ing-0">2 boneless chicken thigh fillets</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-1">
+      <label for="ing-1">1 cup buttermilk</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-2">
+      <label for="ing-2">1.5 cups plain flour + 2 tbsp cornstarch</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-3">
+      <label for="ing-3">Paprika, garlic powder, pepper, salt, chili powder</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-4">
+      <label for="ing-4">2 burger buns</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-5">
+      <label for="ing-5">Iceberg lettuce & mayo sauce</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-6">
+      <label for="ing-6">Oil for frying</label>
+    </li>
+  
+          </ul>
+        </section>
+
+        <!-- Step-by-Step Instructions -->
+        <section class="recipe-steps-box">
+          <h2 class="box-title-icon">
+            <span>👨‍🍳</span> Step-by-Step Instructions
+          </h2>
+          <div class="steps-list">
+            
+    <div class="step-card">
+      <div class="step-num">1</div>
+      <div class="step-text">Marinate chicken fillets in buttermilk and hot sauce for 1 hour.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">2</div>
+      <div class="step-text">Mix flour with cornstarch and seasonings.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">3</div>
+      <div class="step-text">Dip chicken fillet in seasoned flour, submerge briefly in ice water, then re-coat in flour pressing firmly for craggy coating.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">4</div>
+      <div class="step-text">Deep fry at 170°C for 7 minutes until crispy golden.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">5</div>
+      <div class="step-text">Assemble burger with toasted buns, spicy mayo, crisp chicken zinger fillet, and lettuce.</div>
+    </div>
+  
+          </div>
+        </section>
+      </div>
+
+      <!-- Chef Bubble's Tips -->
+      <section class="chef-tips-box">
+        <h3 class="chef-tips-title">💡 Chef Bubble's Secret Tip</h3>
+        <p class="chef-tips-desc">The flour-ice water-flour double dip technique creates trademark crunchy zinger flakiness.</p>
+      </section>
+
+      <!-- Serving & Storage -->
+      <div class="serving-storage-grid">
+        <div class="info-card-block">
+          <h4>🍽️ Serving Suggestions</h4>
+          <p>Serve with golden french fries and coleslaw.</p>
+        </div>
+
+        <div class="info-card-block">
+          <h4>📦 Storage Instructions</h4>
+          <p>Best eaten fresh right after frying.</p>
+        </div>
+      </div>
+
+      <!-- Nutrition Information -->
+      <section class="nutrition-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">🥗 Nutrition Information (Per Serving)</h3>
+        <p style="font-size: 0.88rem; color: var(--text-muted);">Estimated average nutritional metrics for balanced portion size:</p>
+        <div class="nutrition-grid">
+          <div class="nutrition-item">
+            <span class="nutrition-label">Calories</span>
+            <div class="nutrition-val">620 kcal</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Protein</span>
+            <div class="nutrition-val">34g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Carbs</span>
+            <div class="nutrition-val">54g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fat</span>
+            <div class="nutrition-val">28g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fiber</span>
+            <div class="nutrition-val">2g</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Frequently Asked Questions -->
+      <section class="faq-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">❓ Frequently Asked Questions</h3>
+        <div class="faq-list">
+          
+    <div class="faq-item">
+      <div class="faq-question">
+        <span>❓ Why thigh fillet instead of breast?</span>
+        <span>▼</span>
+      </div>
+      <div class="faq-answer">
+        Chicken thigh fillet remains far juicier after deep frying.
+      </div>
+    </div>
+  
+        </div>
+      </section>
+
+      <!-- Share Recipe -->
+      <section class="share-bar-box">
+        <div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Loved this recipe?</h4>
+          <p style="font-size: 0.88rem; color: var(--text-muted);">Share it with your family and fellow food lovers!</p>
+        </div>
+
+        <div class="share-buttons-group">
+          <button class="btn-share btn-share-whatsapp" onclick="window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent('Crispy KFC Style Zinger Burger: ' + window.location.href))">
+            WhatsApp
+          </button>
+          <button class="btn-share btn-share-facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href))">
+            Facebook
+          </button>
+          <button class="btn-share btn-share-twitter" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent('Crispy KFC Style Zinger Burger recipe by Chef Bubble Kitchen') + '&url=' + encodeURIComponent(window.location.href))">
+            X / Twitter
+          </button>
+          <button class="btn-share btn-share-copy" onclick="copyToClipboard(window.location.href)">
+            Copy Link 📋
+          </button>
+        </div>
+      </section>
+
+      <!-- Related Recipes -->
+      
+      <section style="margin-top: 4rem;">
+        <h2 style="font-size: 1.85rem; margin-bottom: 1.5rem; text-align: center;">🍲 Related Recipes You'll Love</h2>
+        <div class="recipes-grid">
+          
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/oven-baked-bbq-chicken.html">
+          <img src="https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=800&q=80" alt="Oven-Baked BBQ Chicken" loading="lazy">
+        </a>
+        <span class="card-category-badge">Chicken Recipes</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/oven-baked-bbq-chicken.html">Oven-Baked BBQ Chicken</a>
+        </h3>
+        <p class="card-intro">Tender, juicy chicken thighs and drumsticks glazed with a smoky, sweet homemade BBQ sauce baked to golden perfection.</p>
+        <a href="/recipes/oven-baked-bbq-chicken.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/chicken-shawarma.html">
+          <img src="https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=800&q=80" alt="Middle Eastern Street Style Chicken Shawarma" loading="lazy">
+        </a>
+        <span class="card-category-badge">Fast Food</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/chicken-shawarma.html">Middle Eastern Street Style Chicken Shawarma</a>
+        </h3>
+        <p class="card-intro">Spiced grilled chicken slices wrapped in pita bread with garlic toum sauce, pickled cucumbers, and french fries.</p>
+        <a href="/recipes/chicken-shawarma.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/chicken-pizza.html">
+          <img src="https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80" alt="Homemade Cheesy Chicken Fajita Pizza" loading="lazy">
+        </a>
+        <span class="card-category-badge">Fast Food</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/chicken-pizza.html">Homemade Cheesy Chicken Fajita Pizza</a>
+        </h3>
+        <p class="card-intro">Fluffy homemade pizza crust topped with spicy fajita chicken, peppers, tomatoes, oregano, and gooey mozzarella cheese.</p>
+        <a href="/recipes/chicken-pizza.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+        </div>
+      </section>
+      
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="border:none; padding:0;">
+        <p>© 2026 Chef Bubble Kitchen. All rights reserved.</p>
+        <p><a href="/" style="color:var(--secondary);">Back to Homepage</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Favorites Modal Drawer -->
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems"></div>
+    </div>
+  </div>
+
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>

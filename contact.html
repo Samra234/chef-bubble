@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us | Chef Bubble Kitchen</title>
+  <meta name="description" content="Get in touch with Chef Bubble Kitchen. Send us your feedback, recipe requests, media inquiries, or collaboration opportunities.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link">Home</a></li>
+          <li><a href="/#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link">Categories</a></li>
+          <li><a href="/about.html" class="nav-link">About</a></li>
+          <li><a href="/contact.html" class="nav-link active">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <div style="text-align: center; max-width: 600px; margin: 0 auto 3rem;">
+        <span class="hero-badge">💬 We'd Love to Hear From You</span>
+        <h1 style="font-size: 2.75rem; margin-bottom: 0.75rem;">Get in Touch</h1>
+        <p style="color: var(--text-muted); font-size: 1.05rem;">Have a question about a recipe, feedback, or a recipe request? Send us a message below!</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1.2fr; gap: 3rem; background: white; padding: 3rem; border-radius: 20px; border: 1px solid var(--border-color); box-shadow: var(--shadow-sm);">
+        <div>
+          <h2 style="font-size: 1.75rem; margin-bottom: 1.25rem;">Contact Information</h2>
+          <p style="color: var(--text-muted); margin-bottom: 2rem;">Reach out directly via email or follow our social channels for daily recipe inspiration.</p>
+
+          <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              <span style="font-size: 1.5rem; background: var(--primary-light); padding: 0.5rem 0.85rem; border-radius: 50%;">📧</span>
+              <div>
+                <strong style="display: block;">Email Us</strong>
+                <span style="color: var(--text-muted); font-size: 0.95rem;">contact@chefbubblekitchen.com</span>
+              </div>
+            </div>
+
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              <span style="font-size: 1.5rem; background: var(--secondary-light); padding: 0.5rem 0.85rem; border-radius: 50%;">📍</span>
+              <div>
+                <strong style="display: block;">Kitchen Studio</strong>
+                <span style="color: var(--text-muted); font-size: 0.95rem;">Lahore, Punjab, Pakistan</span>
+              </div>
+            </div>
+
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              <span style="font-size: 1.5rem; background: #e8f5e9; padding: 0.5rem 0.85rem; border-radius: 50%;">⏰</span>
+              <div>
+                <strong style="display: block;">Response Time</strong>
+                <span style="color: var(--text-muted); font-size: 0.95rem;">Within 24 Hours</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <form onsubmit="event.preventDefault(); showToast('Thank you! Your message has been sent to Chef Bubble.'); this.reset();">
+          <h2 style="font-size: 1.75rem; margin-bottom: 1.25rem;">Send a Message</h2>
+          <div style="display: flex; flex-direction: column; gap: 1rem;">
+            <div>
+              <label style="display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.35rem;">Your Name</label>
+              <input type="text" placeholder="John Doe" required style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border-color); border-radius: 8px; outline: none;">
+            </div>
+
+            <div>
+              <label style="display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.35rem;">Email Address</label>
+              <input type="email" placeholder="john@example.com" required style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border-color); border-radius: 8px; outline: none;">
+            </div>
+
+            <div>
+              <label style="display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.35rem;">Subject</label>
+              <input type="text" placeholder="Recipe question or feedback" required style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border-color); border-radius: 8px; outline: none;">
+            </div>
+
+            <div>
+              <label style="display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.35rem;">Message</label>
+              <textarea rows="4" placeholder="Write your message here..." required style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border-color); border-radius: 8px; outline: none; resize: vertical;"></textarea>
+            </div>
+
+            <button type="submit" class="btn-primary" style="justify-content: center; width: 100%; min-height: 44px; margin-top: 0.5rem;">
+              Send Message 🚀
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="border:none; padding:0;">
+        <p>© <span id="currentYear">2026</span> Chef Bubble Kitchen. All rights reserved.</p>
+        <p><a href="/" style="color:var(--secondary);">Back to Home</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems"></div>
+    </div>
+  </div>
+
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>

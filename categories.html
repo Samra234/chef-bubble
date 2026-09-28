@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipe Categories | Chef Bubble Kitchen</title>
+  <meta name="description" content="Browse recipe categories on Chef Bubble Kitchen: Pakistani Recipes, Chicken Recipes, Beef & Mutton, Rice Recipes, Fast Food, Breakfast, and Desserts.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link">Home</a></li>
+          <li><a href="/#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link active">Categories</a></li>
+          <li><a href="/about.html" class="nav-link">About</a></li>
+          <li><a href="/contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <div style="text-align: center; max-width: 600px; margin: 0 auto 3rem;">
+        <span class="hero-badge">🍽️ Explore Culinary Collections</span>
+        <h1 style="font-size: 2.75rem; margin-bottom: 0.75rem;">Recipe Categories</h1>
+        <p style="color: var(--text-muted); font-size: 1.05rem;">Select a category to view all corresponding recipes instantly.</p>
+      </div>
+
+      <div class="categories-grid" style="margin-bottom: 3.5rem;">
+        <div class="category-card" onclick="filterCategoryPage('Pakistani Recipes')">
+          <span class="category-icon">🥘</span>
+          <span class="category-name">Pakistani Recipes</span>
+          <span class="category-count">10 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="filterCategoryPage('Chicken Recipes')">
+          <span class="category-icon">🍗</span>
+          <span class="category-name">Chicken Recipes</span>
+          <span class="category-count">6 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="filterCategoryPage('Beef & Mutton')">
+          <span class="category-icon">🥩</span>
+          <span class="category-name">Beef & Mutton</span>
+          <span class="category-count">2 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="filterCategoryPage('Rice Recipes')">
+          <span class="category-icon">🍚</span>
+          <span class="category-name">Rice Recipes</span>
+          <span class="category-count">3 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="filterCategoryPage('Fast Food')">
+          <span class="category-icon">🍔</span>
+          <span class="category-name">Fast Food</span>
+          <span class="category-count">6 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="filterCategoryPage('Breakfast')">
+          <span class="category-icon">🥞</span>
+          <span class="category-name">Breakfast</span>
+          <span class="category-count">3 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="filterCategoryPage('Desserts')">
+          <span class="category-icon">🍰</span>
+          <span class="category-name">Desserts</span>
+          <span class="category-count">7 Recipes</span>
+        </div>
+
+        <div class="category-card" onclick="filterCategoryPage('Drinks & Beverages')">
+          <span class="category-icon">🍹</span>
+          <span class="category-name">Drinks & Beverages</span>
+          <span class="category-count">3 Recipes</span>
+        </div>
+      </div>
+
+      <!-- Filtered Grid Section -->
+      <div id="categoryGridHeading" style="font-size: 1.75rem; margin-bottom: 1.5rem; font-family: 'Playfair Display', serif;">
+        Showing All Recipes
+      </div>
+
+      <div class="recipes-grid" id="categoryRecipesGrid">
+        <!-- JS renders here -->
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="border:none; padding:0;">
+        <p>© <span id="currentYear">2026</span> Chef Bubble Kitchen. All rights reserved.</p>
+        <p><a href="/" style="color:var(--secondary);">Back to Home</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems"></div>
+    </div>
+  </div>
+
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/main.js"></script>
+  <script>
+    async function initCategoryPage() {
+      await loadRecipesData();
+      renderCategoryRecipes('All');
+    }
+
+    function filterCategoryPage(categoryName) {
+      document.querySelectorAll('.category-card').forEach(c => c.classList.remove('active'));
+      const activeCard = Array.from(document.querySelectorAll('.category-name')).find(el => el.textContent.trim() === categoryName);
+      if (activeCard) {
+        activeCard.closest('.category-card').classList.add('active');
+      }
+      renderCategoryRecipes(categoryName);
+    }
+
+    function renderCategoryRecipes(cat) {
+      const heading = document.getElementById('categoryGridHeading');
+      const grid = document.getElementById('categoryRecipesGrid');
+      let recipes = getAllRecipesSync();
+
+      if (cat !== 'All') {
+        recipes = recipes.filter(r => r.category === cat);
+        heading.textContent = `${cat} (${recipes.length})`;
+      } else {
+        heading.textContent = `All Recipes (${recipes.length})`;
+      }
+
+      grid.innerHTML = recipes.map(r => renderRecipeCard(r)).join('');
+    }
+
+    document.addEventListener('DOMContentLoaded', initCategoryPage);
+  </script>
+</body>
+</html>

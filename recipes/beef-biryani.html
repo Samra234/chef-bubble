@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Karachi Style Spicy Beef Biryani Recipe | Chef Bubble Kitchen</title>
+  <meta name="description" content="Rich, robust beef biryani infused with dried plums (alubukhara), tangy tomatoes, spiced potatoes, and fragrant basmati rice.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/recipe.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link">Home</a></li>
+          <li><a href="/#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link">Categories</a></li>
+          <li><a href="/about.html" class="nav-link">About</a></li>
+          <li><a href="/contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Recipe Main Container -->
+  <main class="recipe-header-section">
+    <div class="container">
+
+      <!-- Breadcrumbs -->
+      <nav class="recipe-breadcrumb">
+        <a href="/">Home</a> <span>/</span>
+        <a href="/categories.html">Rice Recipes</a> <span>/</span>
+        <span style="color: var(--text-dark); font-weight: 600;">Karachi Style Spicy Beef Biryani</span>
+      </nav>
+
+      <!-- Recipe Hero Box -->
+      <article class="recipe-hero-card">
+        <!-- Recipe Title -->
+        <h1 class="recipe-main-title">Karachi Style Spicy Beef Biryani</h1>
+
+        <!-- Beautiful Recipe Image -->
+        <div class="recipe-featured-img-wrap">
+          <img src="https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80" alt="Karachi Style Spicy Beef Biryani">
+        </div>
+
+        <!-- Long SEO-Friendly Introduction -->
+        <p class="recipe-lead-intro">
+          Famous in Karachi street kitchens, Beef Biryani is celebrated for its tender chunks of beef, spiced potatoes, and dried sour plums that deliver a punchy sour-and-spicy balance. The beef is slow-cooked until melt-in-your-mouth soft before layering with steamed rice. The combination of rich beef broth and tangy tomatoes absorbed into every grain of rice creates a unforgettable feast.
+        </p>
+
+        <!-- Recipe Overview Bar -->
+        <div class="recipe-meta-grid">
+          <div class="meta-box-item">
+            <span class="meta-box-label">Prep Time</span>
+            <span class="meta-box-value">⏱️ 35 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Cooking Time</span>
+            <span class="meta-box-value">🔥 60 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Total Time</span>
+            <span class="meta-box-value">⏳ 95 mins</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Servings</span>
+            <span class="meta-box-value">👥 6 Persons</span>
+          </div>
+          <div class="meta-box-item">
+            <span class="meta-box-label">Difficulty</span>
+            <span class="meta-box-value">📊 Hard</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Two Column Grid for Ingredients & Instructions -->
+      <div class="recipe-content-grid">
+        <!-- Ingredients Section -->
+        <section class="recipe-ingredients-box">
+          <h2 class="box-title-icon">
+            <span>🥗</span> Ingredients
+          </h2>
+          <p style="font-size:0.85rem; color:var(--text-muted); margin-bottom:1rem;">Check items off as you prepare your kitchen station:</p>
+          <ul class="ingredient-list">
+            
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-0">
+      <label for="ing-0">1 kg beef (cut into curry size cubes)</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-1">
+      <label for="ing-1">1 kg long-grain Basmati rice</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-2">
+      <label for="ing-2">3 medium potatoes (peeled and quartered)</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-3">
+      <label for="ing-3">6 dried plums (Aloo Bukhara)</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-4">
+      <label for="ing-4">1 cup yogurt</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-5">
+      <label for="ing-5">4 medium tomatoes (sliced)</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-6">
+      <label for="ing-6">3 fried onions</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-7">
+      <label for="ing-7">2 tbsp ginger-garlic paste</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-8">
+      <label for="ing-8">Spices: Biryani masala, chili flakes, coriander, cumin, cloves, cardamom, star anise</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-9">
+      <label for="ing-9">Yellow food color + kewra essence</label>
+    </li>
+  
+    <li class="ingredient-item">
+      <input type="checkbox" id="ing-10">
+      <label for="ing-10">1/2 cup oil</label>
+    </li>
+  
+          </ul>
+        </section>
+
+        <!-- Step-by-Step Instructions -->
+        <section class="recipe-steps-box">
+          <h2 class="box-title-icon">
+            <span>👨‍🍳</span> Step-by-Step Instructions
+          </h2>
+          <div class="steps-list">
+            
+    <div class="step-card">
+      <div class="step-num">1</div>
+      <div class="step-text">Pressure cook beef with ginger-garlic paste, salt, and water for 25 minutes until 90% tender.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">2</div>
+      <div class="step-text">In a large pot, fry tomatoes, yogurt, dried plums, potatoes, and spices in oil until oil separates.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">3</div>
+      <div class="step-text">Add cooked beef with its rich broth into the masala; simmer until potatoes are tender and thick qorma forms.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">4</div>
+      <div class="step-text">Boil basmati rice in salted water with whole spices until 75% cooked. Drain.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">5</div>
+      <div class="step-text">Layer beef qorma and rice in a heavy pot. Sprinkle fried onions, yellow food color, and kewra water.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">6</div>
+      <div class="step-text">Seal with foil and lid. Steam (Dum) for 25 minutes on lowest heat setting.</div>
+    </div>
+  
+    <div class="step-card">
+      <div class="step-num">7</div>
+      <div class="step-text">Mix gently from the sides and serve hot.</div>
+    </div>
+  
+          </div>
+        </section>
+      </div>
+
+      <!-- Chef Bubble's Tips -->
+      <section class="chef-tips-box">
+        <h3 class="chef-tips-title">💡 Chef Bubble's Secret Tip</h3>
+        <p class="chef-tips-desc">Boiling potatoes directly in the beef qorma allows them to soak up rich spicy beef broth.</p>
+      </section>
+
+      <!-- Serving & Storage -->
+      <div class="serving-storage-grid">
+        <div class="info-card-block">
+          <h4>🍽️ Serving Suggestions</h4>
+          <p>Pair with chilled kachumber salad and mint raita.</p>
+        </div>
+
+        <div class="info-card-block">
+          <h4>📦 Storage Instructions</h4>
+          <p>Keeps well in fridge for 3 days; flavor often tastes even richer the next day.</p>
+        </div>
+      </div>
+
+      <!-- Nutrition Information -->
+      <section class="nutrition-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">🥗 Nutrition Information (Per Serving)</h3>
+        <p style="font-size: 0.88rem; color: var(--text-muted);">Estimated average nutritional metrics for balanced portion size:</p>
+        <div class="nutrition-grid">
+          <div class="nutrition-item">
+            <span class="nutrition-label">Calories</span>
+            <div class="nutrition-val">610 kcal</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Protein</span>
+            <div class="nutrition-val">36g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Carbs</span>
+            <div class="nutrition-val">72g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fat</span>
+            <div class="nutrition-val">22g</div>
+          </div>
+          <div class="nutrition-item">
+            <span class="nutrition-label">Fiber</span>
+            <div class="nutrition-val">4g</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Frequently Asked Questions -->
+      <section class="faq-section">
+        <h3 style="font-size: 1.35rem; margin-bottom: 0.5rem;">❓ Frequently Asked Questions</h3>
+        <div class="faq-list">
+          
+    <div class="faq-item">
+      <div class="faq-question">
+        <span>❓ Can I use mutton instead of beef?</span>
+        <span>▼</span>
+      </div>
+      <div class="faq-answer">
+        Yes, mutton works fantastically with the exact same spices and procedure.
+      </div>
+    </div>
+  
+        </div>
+      </section>
+
+      <!-- Share Recipe -->
+      <section class="share-bar-box">
+        <div>
+          <h4 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Loved this recipe?</h4>
+          <p style="font-size: 0.88rem; color: var(--text-muted);">Share it with your family and fellow food lovers!</p>
+        </div>
+
+        <div class="share-buttons-group">
+          <button class="btn-share btn-share-whatsapp" onclick="window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent('Karachi Style Spicy Beef Biryani: ' + window.location.href))">
+            WhatsApp
+          </button>
+          <button class="btn-share btn-share-facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href))">
+            Facebook
+          </button>
+          <button class="btn-share btn-share-twitter" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent('Karachi Style Spicy Beef Biryani recipe by Chef Bubble Kitchen') + '&url=' + encodeURIComponent(window.location.href))">
+            X / Twitter
+          </button>
+          <button class="btn-share btn-share-copy" onclick="copyToClipboard(window.location.href)">
+            Copy Link 📋
+          </button>
+        </div>
+      </section>
+
+      <!-- Related Recipes -->
+      
+      <section style="margin-top: 4rem;">
+        <h2 style="font-size: 1.85rem; margin-bottom: 1.5rem; text-align: center;">🍲 Related Recipes You'll Love</h2>
+        <div class="recipes-grid">
+          
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/chicken-biryani.html">
+          <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80" alt="Royal Special Chicken Biryani" loading="lazy">
+        </a>
+        <span class="card-category-badge">Rice Recipes</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/chicken-biryani.html">Royal Special Chicken Biryani</a>
+        </h3>
+        <p class="card-intro">A majestic layered rice dish featuring fragrant basmati rice, tender spiced chicken gravy, saffron milk, and crispy fried onions.</p>
+        <a href="/recipes/chicken-biryani.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/beef-keema.html">
+          <img src="https://images.unsplash.com/photo-1574653853027-5382a3d23a15?auto=format&fit=crop&w=800&q=80" alt="Spicy Dhaba Style Beef Keema Matar" loading="lazy">
+        </a>
+        <span class="card-category-badge">Beef & Mutton</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/beef-keema.html">Spicy Dhaba Style Beef Keema Matar</a>
+        </h3>
+        <p class="card-intro">Savory minced beef sautéed with green peas, onions, tomatoes, and aromatic warm spices.</p>
+        <a href="/recipes/beef-keema.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+    <div class="recipe-card">
+      <div class="card-image-wrap">
+        <a href="/recipes/nihari.html">
+          <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80" alt="Authentic Royal Beef Nihari" loading="lazy">
+        </a>
+        <span class="card-category-badge">Pakistani Recipes</span>
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="/recipes/nihari.html">Authentic Royal Beef Nihari</a>
+        </h3>
+        <p class="card-intro">Slow-cooked beef shank curry in a velvety flour-thickened broth with floating spiced oil (tari) and fresh herbs.</p>
+        <a href="/recipes/nihari.html" class="btn-view-recipe">View Recipe →</a>
+      </div>
+    </div>
+  
+        </div>
+      </section>
+      
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="border:none; padding:0;">
+        <p>© 2026 Chef Bubble Kitchen. All rights reserved.</p>
+        <p><a href="/" style="color:var(--secondary);">Back to Homepage</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Favorites Modal Drawer -->
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems"></div>
+    </div>
+  </div>
+
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>

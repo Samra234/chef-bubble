@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Chef Bubble | Chef Bubble Kitchen</title>
+  <meta name="description" content="Learn about Chef Bubble, our cooking philosophy, kitchen journey, and passion for authentic Pakistani and fusion culinary recipes.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/responsive.css">
+  <link rel="stylesheet" href="/css/animations.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="brand-logo">
+        <div class="brand-icon">🍳</div>
+        <span>Chef Bubble Kitchen</span>
+      </a>
+
+      <nav>
+        <ul class="nav-menu" id="navMenu">
+          <li><a href="/" class="nav-link">Home</a></li>
+          <li><a href="/#all-recipes" class="nav-link">Recipes</a></li>
+          <li><a href="/categories.html" class="nav-link">Categories</a></li>
+          <li><a href="/about.html" class="nav-link active">About</a></li>
+          <li><a href="/contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button class="btn-favorites" onclick="openFavoritesDrawer()">
+          <span>❤️</span>
+          <span>Favorites</span>
+          <span class="fav-badge" id="favCountBadge">0</span>
+        </button>
+        <button class="nav-toggle" id="navToggleBtn">☰</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 3rem;">
+        <span class="hero-badge">👨‍🍳 The Story Behind the Flavor</span>
+        <h1 style="font-size: 3rem; margin-bottom: 1rem;">About Chef Bubble Kitchen</h1>
+        <p style="font-size: 1.15rem; color: var(--text-muted);">
+          Bringing heart, passion, and heritage recipes from traditional kitchens directly to your dinner table.
+        </p>
+      </div>
+
+      <div class="about-chef-box" style="margin-bottom: 3rem;">
+        <div class="about-chef-grid">
+          <div>
+            <img src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=600&q=80" alt="Chef Bubble" style="width:100%; border-radius: 20px; box-shadow: var(--shadow-md);">
+          </div>
+          <div>
+            <h2 style="margin-bottom: 1rem;">Welcome to My Culinary World</h2>
+            <p style="margin-bottom: 1rem; color: var(--text-muted); line-height: 1.8;">
+              Chef Bubble Kitchen was created out of a deep love for home-cooked meals, fragrant spices, and the joy of sharing delicious food with family and friends.
+            </p>
+            <p style="margin-bottom: 1rem; color: var(--text-muted); line-height: 1.8;">
+              Growing up surrounded by traditional Pakistani cooking traditions—where aromatic Biryanis simmered in large brass pots and Karahi curries sizzled on high flames—I learned early on that food is more than just nourishment; it is an emotional celebration of culture and community.
+            </p>
+            <p style="color: var(--text-muted); line-height: 1.8;">
+              Every single recipe on this platform has been rigorously tested in my home kitchen to ensure clear measurements, predictable cooking times, and uncompromising taste.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-bottom: 4rem;">
+        <div style="background: white; padding: 2rem; border-radius: 16px; border: 1px solid var(--border-color); text-align: center;">
+          <span style="font-size: 2.5rem; display: block; margin-bottom: 1rem;">🎯</span>
+          <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem;">Our Mission</h3>
+          <p style="font-size: 0.95rem; color: var(--text-muted);">Demystify complex traditional curries and make home cooking accessible, fun, and delicious for everyone.</p>
+        </div>
+
+        <div style="background: white; padding: 2rem; border-radius: 16px; border: 1px solid var(--border-color); text-align: center;">
+          <span style="font-size: 2.5rem; display: block; margin-bottom: 1rem;">⭐</span>
+          <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem;">Foolproof Precision</h3>
+          <p style="font-size: 0.95rem; color: var(--text-muted);">Exact ingredient quantities, cooking tips, and storage instructions so your dishes turn out perfect on the first try.</p>
+        </div>
+
+        <div style="background: white; padding: 2rem; border-radius: 16px; border: 1px solid var(--border-color); text-align: center;">
+          <span style="font-size: 2.5rem; display: block; margin-bottom: 1rem;">🌏</span>
+          <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem;">Global Flavor Fusion</h3>
+          <p style="font-size: 0.95rem; color: var(--text-muted);">Celebrating both heritage Pakistani classics and trendy street food fast food loved across continents.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom" style="border:none; padding:0;">
+        <p>© <span id="currentYear">2026</span> Chef Bubble Kitchen. All rights reserved.</p>
+        <p><a href="/" style="color:var(--secondary);">Back to Home</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <div class="modal-overlay" id="favDrawerModal">
+    <div class="modal-drawer">
+      <div class="drawer-header">
+        <h3>❤️ My Favorite Recipes</h3>
+        <button class="btn-close-drawer" onclick="closeFavoritesDrawer()">✕</button>
+      </div>
+      <div class="drawer-body" id="favDrawerItems"></div>
+    </div>
+  </div>
+
+  <script src="/js/recipes.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>
