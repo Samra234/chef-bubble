@@ -49,5 +49,6 @@ copyFileSafe(path.join(rootDir, 'netlify.toml'), path.join(distDir, 'netlify.tom
 copyFileSafe(path.join(rootDir, 'robots.txt'), path.join(distDir, 'robots.txt'));
 copyFileSafe(path.join(rootDir, 'sitemap.xml'), path.join(distDir, 'sitemap.xml'));
 copyFileSafe(path.join(rootDir, 'favicon.ico'), path.join(distDir, 'favicon.ico'));
+copyFileSafe(path.join(rootDir, 'ads.txt'), path.join(distDir, 'ads.txt'));
 
 console.log('✓ Successfully populated dist/ directory for Netlify deployment.');
