@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chefbubble.netlify.app/sitemap.xml
