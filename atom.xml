@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chef Bubble Kitchen - Delicious Recipes &amp; Cooking Guides</title>
+  <subtitle>Authentic Pakistani, Desi, Fast Food, Breakfast, and Dessert recipes with step-by-step instructions from Chef Bubble.</subtitle>
+  <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/"/>
+  <link rel="self" type="application/atom+xml" href="https://chefbubble.netlify.app/atom.xml"/>
+  <id>https://chefbubble.netlify.app/atom.xml</id>
+  <updated>2026-10-19T13:25:36.061Z</updated>
+  <rights>Copyright (c) 2026 Chef Bubble Kitchen. All rights reserved.</rights>
+  <icon>https://chefbubble.netlify.app/favicon.ico</icon>
+  <logo>https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&amp;fit=crop&amp;w=800&amp;q=80</logo>
+  <author>
+    <name>Chef Bubble</name>
+    <uri>https://chefbubble.netlify.app/about.html</uri>
+    <email>samramuhammadsiddique831@gmail.com</email>
+  </author>
+
+  <entry>
+    <title>Oven-Baked BBQ Chicken</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/oven-baked-bbq-chicken.html"/>
+    <id>https://chefbubble.netlify.app/recipes/oven-baked-bbq-chicken.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Tender, juicy chicken thighs and drumsticks glazed with a smoky, sweet homemade BBQ sauce baked to golden perfection.</summary>
+    <category term="Chicken Recipes" label="Chicken Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=800&q=80" alt="Oven-Baked BBQ Chicken" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Chicken Recipes | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 45 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Chef Bubble&apos;s Oven-Baked BBQ Chicken brings the irresistible smoky aroma of outdoor grilling straight to your kitchen oven. Tender chicken pieces are first seasoned with a signature spice rub featuring smoked paprika, garlic powder, onion powder, and brown sugar. As it bakes, the chicken absorbs rich spices while staying extraordinarily juicy inside. In the final minutes, we brush a generous coating of tangy-sweet BBQ sauce that caramelizes under the oven heat, creating sticky, finger-licking goodness that everyone at the dinner table will adore.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 kg chicken pieces (bone-in drumsticks and thighs)</li><li>2 tbsp olive oil or melted butter</li><li>1 tbsp smoked paprika</li><li>1 tsp garlic powder</li><li>1 tsp onion powder</li><li>1/2 tsp cayenne pepper or chili powder</li><li>1 tbsp brown sugar</li><li>1 tsp salt and 1/2 tsp freshly cracked black pepper</li><li>1 cup sweet &amp; smoky BBQ sauce (Chef Bubble special rub mix)</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Pat the chicken pieces thoroughly dry with paper towels to ensure crispy skin.</li><li>In a small bowl, combine smoked paprika, garlic powder, onion powder, cayenne pepper, brown sugar, salt, and black pepper.</li><li>Drizzle olive oil over the chicken, then rub the spice mixture evenly over all sides.</li><li>Preheat your oven to 200°C (400°F). Line a baking sheet with foil and place a wire rack on top.</li><li>Arrange chicken pieces on the wire rack and bake for 30 minutes until skin turns golden.</li><li>Remove chicken from oven and brush liberally with BBQ sauce on all sides.</li><li>Return to the oven for another 15 minutes, brushing with additional sauce every 5 minutes until caramelized and internal temperature reaches 75°C (165°F).</li><li>Garnish with freshly chopped parsley or green onions before serving warm.</li></ol>
+      <p><strong>Chef's Tip:</strong> For extra sticky glaze, turn on the oven broiler during the last 2 minutes, watching closely to avoid burning the brown sugar in the sauce.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/oven-baked-bbq-chicken.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Pakistani Street-Style Chicken Karahi</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-karahi.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-karahi.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">An iconic Pakistani curry made with fresh tomatoes, ginger juliennes, green chilies, and coarsely crushed spicescooked in a traditional wok.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80" alt="Pakistani Street-Style Chicken Karahi" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 30 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Chicken Karahi is the heartbeat of Pakistani street food and highway dhabas. Cooked in a wok-like heavy skillet (karahi), this famous curry relies on ripe juicy tomatoes, ginger, garlic, and freshly crushed spices rather than heavy onions or cream. The high flame cooking seals in the juices of small cut chicken pieces, while tomatoes melt into a thick, fragrant gravy glistening with oil. Finished with fresh coriander, sliced green chilies, and slivers of fresh ginger, this dish delivers an electrifying burst of authentic flavor.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>800g bone-in chicken cut into small karahi pieces</li><li>5 large ripe tomatoes, halved</li><li>1/2 cup cooking oil or ghee</li><li>1.5 tbsp ginger paste and 1.5 tbsp garlic paste</li><li>1 tsp crushed red chili flakes</li><li>1 tsp cumin seeds (coarsely ground)</li><li>1 tbsp coriander seeds (coarsely ground)</li><li>1/2 tsp turmeric powder</li><li>1 tsp black pepper (freshly crushed)</li><li>1 tsp salt (to taste)</li><li>4-5 fresh green chilies (slit lengthwise)</li><li>Fresh ginger juliennes and cilantro for garnish</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Heat oil or ghee in a heavy karahi or wok over high heat. Add chicken pieces and salt.</li><li>Sear chicken for 5-7 minutes until it turns pale white and develops light golden edges.</li><li>Add ginger paste and garlic paste; stir vigorously for 2 minutes until fragrant.</li><li>Place tomato halves skin-side up over the chicken. Cover with a lid and cook on medium heat for 8-10 minutes.</li><li>Remove the lid; the tomato skins will have softened. Peel off all tomato skins easily using tongs.</li><li>Mash the tomatoes into the gravy using a spoon while cooking on high flame to reduce moisture.</li><li>Add red chili flakes, crushed cumin, crushed coriander, and turmeric powder. Bhunno (fry) on high heat until oil separates from the masala.</li><li>Stir in crushed black pepper, green chilies, and ginger juliennes. Simmer for 3 minutes.</li><li>Garnish with chopped cilantro and serve sizzling hot.</li></ol>
+      <p><strong>Chef's Tip:</strong> Never add onions or water to an authentic street-style Lahori Karahi. The entire gravy relies on fresh ripe tomatoes cooked on high heat.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-karahi.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Royal Special Chicken Biryani</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-biryani.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-biryani.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">A majestic layered rice dish featuring fragrant basmati rice, tender spiced chicken gravy, saffron milk, and crispy fried onions.</summary>
+    <category term="Rice Recipes" label="Rice Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80" alt="Royal Special Chicken Biryani" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Rice Recipes | <strong>Prep:</strong> 30 mins | <strong>Cook:</strong> 45 mins | <strong>Difficulty:</strong> Hard</p>
+      <p>Nothing defines South Asian festive dining like a steaming pot of authentic Chicken Biryani. Chef Bubble&apos;s Special Biryani recipe blends long-grain aged Basmati rice with succulent chicken marinated in spiced yogurt, golden fried onions (birista), fresh mint, and kewra water. The secret lies in the ancient &apos;Dum&apos; cooking method—sealing the heavy pot to trap aromatic steam, allowing every grain of rice to absorb the spicy chicken gravy while remaining distinct, fluffy, and aromatic.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 kg long-grain aged Basmati rice (soaked for 30 mins)</li><li>1 kg chicken pieces (bone-in preferred)</li><li>1 cup thick yogurt (whisked)</li><li>3 large onions (sliced paper-thin and fried golden brown)</li><li>2 tbsp ginger-garlic paste</li><li>2 large tomatoes (chopped)</li><li>Whole spices: 2 bay leaves, 4 cardamom pods, 1 cinnamon stick, 4 cloves, 1 star anise</li><li>1 tbsp Biryani Masala powder</li><li>1 tsp red chili powder, 1/2 tsp turmeric powder</li><li>1/2 cup fresh mint leaves and 1/2 cup cilantro</li><li>Pinch of saffron dissolved in 3 tbsp warm milk + 1 tsp Kewra water</li><li>1/2 cup ghee or cooking oil</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Marinate chicken with yogurt, ginger-garlic paste, half fried onions, red chili powder, turmeric, biryani masala, and salt for 1 hour.</li><li>In a large pot, heat ghee/oil. Add whole spices, tomatoes, and marinated chicken. Cook for 15-20 minutes until chicken is tender and gravy thickens.</li><li>In a separate big pot, boil 3 liters of water with salt, mint leaves, and whole spices. Add soaked Basmati rice and cook until 70% done. Drain rice.</li><li>In a heavy-bottomed pot, spread half the cooked chicken gravy at the bottom.</li><li>Layer half the parboiled rice over the chicken, followed by remaining fried onions, chopped mint, cilantro, and saffron milk.</li><li>Add remaining chicken gravy and top with the second layer of rice. Drizzle melted ghee and kewra water over top.</li><li>Cover tightly with foil and lid (Dum). Cook on high heat for 5 mins, then lower flame to minimum for 20 mins.</li><li>Gently fluff rice layers with a wide saucer before serving.</li></ol>
+      <p><strong>Chef's Tip:</strong> Parboil rice strictly to 70-80% (it should feel firm in center when pinched); it finishes cooking perfectly during the 20-minute Dum steam phase.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-biryani.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Karachi Style Spicy Beef Biryani</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/beef-biryani.html"/>
+    <id>https://chefbubble.netlify.app/recipes/beef-biryani.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Rich, robust beef biryani infused with dried plums (alubukhara), tangy tomatoes, spiced potatoes, and fragrant basmati rice.</summary>
+    <category term="Rice Recipes" label="Rice Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80" alt="Karachi Style Spicy Beef Biryani" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Rice Recipes | <strong>Prep:</strong> 35 mins | <strong>Cook:</strong> 60 mins | <strong>Difficulty:</strong> Hard</p>
+      <p>Famous in Karachi street kitchens, Beef Biryani is celebrated for its tender chunks of beef, spiced potatoes, and dried sour plums that deliver a punchy sour-and-spicy balance. The beef is slow-cooked until melt-in-your-mouth soft before layering with steamed rice. The combination of rich beef broth and tangy tomatoes absorbed into every grain of rice creates a unforgettable feast.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 kg beef (cut into curry size cubes)</li><li>1 kg long-grain Basmati rice</li><li>3 medium potatoes (peeled and quartered)</li><li>6 dried plums (Aloo Bukhara)</li><li>1 cup yogurt</li><li>4 medium tomatoes (sliced)</li><li>3 fried onions</li><li>2 tbsp ginger-garlic paste</li><li>Spices: Biryani masala, chili flakes, coriander, cumin, cloves, cardamom, star anise</li><li>Yellow food color + kewra essence</li><li>1/2 cup oil</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Pressure cook beef with ginger-garlic paste, salt, and water for 25 minutes until 90% tender.</li><li>In a large pot, fry tomatoes, yogurt, dried plums, potatoes, and spices in oil until oil separates.</li><li>Add cooked beef with its rich broth into the masala; simmer until potatoes are tender and thick qorma forms.</li><li>Boil basmati rice in salted water with whole spices until 75% cooked. Drain.</li><li>Layer beef qorma and rice in a heavy pot. Sprinkle fried onions, yellow food color, and kewra water.</li><li>Seal with foil and lid. Steam (Dum) for 25 minutes on lowest heat setting.</li><li>Mix gently from the sides and serve hot.</li></ol>
+      <p><strong>Chef's Tip:</strong> Boiling potatoes directly in the beef qorma allows them to soak up rich spicy beef broth.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/beef-biryani.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Smoky Charcoal Chicken Tikka</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-tikka.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-tikka.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Flame-grilled chicken quarter legs marinated in hung curd, lemon juice, garlic, and fiery tandoori spices with a smoky charcoal finish.</summary>
+    <category term="Chicken Recipes" label="Chicken Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80" alt="Smoky Charcoal Chicken Tikka" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Chicken Recipes | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 25 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Chicken Tikka is a classic barbecue staple loved worldwide. Chef Bubble&apos;s authentic formula marinates quarter chicken legs in tangy yogurt, Kashmiri red chili for natural ruby color, raw papaya for tenderness, and garlic-ginger paste. Skewered and grilled over hot coals or oven-broiled with coal smoke infusion, the skin gets crisp with charred edges while the meat inside remains piping hot and dripping juicy.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>4 chicken leg quarters (deeply slashed)</li><li>1/2 cup thick hung yogurt</li><li>2 tbsp lemon juice</li><li>1.5 tbsp ginger-garlic paste</li><li>1 tbsp Kashmiri red chili powder</li><li>1 tsp crushed cumin, 1 tsp coriander powder, 1/2 tsp garam masala</li><li>1 tsp chaat masala</li><li>2 tbsp mustard oil or vegetable oil</li><li>1 red hot piece of charcoal + 1 tsp butter for smoke infusion</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Make deep diagonal cuts across chicken leg quarters.</li><li>Whisk yogurt with lemon juice, ginger-garlic, Kashmiri chili, spices, oil, and salt to form a vibrant paste.</li><li>Rub marinade thoroughly into all chicken slits. Cover and refrigerate for at least 4 hours (overnight preferred).</li><li>Grill over outdoor charcoal grill OR bake at 220°C (425°F) for 25 minutes, turning midway and basting with butter.</li><li>For smoke infusion: place cooked chicken in a pot, put a small foil cup with burning hot charcoal inside, drop butter on charcoal, and cover tightly for 3 minutes.</li></ol>
+      <p><strong>Chef's Tip:</strong> Longer marination is key to soft meat fibers; hung yogurt prevents watery coating.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-tikka.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Creamy Restaurant Style Chicken Handi</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-handi.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-handi.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Boneless chicken cubes cooked in a clay pot gravy with onions, tomatoes, heavy cream, butter, and fragrant kasuri methi.</summary>
+    <category term="Chicken Recipes" label="Chicken Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80" alt="Creamy Restaurant Style Chicken Handi" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Chicken Recipes | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 25 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Chicken Handi gets its name from traditional clay pots (&apos;handi&apos;) where curries are slowly simmered. This restaurant favorite features bite-sized boneless chicken cooked in a smooth, silky gravy enriched with butter, cream, and dry fenugreek leaves (kasuri methi). It is mild, buttery, and exceptionally velvety.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>600g boneless chicken cubes</li><li>1/2 cup fresh heavy cream</li><li>2 tbsp butter + 2 tbsp oil</li><li>1 large onion (finely pureed)</li><li>2 medium tomatoes (pureed)</li><li>1 tbsp ginger-garlic paste</li><li>1 tsp cumin powder, 1 tsp coriander powder, 1/2 tsp white pepper powder</li><li>1 tbsp dry fenugreek leaves (Kasuri Methi)</li><li>Green chilies &amp; fresh ginger for garnish</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Heat oil and butter in a handi or deep pot. Fry pureed onion until pale golden.</li><li>Add ginger-garlic paste and chicken cubes; sauté until chicken turns white.</li><li>Pour in tomato puree, cumin, coriander, white pepper, and salt. Cook until oil separates.</li><li>Reduce heat to low and fold in heavy cream and crushed Kasuri Methi.</li><li>Simmer for 5 minutes until gravy becomes glossy and smooth.</li><li>Top with sliced green chilies and butter knob before serving.</li></ol>
+      <p><strong>Chef's Tip:</strong> Rub kasuri methi between your palms before dropping into curry to release maximum aroma.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-handi.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Classic Murgh Makhani (Butter Chicken)</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/butter-chicken.html"/>
+    <id>https://chefbubble.netlify.app/recipes/butter-chicken.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Tender grilled tandoori chicken simmered in a velvety, buttery tomato gravy infused with cashews and honey.</summary>
+    <category term="Chicken Recipes" label="Chicken Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80" alt="Classic Murgh Makhani (Butter Chicken)" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Chicken Recipes | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 30 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Murgh Makhani is globally renowned for its silky texture and rich taste. Tandoori marinated chicken pieces are pre-grilled and bathed in a pureed tomato, cashew, and butter sauce sweetened with a touch of honey. Balanced with gentle spices and fresh cream, it offers pure comfort food perfection.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>600g boneless chicken thighs (cut into cubes)</li><li>4 tbsp butter + 1 tbsp oil</li><li>1/2 cup raw cashews (soaked in warm water)</li><li>4 ripe tomatoes (boiled and pureed)</li><li>1 tbsp ginger-garlic paste</li><li>1 tsp Kashmiri chili powder, 1/2 tsp garam masala</li><li>1 tbsp honey or sugar</li><li>1/2 cup cooking cream</li><li>1 tbsp crushed kasuri methi</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Marinate chicken cubes in yogurt, chili, and garlic paste for 30 mins; pan grill until browned.</li><li>Blend soaked cashews with pureed tomatoes until completely smooth.</li><li>Melt butter in saucepan, add ginger-garlic paste, then pour in smooth cashew-tomato puree.</li><li>Add chili powder, salt, and honey. Simmer for 10 minutes until sauce thickens.</li><li>Add browned chicken, cream, and Kasuri Methi. Cook on low heat for 8 minutes.</li><li>Finish with a swirl of cream and extra butter.</li></ol>
+      <p><strong>Chef's Tip:</strong> Straining the tomato-cashew puree through a fine wire mesh sieve guarantees 100% silkiness.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/butter-chicken.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Aromatic Yakhni Chicken Pulao</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-pulao.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-pulao.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Subtly spiced basmati rice simmered in clear chicken broth (yakhni) with whole spices and caramelized onions.</summary>
+    <category term="Rice Recipes" label="Rice Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=800&q=80" alt="Aromatic Yakhni Chicken Pulao" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Rice Recipes | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 40 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Yakhni Pulao is an elegant, fragrant rice dish where chicken is first boiled with whole spices (coriander seeds, fennel, cardamom, cumin) to create a deeply flavorful broth (yakhni). Basmati rice is then cooked inside this concentrated broth, absorbing every drop of rich chicken flavor without heavy tomatoes or red chili.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>750g chicken bone-in</li><li>3 cups long grain Basmati rice (soaked)</li><li>For Broth (Yakhni): 1 onion, 1 garlic head, 2 inch ginger, 2 tbsp coriander seeds, 1 tbsp fennel seeds, whole spice bouquet</li><li>2 medium onions (sliced thin)</li><li>1/2 cup yogurt</li><li>1/2 cup oil or ghee</li><li>4 green chilies</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Boil chicken with broth ingredients in 6 cups water for 20 mins; strain clear Yakhni broth and set chicken aside.</li><li>In a main pot, fry sliced onions in ghee until medium brown.</li><li>Add ginger-garlic paste, chicken pieces, yogurt, and green chilies. Fry for 5 mins.</li><li>Pour in measured Yakhni broth (approx 5 cups) and bring to a rolling boil.</li><li>Add soaked rice, adjust salt, and cook on high heat until water reduces.</li><li>Cover pot tightly and steam (Dum) on low heat for 15 minutes.</li></ol>
+      <p><strong>Chef's Tip:</strong> Tying fennel seeds and coriander seeds in a cheesecloth bundle (potli) makes straining the broth effortless.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-pulao.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Shinwari Mutton Karahi</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/mutton-karahi.html"/>
+    <id>https://chefbubble.netlify.app/recipes/mutton-karahi.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Peshawari style succulent mutton cooked in animal fat or ghee with fresh tomatoes, black pepper, and green chilies.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1545247181-516773cae754?auto=format&fit=crop&w=800&q=80" alt="Shinwari Mutton Karahi" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 45 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Hailing from Pashtun food streets in Khyber Pakhtunkhwa, Shinwari Mutton Karahi relies on extreme simplicity: tender young mutton, salt, tomatoes, black pepper, and green chilies. No onion, garlic paste, or red powder is added—allowing the natural sweet meat juices and tomato reduction to shine.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>800g fresh mutton (goat/lamb with fat)</li><li>6 ripe tomatoes (cut in half)</li><li>1/2 cup ghee or cooking fat</li><li>1.5 tsp salt</li><li>1.5 tsp freshly coarsely ground black pepper</li><li>6 green chilies (slit)</li><li>Ginger juliennes</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>In a wok or karahi, heat ghee. Add mutton and salt; stir fry on high flame for 8 minutes until color turns dark.</li><li>Cover and cook on medium low heat for 25 minutes in mutton&apos;s own juices until tender.</li><li>Place tomato halves over mutton, cover for 7 mins, then peel off tomato skins.</li><li>Bhunno (fry on high heat) while mashing tomatoes until gravy turns rich and thick.</li><li>Throw in coarsely crushed black pepper and green chilies. Simmer for 2 minutes and serve.</li></ol>
+      <p><strong>Chef's Tip:</strong> Coarsely ground black pepper added at the very end prevents gravy from turning dark while delivering fresh heat.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/mutton-karahi.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Spicy Dhaba Style Beef Keema Matar</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/beef-keema.html"/>
+    <id>https://chefbubble.netlify.app/recipes/beef-keema.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Savory minced beef sautéed with green peas, onions, tomatoes, and aromatic warm spices.</summary>
+    <category term="Beef &amp; Mutton" label="Beef &amp; Mutton"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1574653853027-5382a3d23a15?auto=format&fit=crop&w=800&q=80" alt="Spicy Dhaba Style Beef Keema Matar" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Beef &amp; Mutton | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 30 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Beef Keema Matar is a fast, flavor-packed minced meat dish. Hand-ground minced beef is simmered with onions, garlic, ginger, sweet green peas, and warm spices until rich, dry, and glistening with spicy gravy.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>600g lean minced beef (keema)</li><li>1 cup sweet green peas (fresh or frozen)</li><li>2 large onions (finely chopped)</li><li>2 tomatoes (chopped)</li><li>1 tbsp ginger-garlic paste</li><li>1 tsp cumin, 1.5 tsp coriander powder, 1 tsp chili powder, 1/2 tsp turmeric</li><li>1 tsp garam masala powder</li><li>Fresh mint &amp; cilantro</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Heat oil in pan; fry onions until golden brown.</li><li>Add ginger-garlic and minced beef; break up meat clumps and fry on high heat for 7 minutes.</li><li>Add tomatoes, chili powder, turmeric, coriander, and salt. Cover and cook for 15 mins.</li><li>Add green peas and 1/4 cup water. Simmer until peas are tender.</li><li>Finish with garam masala, green chilies, and mint leaves.</li></ol>
+      <p><strong>Chef's Tip:</strong> Searing mincemeat on high heat evaporates liquid quickly and prevents boiled texture.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/beef-keema.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Shahi Shadiyon Wala Chicken Qorma</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-qorma.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-qorma.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Rich festive wedding style chicken qorma with grainy onion-yogurt gravy, nutmeg, mace, and kewra.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80" alt="Shahi Shadiyon Wala Chicken Qorma" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 35 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Traditional Pakistani wedding Qorma is distinguished by its golden brown grainy gravy (danedar) achieved by crushing crisp fried onions into whipped yogurt along with nutmeg, mace, and kewra water. Elegant, rich, and regal.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>800g bone-in chicken</li><li>1 cup yogurt (whisked thoroughly)</li><li>2 large onions (sliced thin, fried dark golden and crushed)</li><li>1 tbsp ginger-garlic paste</li><li>Whole spices: black cardamom, cloves, cinnamon, green cardamom</li><li>Pinch of nutmeg (jaiphal) &amp; mace (javitri) powder</li><li>1 tsp kewra water</li><li>1/2 cup ghee</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>In ghee, fry whole spices and chicken until chicken turns light golden.</li><li>Add ginger-garlic paste, red chili powder, coriander powder, turmeric, and salt.</li><li>Pour whisked yogurt and cook until oil separates.</li><li>Mix crushed fried onions into the gravy; gravy will instantly turn thick and grainy (danedar).</li><li>Add 1 cup water, cover, and simmer for 15 mins until chicken is tender.</li><li>Sprinkle nutmeg-mace powder and kewra water. Cover for 2 minutes before opening.</li></ol>
+      <p><strong>Chef's Tip:</strong> Crush fried onions with hands or mortar pestle, never blend in electric blender to keep danedar texture.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-qorma.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Homestyle Aloo Gosht Gravy</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/aloo-gosht.html"/>
+    <id>https://chefbubble.netlify.app/recipes/aloo-gosht.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Comforting mutton meat and potato curry with clear thin savory gravy spiced with warm spices and fresh coriander.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80" alt="Homestyle Aloo Gosht Gravy" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 40 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Aloo Gosht is the quintessential Pakistani soul food served at family Sunday lunches. Soft potatoes soak up the rich, flavorful meat broth made from tender mutton or beef.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>700g mutton or beef with bones</li><li>3 medium potatoes (peeled and halved)</li><li>2 onions (chopped)</li><li>2 tomatoes (chopped)</li><li>1 tbsp ginger-garlic paste</li><li>1 tsp red chili, 1/2 tsp turmeric, 1.5 tsp coriander powder</li><li>1 tsp Garam Masala</li><li>4 tbsp oil</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Pressure cook meat with onions, ginger-garlic, tomatoes, red chili, turmeric, salt, and water for 18 mins.</li><li>Open cooker, add oil and coriander powder, and fry (bhunno) until oil separates.</li><li>Add potato halves and fry for 3 minutes.</li><li>Add 3 cups water for gravy, cover and cook until potatoes are tender.</li><li>Garnish with garam masala and fresh coriander.</li></ol>
+      <p><strong>Chef's Tip:</strong> Halving potatoes keeps them firm without turning mushy into gravy.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/aloo-gosht.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Authentic Royal Beef Nihari</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/nihari.html"/>
+    <id>https://chefbubble.netlify.app/recipes/nihari.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Slow-cooked beef shank curry in a velvety flour-thickened broth with floating spiced oil (tari) and fresh herbs.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80" alt="Authentic Royal Beef Nihari" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 25 mins | <strong>Cook:</strong> 180 mins | <strong>Difficulty:</strong> Hard</p>
+      <p>Nihari is a historic Mughlai dish traditionally slow-simmered overnight. Beef shank (bong) and marrow bones are cooked in a spice gravy containing fennel, dry ginger (sonth), and whole spices. Thickened with roasted wheat flour slurry and topped with spicy ghee tari, ginger juliennes, and lime.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 kg beef shank (Bong meat) + marrow bones</li><li>1/2 cup ghee</li><li>Nihari masala: 2 tbsp fennel seeds, 1 tbsp dry ginger powder, mace, nutmeg, black pepper, cardamom, cinnamon</li><li>1/2 cup wheat flour (atta) roasted light brown</li><li>Garnish: fresh ginger juliennes, green chilies, lemon wedges, fried onions</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Heat ghee, fry ginger-garlic and beef shank with bones until seared.</li><li>Add Nihari spice powder and salt; fry for 5 minutes.</li><li>Pour 6-8 cups water, cover, and simmer on low flame for 3 hours (or 45 mins in pressure cooker) until meat is butter-soft.</li><li>Dissolve roasted flour in water to make a smooth slurry; pour slowly into stew while stirring continuously.</li><li>Simmer for 20 minutes as gravy thickens to silky finish.</li><li>Serve piping hot topped with extra spiced ghee (tari), ginger juliennes, and lemon juice.</li></ol>
+      <p><strong>Chef's Tip:</strong> Slow cooking over low heat breaks down connective tissue in shank meat into melting tenderness.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/nihari.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Special Shahi Beef Haleem / Khichda</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/haleem.html"/>
+    <id>https://chefbubble.netlify.app/recipes/haleem.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Slow-cooked stew of 7 grains, lentils, and shredded meat blended into a creamy rich paste topped with fried onions.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1574653853027-5382a3d23a15?auto=format&fit=crop&w=800&q=80" alt="Special Shahi Beef Haleem / Khichda" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 40 mins | <strong>Cook:</strong> 150 mins | <strong>Difficulty:</strong> Hard</p>
+      <p>Haleem is a nutritious royal dish made by slow-cooking cracked wheat, barley, four types of lentils, and beef or chicken for hours until meat fibers stretch and blend completely into the grains. Garnished with golden onions, chaat masala, mint, and lemon.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>500g beef or chicken meat</li><li>1 cup cracked wheat (daliya)</li><li>1/2 cup barley (jow/jao)</li><li>1/4 cup each: Chana daal, Moong daal, Masoor daal, Mash daal, Rice</li><li>1 cup ghee</li><li>2 tbsp ginger-garlic paste</li><li>Spices: Haleem masala powder, red chili, turmeric, garam masala</li><li>Garnish: fried onions, mint, green chili, ginger, lemon</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Soak grains and lentils overnight. Boil until completely soft and blend coarsely.</li><li>Cook meat with ginger-garlic, spices, and ghee until falling apart tender; shred meat thoroughly.</li><li>Combine shredded meat and boiled grains in a large pot.</li><li>Mash continuously with wooden mallet (ghota) for 30 minutes until stretchy smooth paste forms.</li><li>Pour hot tadka ghee over top and garnish with crispy fried onions.</li></ol>
+      <p><strong>Chef's Tip:</strong> Using a hand wooden ghota breaks meat fibers into famous stretchy silk texture.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/haleem.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Tadka Daal Chawal with Zeera Rice</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/daal-chawal.html"/>
+    <id>https://chefbubble.netlify.app/recipes/daal-chawal.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Yellow yellow lentil curry tempered with garlic, cumin, and red chilies in ghee served over cumin rice.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80" alt="Tadka Daal Chawal with Zeera Rice" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 30 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Daal Chawal is the ultimate Pakistani home comfort food. Yellow split lentils (Moong and Masoor) are simmered with turmeric and garlic, then finished with sizzling hot ghee tadka infused with sliced garlic, cumin seeds, and whole dry red chilies.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 cup Moong Daal + 1 cup Masoor Daal (washed)</li><li>4 cups water</li><li>1/2 tsp turmeric, 1 tsp red chili powder, 1 tsp salt</li><li>For Tadka (Tempering): 3 tbsp ghee, 5 cloves garlic (sliced), 1 tsp cumin seeds, 3 dry red chilies, curry leaves</li><li>2 cups Basmati rice cooked with 1 tsp cumin seeds (Zeera Rice)</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Boil lentils in water with turmeric, chili powder, garlic paste, and salt for 20 mins until soft; whisk well.</li><li>Cook cumin Basmati rice separately.</li><li>Prepare Tadka: Heat ghee in small pan, add garlic slices until golden brown, then toss cumin seeds and red dry chilies.</li><li>Sizzle hot tadka directly into warm lentil pot; cover immediately to seal aroma.</li><li>Serve over hot Zeera rice with pickle.</li></ol>
+      <p><strong>Chef's Tip:</strong> Covering the pot right after pouring hot tadka seals garlic-cumin aroma into lentils.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/daal-chawal.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Punjabi Kadhi Pakora</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/kadhi-pakora.html"/>
+    <id>https://chefbubble.netlify.app/recipes/kadhi-pakora.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Tangy yogurt and gram flour curry cooked with crunchy onion fritters and aromatic chili ghee tempering.</summary>
+    <category term="Pakistani Recipes" label="Pakistani Recipes"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80" alt="Punjabi Kadhi Pakora" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Pakistani Recipes | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 45 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Kadhi Pakora features crispy spiced onion gram flour fritters (pakoras) submerged in a simmering sour yogurt and besan curry. Tempered with red chilies, mustard seeds, and curry leaves.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>For Kadhi: 2 cups sour yogurt, 1/2 cup besan (gram flour), 1 tsp turmeric, 1 tsp chili powder, 4 cups water</li><li>For Pakoras: 1 cup besan, 2 chopped onions, green chilies, cilantro, cumin seeds, pinch baking soda, oil for frying</li><li>For Tempering: 3 tbsp ghee, fenugreek seeds, mustard seeds, cumin, whole red chilies</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Whisk yogurt, besan, turmeric, chili powder, and water until smooth without lumps. Simmer on low heat for 35 minutes.</li><li>Mix pakora ingredients with water into thick batter; drop spoonfuls into hot oil and fry golden.</li><li>Drop hot pakoras into simmering yogurt curry.</li><li>Heat ghee, sizzle tempering spices, and pour over kadhi.</li></ol>
+      <p><strong>Chef's Tip:</strong> Use slightly sour yogurt for authentic tangy Kadhi flavor.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/kadhi-pakora.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Crispy Stuffed Aloo Paratha</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/aloo-paratha.html"/>
+    <id>https://chefbubble.netlify.app/recipes/aloo-paratha.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Flaky whole wheat flatbread stuffed with spiced mashed potatoes cooked golden with ghee.</summary>
+    <category term="Breakfast" label="Breakfast"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80" alt="Crispy Stuffed Aloo Paratha" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Breakfast | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 15 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>A popular breakfast staple! Crisp on the outside and soft inside, stuffed with spiced boiled potatoes, coriander, green chilies, and dry pomegranate seeds (anardana).</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 cups whole wheat flour (atta) kneaded into dough</li><li>3 boiled mashed potatoes</li><li>1 tsp crushed cumin, 1 tsp coriander seeds, 1/2 tsp red chili, 1 tsp dry pomegranate seeds (anardana)</li><li>Fresh cilantro &amp; green chilies</li><li>Ghee or butter for frying</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Mix mashed potatoes with spices, herbs, and salt.</li><li>Roll small dough ball into disc, place potato stuffing in center, pinch edges together and flatten.</li><li>Roll gently into stuffed round paratha.</li><li>Cook on hot skillet (tawa), apply ghee on both sides, and fry until golden crisp spots form.</li></ol>
+      <p><strong>Chef's Tip:</strong> Ensure mashed potatoes have no hard lumps to prevent tear while rolling.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/aloo-paratha.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Crispy Golden Chicken Samosa</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-samosa.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-samosa.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Deep-fried triangular pastry stuffed with savory minced chicken, green peas, and warm spices.</summary>
+    <category term="Fast Food" label="Fast Food"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80" alt="Crispy Golden Chicken Samosa" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Fast Food | <strong>Prep:</strong> 30 mins | <strong>Cook:</strong> 20 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Samosas are the king of tea-time snacks! Flaky pastry filled with seasoned minced chicken, green chilies, and herbs fried to crunchy perfection.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>10 samosa pastry sheets (or flour dough discs)</li><li>300g cooked minced chicken</li><li>1 finely chopped onion</li><li>1 tsp cumin, 1 tsp garam masala, 1/2 tsp chili flakes</li><li>1/2 cup green peas</li><li>Oil for deep frying</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Sauté minced chicken with onions, peas, spices, and green herbs until dry.</li><li>Fold pastry sheet into cone shape, fill with chicken mixture, seal edges with flour paste.</li><li>Deep fry in medium-hot oil until golden brown and crispy.</li></ol>
+      <p><strong>Chef's Tip:</strong> Frying on medium-low oil temperature yields extra flaky crispy crust.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-samosa.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Crispy Chinese Vegetable Spring Rolls</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/vegetable-spring-rolls.html"/>
+    <id>https://chefbubble.netlify.app/recipes/vegetable-spring-rolls.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Thin crispy spring roll sheets wrapped around stir-fried shredded cabbage, carrots, bell peppers, and soy sauce.</summary>
+    <category term="Fast Food" label="Fast Food"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80" alt="Crispy Chinese Vegetable Spring Rolls" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Fast Food | <strong>Prep:</strong> 25 mins | <strong>Cook:</strong> 15 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>A crunchy Asian appetizer loaded with colorful shredded vegetables stir-fried on high flame with soy sauce, sesame oil, and black pepper wrapped in thin spring roll sheets.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>8 spring roll wrapper sheets</li><li>2 cups shredded cabbage</li><li>1 cup julienned carrots &amp; bell peppers</li><li>1 tbsp soy sauce, 1 tbsp chili sauce, 1 tsp black pepper</li><li>1 tbsp cornstarch paste for sealing</li><li>Oil for frying</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Stir fry shredded vegetables on high heat for 3 minutes with soy sauce, pepper, and salt; cool completely.</li><li>Place filling on spring roll sheet corner, roll tightly, fold sides, and seal with cornstarch paste.</li><li>Fry in hot oil until golden crisp.</li></ol>
+      <p><strong>Chef's Tip:</strong> Cool veggie filling completely before rolling to keep wrappers crisp.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/vegetable-spring-rolls.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Middle Eastern Street Style Chicken Shawarma</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-shawarma.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-shawarma.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Spiced grilled chicken slices wrapped in pita bread with garlic toum sauce, pickled cucumbers, and french fries.</summary>
+    <category term="Fast Food" label="Fast Food"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=800&q=80" alt="Middle Eastern Street Style Chicken Shawarma" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Fast Food | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 15 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Street style shawarma with spiced grilled chicken strips, creamy homemade garlic mayo (toum), pickled turnips, fresh cucumber slices, and crispy fries wrapped snugly in warm pita bread.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>500g boneless chicken strips</li><li>4 pita or flatbread wraps</li><li>1/2 cup garlic mayonnaise sauce (Toum)</li><li>Pickled cucumbers &amp; jalapenos</li><li>French fries</li><li>Shawarma seasoning: cumin, paprika, garlic powder, cardamom, cinnamon, lemon juice</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Marinate chicken strips with shawarma spices, lemon juice, yogurt, and olive oil for 30 mins.</li><li>Pan grill chicken strips on high heat until charred and tender.</li><li>Spread garlic toum sauce over pita bread.</li><li>Layer grilled chicken, pickles, and fries; roll tightly in parchment paper.</li></ol>
+      <p><strong>Chef's Tip:</strong> Toasting wrapped shawarma on a hot grill pan seals the roll and warms the bread.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-shawarma.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Crispy KFC Style Zinger Burger</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/zinger-burger.html"/>
+    <id>https://chefbubble.netlify.app/recipes/zinger-burger.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Extra crunchy fried chicken thigh fillet in toasted sesame bun with iceberg lettuce and spicy mayo.</summary>
+    <category term="Fast Food" label="Fast Food"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80" alt="Crispy KFC Style Zinger Burger" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Fast Food | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 15 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>The ultimate fast food dream! Succulent buttermilk marinated chicken fillet double-dusted in seasoned flour creating craggy crispy coating, fried golden, and layered with spicy mayonnaise and fresh iceberg lettuce in toasted sesame buns.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 boneless chicken thigh fillets</li><li>1 cup buttermilk</li><li>1.5 cups plain flour + 2 tbsp cornstarch</li><li>Paprika, garlic powder, pepper, salt, chili powder</li><li>2 burger buns</li><li>Iceberg lettuce &amp; mayo sauce</li><li>Oil for frying</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Marinate chicken fillets in buttermilk and hot sauce for 1 hour.</li><li>Mix flour with cornstarch and seasonings.</li><li>Dip chicken fillet in seasoned flour, submerge briefly in ice water, then re-coat in flour pressing firmly for craggy coating.</li><li>Deep fry at 170°C for 7 minutes until crispy golden.</li><li>Assemble burger with toasted buns, spicy mayo, crisp chicken zinger fillet, and lettuce.</li></ol>
+      <p><strong>Chef's Tip:</strong> The flour-ice water-flour double dip technique creates trademark crunchy zinger flakiness.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/zinger-burger.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Homemade Cheesy Chicken Fajita Pizza</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-pizza.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-pizza.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Fluffy homemade pizza crust topped with spicy fajita chicken, peppers, tomatoes, oregano, and gooey mozzarella cheese.</summary>
+    <category term="Fast Food" label="Fast Food"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80" alt="Homemade Cheesy Chicken Fajita Pizza" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Fast Food | <strong>Prep:</strong> 30 mins | <strong>Cook:</strong> 20 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Freshly baked homemade pizza with a light, airy dough crust, rich tomato pizza sauce, spicy fajita chicken chunks, bell peppers, onions, black olives, and melted stretchy Mozzarella cheese.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 cups pizza flour dough (yeast raised)</li><li>1 cup spiced fajita chicken chunks</li><li>1/2 cup pizza sauce</li><li>1.5 cups Mozzarella &amp; Cheddar cheese shredded</li><li>Sliced bell peppers, onions, black olives, oregano</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Roll out pizza dough on pan and prick with fork.</li><li>Spread tomato pizza sauce evenly over base.</li><li>Generously layer cheese, spiced cooked chicken chunks, peppers, onions, and olives.</li><li>Bake in preheated oven at 230°C (450°F) for 15-18 minutes until cheese bubbles golden.</li></ol>
+      <p><strong>Chef's Tip:</strong> Preheating baking pan ensures crisp bottom crust without sogginess.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-pizza.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Creamy Garlic White Sauce Pasta (Alfredo)</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/white-sauce-pasta.html"/>
+    <id>https://chefbubble.netlify.app/recipes/white-sauce-pasta.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Penne pasta tossed in rich butter, garlic, heavy cream, parmesan, and sautéed chicken with herbs.</summary>
+    <category term="Fast Food" label="Fast Food"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1621996346565-e3def6164286?auto=format&fit=crop&w=800&q=80" alt="Creamy Garlic White Sauce Pasta (Alfredo)" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Fast Food | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 20 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Decadent fettuccine or penne pasta smothered in homemade garlic Alfredo white sauce made with butter, heavy cream, parmesan cheese, black pepper, and oregano.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>250g Penne or Fettuccine pasta boiled al dente</li><li>2 tbsp butter</li><li>1 tbsp minced garlic</li><li>1 cup heavy cream + 1/2 cup milk</li><li>1/2 cup grated Parmesan cheese</li><li>1 cup grilled chicken strips</li><li>1 tsp oregano, 1/2 tsp crushed black pepper</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Boil pasta in salted water until al dente; reserve 1/2 cup pasta water.</li><li>Melt butter in skillet, sauté garlic for 1 minute.</li><li>Pour in cream and milk; simmer for 3 minutes until smooth.</li><li>Stir in Parmesan cheese, oregano, black pepper, grilled chicken, and pasta.</li><li>Toss well, adding reserved pasta water if needed for creamy texture.</li></ol>
+      <p><strong>Chef's Tip:</strong> Always cook pasta al dente so it absorbs white sauce without turning mushy.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/white-sauce-pasta.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Desi Chinese Chicken Chow Mein Noodles</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chicken-noodles.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chicken-noodles.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Stir-fried egg noodles with chicken strips, crisp cabbage, carrots, bell peppers, soy sauce, and chili vinegar.</summary>
+    <category term="Fast Food" label="Fast Food"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=80" alt="Desi Chinese Chicken Chow Mein Noodles" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Fast Food | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 15 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Street style Indo-Chinese Chow Mein noodles flash stir-fried on high heat with sliced chicken, crunchy vegetables, dark soy sauce, chili sauce, and sesame oil.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>250g egg noodles (boiled)</li><li>200g chicken strips</li><li>1 cup shredded cabbage, carrots, capsicum</li><li>2 tbsp soy sauce, 1 tbsp chili sauce, 1 tbsp vinegar, 1 tsp crushed black pepper</li><li>2 tbsp oil</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Stir fry chicken strips in hot oil until cooked.</li><li>Add garlic and shredded vegetables; toss on high flame for 2 minutes.</li><li>Add boiled noodles, soy sauce, chili sauce, vinegar, black pepper, and salt.</li><li>Toss vigorously on high heat for 3 minutes and serve hot.</li></ol>
+      <p><strong>Chef's Tip:</strong> Cooking on high flame yields authentic wok hei smoky flavor.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chicken-noodles.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Classic Cinnamon Butter French Toast</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/french-toast.html"/>
+    <id>https://chefbubble.netlify.app/recipes/french-toast.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Thick bread slices soaked in custard milk, cinnamon, vanilla, pan-fried golden in butter and drizzled with maple syrup.</summary>
+    <category term="Breakfast" label="Breakfast"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=800&q=80" alt="Classic Cinnamon Butter French Toast" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Breakfast | <strong>Prep:</strong> 10 mins | <strong>Cook:</strong> 10 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Golden fluffy French Toast slices made with brioche or thick milk bread soaked in eggs, milk, vanilla extract, and warm cinnamon pan-seared in rich butter.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>4 thick slices of bread</li><li>2 eggs</li><li>1/2 cup milk</li><li>1 tbsp sugar</li><li>1/2 tsp cinnamon powder, 1/2 tsp vanilla extract</li><li>Butter for pan frying</li><li>Maple syrup &amp; fresh berries</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Whisk eggs, milk, sugar, cinnamon, and vanilla in shallow bowl.</li><li>Dip bread slices into custard mixture for 10 seconds per side.</li><li>Melt butter on skillet over medium heat.</li><li>Fry bread for 3-4 minutes per side until golden brown.</li><li>Serve warm drizzled with syrup.</li></ol>
+      <p><strong>Chef's Tip:</strong> Day-old bread absorbs egg mixture better without getting soggy.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/french-toast.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Fluffy American Butter Pancakes</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/pancakes.html"/>
+    <id>https://chefbubble.netlify.app/recipes/pancakes.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Tall, fluffy diner style pancakes topped with melting butter and pure maple syrup.</summary>
+    <category term="Breakfast" label="Breakfast"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=80" alt="Fluffy American Butter Pancakes" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Breakfast | <strong>Prep:</strong> 10 mins | <strong>Cook:</strong> 15 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Soft, pillowy buttermilk pancakes cooked golden brown on griddle topped with warm maple syrup and melted butter.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1.5 cups flour, 2 tbsp sugar, 1 tbsp baking powder, pinch salt</li><li>1.25 cups buttermilk or milk</li><li>1 egg</li><li>3 tbsp melted butter</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Whisk dry ingredients together.</li><li>Whisk egg, milk, and melted butter; combine gently with dry ingredients without overmixing.</li><li>Pour batter onto warm greased skillet.</li><li>Flip when surface bubbles pop (2 mins) and cook until golden brown.</li></ol>
+      <p><strong>Chef's Tip:</strong> Do not overmix batter; small lumps make pancakes lighter and fluffier.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/pancakes.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Moist Rich Dark Chocolate Fudge Cake</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/chocolate-cake.html"/>
+    <id>https://chefbubble.netlify.app/recipes/chocolate-cake.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Ultra-moist dark cocoa chocolate cake frosted with glossy chocolate ganache fudge.</summary>
+    <category term="Desserts" label="Desserts"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80" alt="Moist Rich Dark Chocolate Fudge Cake" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Desserts | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 35 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>A chocolate lover&apos;s dream! Decadent, soft dark chocolate cake layers baked with espresso-infused cocoa batter and layered with velvety dark chocolate fudge frosting.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 cups flour, 2 cups sugar, 3/4 cup cocoa powder</li><li>2 tsp baking powder, 1.5 tsp baking soda</li><li>2 eggs, 1 cup milk, 1/2 cup vegetable oil</li><li>1 cup hot coffee (brewed)</li><li>For Ganache: 200g dark chocolate + 150ml cream</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Whisk dry ingredients in bowl.</li><li>Add eggs, milk, oil, vanilla; mix well.</li><li>Stir in hot coffee (batter will be thin).</li><li>Bake at 175°C (350°F) for 32-35 mins.</li><li>Cool completely and frost with rich chocolate ganache.</li></ol>
+      <p><strong>Chef's Tip:</strong> Hot brewed coffee enhances dark chocolate flavor without tasting like coffee.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/chocolate-cake.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Warm Melt-in-Mouth Gulab Jamun</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/gulab-jamun.html"/>
+    <id>https://chefbubble.netlify.app/recipes/gulab-jamun.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Soft milk-solid fried balls soaked in hot cardamom and rose water sugar syrup.</summary>
+    <category term="Desserts" label="Desserts"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1599785209707-a456fc1337cc?auto=format&fit=crop&w=800&q=80" alt="Warm Melt-in-Mouth Gulab Jamun" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Desserts | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 25 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Golden brown sweet dumplings made from khoya (milk solids) or milk powder soft dough, fried on low flame and soaked in fragrant warm cardamom sugar syrup.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 cup milk powder, 2 tbsp flour, 1 tbsp semolina (sooji), 1 tsp ghee, pinch baking soda</li><li>Milk to knead soft dough</li><li>For Syrup: 1.5 cups sugar, 1.5 cups water, 4 cardamom pods, 1 tsp rose water</li><li>Ghee/oil for frying</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Boil sugar and water with cardamoms for 8 mins until sticky syrup forms.</li><li>Knead milk powder, flour, ghee, and milk into smooth dough without cracks.</li><li>Shape into smooth ball dumplings.</li><li>Fry on very low heat until dark golden.</li><li>Soak in warm sugar syrup for 2 hours.</li></ol>
+      <p><strong>Chef's Tip:</strong> Fry strictly on low flame so center cooks completely without remaining doughy.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/gulab-jamun.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Zafrani Badami Shahi Rice Kheer</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/kheer.html"/>
+    <id>https://chefbubble.netlify.app/recipes/kheer.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Slow-simmered rice pudding enriched with milk, saffron strands, almonds, pistachios, and kewra.</summary>
+    <category term="Desserts" label="Desserts"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80" alt="Zafrani Badami Shahi Rice Kheer" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Desserts | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 45 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Creamy traditional South Asian rice pudding simmered until thick, flavored with crushed cardamom, saffron, kewra water, slivered almonds, and green pistachios.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 liters full cream milk</li><li>1/2 cup coarse Basmati rice (soaked and ground)</li><li>3/4 cup sugar</li><li>1/2 cup crushed almonds &amp; pistachios</li><li>Pinch of saffron, 1/2 tsp cardamom powder, 1 tsp kewra water</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Boil milk in thick bottom pot; add ground soaked rice.</li><li>Simmer on low heat for 40 minutes while stirring frequently until milk reduces and thickens.</li><li>Add sugar, nuts, cardamom, and saffron; cook for 10 more minutes.</li><li>Cool completely and chill in refrigerator before serving.</li></ol>
+      <p><strong>Chef's Tip:</strong> Serve chilled in clay bowls (matki) for traditional flavor.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/kheer.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Creamy Mango Delight Mousse Dessert</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/mango-dessert.html"/>
+    <id>https://chefbubble.netlify.app/recipes/mango-dessert.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">No-bake layered dessert made with mango puree, whipped cream, crushed biscuits, and fresh mango cubes.</summary>
+    <category term="Desserts" label="Desserts"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80" alt="Creamy Mango Delight Mousse Dessert" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Desserts | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 0 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>A refreshing summer dessert layered with crushed buttery tea biscuits, sweet ripe Chaunsa or Alphonso mango puree, airy whipped cream, and fresh diced mango chunks.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 cups fresh sweet mango puree</li><li>1 cup heavy whipping cream</li><li>1 cup crushed Marie or digestive biscuits + 2 tbsp melted butter</li><li>1 cup fresh diced mango cubes</li><li>Mint leaves for garnish</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Mix crushed biscuits with melted butter and press into base of dessert glasses.</li><li>Whip heavy cream until soft peaks form; fold in half the mango puree.</li><li>Layer mango cream over biscuit base, topped with pure mango puree.</li><li>Finish with diced fresh mango cubes and mint leaf.</li><li>Chill for 2 hours before serving.</li></ol>
+      <p><strong>Chef's Tip:</strong> Use naturally sweet, non-fibrous mangoes like Chaunsa or Alphonso.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/mango-dessert.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Chilled Sweet Mango Lassi</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/mango-lassi.html"/>
+    <id>https://chefbubble.netlify.app/recipes/mango-lassi.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Creamy, smooth, and refreshing sweet mango yogurt drink infused with fragrant green cardamom and crushed pistachios.</summary>
+    <category term="Drinks &amp; Beverages" label="Drinks &amp; Beverages"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=800&q=80" alt="Chilled Sweet Mango Lassi" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Drinks &amp; Beverages | <strong>Prep:</strong> 10 mins | <strong>Cook:</strong> 0 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Chef Bubble&apos;s Chilled Sweet Mango Lassi is the ultimate refreshing beverage for hot summer afternoons and spice-rich dinner feasts. Made by blending sweet Chaunsa or Alphonso mango pulp with thick whole-milk yogurt, chilled milk, sugar, and crushed green cardamom. Served in tall chilled glasses topped with slivered pistachios and a pinch of saffron threads.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 cups sweet ripe mango pulp or fresh mango cubes</li><li>1.5 cups thick plain Greek or whole-milk yogurt (dahi)</li><li>1/2 cup chilled whole milk</li><li>3 tbsp sugar or honey (adjust to taste)</li><li>1/4 tsp crushed green cardamom powder</li><li>6-8 crushed ice cubes</li><li>1 tbsp slivered pistachios and almonds for garnish</li><li>A pinch of saffron threads (optional)</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>In a high-speed blender, add ripe mango pulp, thick yogurt, chilled milk, sugar, and cardamom powder.</li><li>Add crushed ice cubes and blend on high speed for 60 seconds until completely smooth, thick, and frothy.</li><li>Taste and adjust sweetness or milk thickness according to preference.</li><li>Pour into tall chilled glass tumblers.</li><li>Garnish with slivered pistachios, chopped almonds, and a pinch of saffron threads before serving immediately.</li></ol>
+      <p><strong>Chef's Tip:</strong> Use ripe, fragrant sweet mangoes like Chaunsa, Sindhari, or Alphonso for the richest natural yellow color and aroma without needing artificial flavorings.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/mango-lassi.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Dhaba-Style Zafrani Karak Chai</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/zafrani-karak-chai.html"/>
+    <id>https://chefbubble.netlify.app/recipes/zafrani-karak-chai.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Strong, rich, aromatic milk tea slow-boiled with cardamom, cinnamon, crushed ginger, and luxurious saffron threads.</summary>
+    <category term="Drinks &amp; Beverages" label="Drinks &amp; Beverages"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=800&q=80" alt="Dhaba-Style Zafrani Karak Chai" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Drinks &amp; Beverages | <strong>Prep:</strong> 5 mins | <strong>Cook:</strong> 12 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Nothing brings people together like a steaming hot pot of Dhaba-Style Zafrani Karak Chai. Chef Bubble&apos;s signature recipe slow-boils strong black tea leaves with whole spices—green cardamom pods, cinnamon bark, and freshly bruised ginger root—in a mixture of water and full-cream evaporated milk. Infused with pure saffron threads, this tea boasts a rich amber tint, velvety mouthfeel, and an invigorating aroma.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>2 cups water</li><li>2 cups full-cream milk (or evaporated milk)</li><li>3 tbsp strong black tea leaves (Danedar / Tapal)</li><li>4 green cardamom pods, lightly crushed</li><li>1 small piece cinnamon stick</li><li>1/2 inch fresh ginger, crushed</li><li> Pinch of saffron threads (zafran)</li><li>2-3 tbsp sugar (adjust to taste)</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>In a saucepan, bring water to a rolling boil with crushed cardamom, cinnamon stick, crushed ginger, and saffron threads.</li><li>Boil for 3 minutes until spices release their fragrance into the water.</li><li>Add black tea leaves and simmer on low heat for 3 minutes until tea extracts deeply.</li><li>Pour in full-cream milk and sugar. Bring to a boil on medium flame.</li><li>When tea rises to the top, reduce heat and pour high using a ladle repeatedly (&apos;phainta&apos;) for 3-4 minutes to create a frothy texture.</li><li>Strain through a tea sieve directly into clay cups (matka) or mugs. Serve piping hot!</li></ol>
+      <p><strong>Chef's Tip:</strong> Ladling the tea up and down (&apos;phainta&apos;) while simmering incorporates air, creating a velvety micro-foam and enhancing the rich karak tea taste.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/zafrani-karak-chai.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Pakistani Mint Lemonade (Mint Margarita)</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/mint-lemonade-margarita.html"/>
+    <id>https://chefbubble.netlify.app/recipes/mint-lemonade-margarita.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">The iconic Pakistani restaurant slushie made with fresh mint, lemon juice, black salt, sugar syrup, and fizzy soda blended with crushed ice.</summary>
+    <category term="Drinks &amp; Beverages" label="Drinks &amp; Beverages"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80" alt="Pakistani Mint Lemonade (Mint Margarita)" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Drinks &amp; Beverages | <strong>Prep:</strong> 8 mins | <strong>Cook:</strong> 0 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>If you have ever dined at a Pakistani restaurant or cafe, you know the instant magic of a frosty green Mint Margarita! Chef Bubble&apos;s recipe blends fresh fragrant garden mint leaves, freshly squeezed lemon juice, black salt (kala namak), sugar syrup, ice cubes, and a splash of lemon-lime soda into a zesty ice slushie that wakes up all your senses.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 cup fresh mint leaves (spearmint)</li><li>4 tbsp freshly squeezed lemon juice</li><li>1/2 tsp black salt (kala namak)</li><li>3 tbsp sugar or simple syrup</li><li>1.5 cups crushed ice</li><li>1 cup chilled 7Up, Sprite, or sparkling soda water</li><li>Lemon wheels and mint sprigs for garnish</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Rinse fresh mint leaves thoroughly in cold water.</li><li>In a blender, combine mint leaves, lemon juice, black salt, sugar, and half of the crushed ice.</li><li>Blend on high speed until mint is finely pulverized into an emerald green liquid.</li><li>Add remaining crushed ice and 7Up/soda. Pulse briefly for 5 seconds to create a frosty slush texture.</li><li>Pour immediately into sugar-rimmed glasses.</li><li>Garnish with a lemon wheel and fresh mint sprig.</li></ol>
+      <p><strong>Chef's Tip:</strong> Black salt (kala namak) is the secret ingredient! It provides that signature savory tang unique to South Asian summer coolers.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/mint-lemonade-margarita.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Royal Mughlai Shahi Tukda</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/shahi-tukda.html"/>
+    <id>https://chefbubble.netlify.app/recipes/shahi-tukda.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Golden ghee-fried bread triangles soaked in warm saffron sugar syrup and topped with thick condensed cardamom rabri milk and nuts.</summary>
+    <category term="Desserts" label="Desserts"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=800&q=80" alt="Royal Mughlai Shahi Tukda" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Desserts | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 25 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Shahi Tukda, translating to &apos;Royal Slice&apos;, originated in the royal kitchens of the Mughal Empire. Chef Bubble&apos;s recipe turns humble white bread into a majestic dessert. Crustless bread slices are trimmed into crisp triangles, fried in pure desi ghee until deep golden brown, dipped in cardamom-saffron sugar syrup, and drenched under velvety rabri milk cooked with khoya and silver leaves.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>6 white bread slices, crusts removed and cut diagonally into triangles</li><li>1/2 cup desi ghee for shallow frying</li><li>1 cup sugar and 3/4 cup water (for sugar syrup)</li><li>4 green cardamom pods</li><li>Pinch of saffron threads</li><li>3 cups full-cream milk</li><li>1/2 cup condensed milk or khoya</li><li>2 tbsp chopped pistachios, almonds, and cashews</li><li>Edible silver leaf (chandi ka waraq) for decoration</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Prepare Sugar Syrup: Boil sugar, water, crushed cardamom, and saffron in a saucepan for 6-8 minutes until it reaches 1-string consistency. Keep warm.</li><li>Prepare Rabri Milk: In a heavy pan, simmer 3 cups full-cream milk and condensed milk on medium flame, stirring constantly until reduced by half to a thick Rabri. Cool slightly.</li><li>Fry Bread: Heat ghee in a shallow pan. Fry bread triangles on medium heat until crispy and golden brown on both sides. Drain on paper towels.</li><li>Dip: Immediately dip fried bread triangles into warm sugar syrup for 20 seconds per side so they absorb sweetness without becoming soggy.</li><li>Assemble: Arrange syrup-coated bread on a broad serving platter. Pour thick saffron rabri generously over the slices.</li><li>Garnish with chopped pistachios, almonds, and edible silver leaf. Serve warm or chilled!</li></ol>
+      <p><strong>Chef's Tip:</strong> Fry the bread on medium heat in pure ghee rather than oil for that genuine royal buttery crunch.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/shahi-tukda.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Soft Halwai-Style Milk Rasmalai</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/soft-rasmalai.html"/>
+    <id>https://chefbubble.netlify.app/recipes/soft-rasmalai.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Melt-in-mouth cottage cheese patties simmered in light sugar syrup and steeped in chilled saffron-pistachio cardamom milk.</summary>
+    <category term="Desserts" label="Desserts"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=800&q=80" alt="Soft Halwai-Style Milk Rasmalai" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Desserts | <strong>Prep:</strong> 20 mins | <strong>Cook:</strong> 30 mins | <strong>Difficulty:</strong> Medium</p>
+      <p>Rasmalai is a legendary South Asian sweet dessert consisting of soft, spongy chhena (fresh cottage cheese) discs cooked in sugar syrup, then soaked in sweet, fragrant saffron and cardamom flavored milk (ras). Chef Bubble shares the foolproof technique to ensure your rasmalai patties remain pillowy soft and never rubbery.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>1 liter full-fat milk (for chhena)</li><li>2 tbsp lemon juice or vinegar diluted in 2 tbsp water</li><li>1 tsp cornstarch</li><li>1.5 cups sugar and 4 cups water (for cooking syrup)</li><li>3 cups full-cream milk (for rabri Ras)</li><li>1/2 cup sugar (for milk)</li><li>1/2 tsp crushed green cardamom powder</li><li>Pinch of saffron threads soaked in 2 tbsp warm milk</li><li>2 tbsp pistachios and almonds, finely crushed</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Make Chhena: Boil 1 liter milk. Turn off heat, add diluted lemon juice gradually until milk curdles completely. Strain through cheesecloth and rinse with cold water.</li><li>Knead Patties: Squeeze out excess water. Knead chhena smoothly with palms for 8 minutes until non-sticky. Add cornstarch and shape into 10 smooth flat discs without cracks.</li><li>Cook Patties: Boil 1.5 cups sugar and 4 cups water in a wide deep pan. Drop chhena discs in boiling syrup, cover with lid, and cook on high heat for 15 minutes until expanded.</li><li>Prepare Ras Milk: Simmer 3 cups milk with 1/2 cup sugar, cardamom, and saffron milk for 12 minutes until slightly thickened.</li><li>Soak &amp; Chill: Gently squeeze sugar syrup out of cooked patties using two spoons. Place patties into warm saffron milk. Refrigerate for at least 4 hours before serving chilled garnished with pistachios.</li></ol>
+      <p><strong>Chef's Tip:</strong> Rinsing the curdled chhena with cold water removes lemon acidity completely and stops the cooking process so patties stay super tender.</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/soft-rasmalai.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+
+  <entry>
+    <title>Special Layered Royal Falooda</title>
+    <link rel="alternate" type="text/html" href="https://chefbubble.netlify.app/recipes/royal-falooda.html"/>
+    <id>https://chefbubble.netlify.app/recipes/royal-falooda.html</id>
+    <updated>2026-10-19T13:25:36.061Z</updated>
+    <published>2026-10-19T13:25:36.061Z</published>
+    <summary type="text">Rich, extravagant dessert drink stacked with rose syrup, basil seeds, cornstarch vermicelli, cold sweet milk, and topped with kulfa ice cream.</summary>
+    <category term="Desserts" label="Desserts"/>
+    <author>
+      <name>Chef Bubble</name>
+    </author>
+    <content type="html"><![CDATA[<div>
+      <img src="https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&q=80" alt="Special Layered Royal Falooda" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:16px;"/>
+      <p><strong>Category:</strong> Desserts | <strong>Prep:</strong> 15 mins | <strong>Cook:</strong> 10 mins | <strong>Difficulty:</strong> Easy</p>
+      <p>Royal Falooda is the ultimate celebration in a glass! Combining vibrant red rose syrup, soaked basil seeds (tukh malanga), soft cornstarch falooda noodles, chilled sweetened milk, and crowned with a scoop of creamy Kulfa ice cream, toasted nuts, and a sweet cherry. Chef Bubble brings this street-food classic straight into your kitchen.</p>
+      <h3>Ingredients:</h3>
+      <ul><li>4 tbsp sweet rose syrup (Rooh Afza)</li><li>2 tbsp basil seeds (tukh malanga), soaked in 1 cup warm water for 15 mins</li><li>1/2 cup cooked falooda vermicelli noodles</li><li>1.5 cups chilled full-cream milk sweetened with 2 tbsp sugar</li><li>2 scoops Kulfa or Vanilla ice cream</li><li>2 tbsp chopped pistachios and almonds</li><li>2 maraschino cherries for topping</li></ul>
+      <h3>Instructions:</h3>
+      <ol><li>Soak basil seeds in warm water for 15 minutes until fully swollen and gelatinous.</li><li>Boil falooda vermicelli according to package instructions, drain, and chill in cold water.</li><li>Assembly: Take two tall sundae glasses. Add 2 tbsp rose syrup to the bottom of each glass.</li><li>Layer 2 tablespoons soaked basil seeds over the rose syrup.</li><li>Add a generous layer of chilled falooda vermicelli.</li><li>Slowly pour chilled sweetened milk over a spoon so layers remain distinct.</li><li>Top each glass with a big scoop of Kulfa ice cream.</li><li>Drizzle extra rose syrup over the ice cream and garnish generously with crushed pistachios, almonds, and a cherry!</li></ol>
+      <p><strong>Chef's Tip:</strong> Serve with both a long dessert spoon for the ice cream &amp; noodles and a thick straw for drinking the sweet rose milk!</p>
+      <p><a href="https://chefbubble.netlify.app/recipes/royal-falooda.html">View full step-by-step recipe with nutrition facts on Chef Bubble Kitchen &rarr;</a></p>
+    </div>]]></content>
+  </entry>
+</feed>

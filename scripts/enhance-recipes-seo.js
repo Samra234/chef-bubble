@@ -40,7 +40,8 @@ for (const file of files) {
     continue;
   }
 
-  // Remove any existing canonical, robots, og, twitter, and ld+json tags to ensure clean injection
+  // Remove any existing canonical, robots, og, twitter, atom, and ld+json tags to ensure clean injection
+  content = content.replace(/<link\s+rel=["']alternate["'][^>]*type=["']application\/atom\+xml["'][^>]*>\s*/gi, '');
   content = content.replace(/<link\s+rel=["']canonical["'][^>]*>\s*/gi, '');
   content = content.replace(/<meta\s+name=["']robots["'][^>]*>\s*/gi, '');
   content = content.replace(/<meta\s+property=["']og:[^"']*["'][^>]*>\s*/gi, '');
@@ -107,6 +108,7 @@ for (const file of files) {
   }
 
   const seoBlock = `  <link rel="canonical" href="${canonicalUrl}">
+  <link rel="alternate" type="application/atom+xml" title="Chef Bubble Kitchen Recipes (Atom Feed)" href="https://chefbubble.netlify.app/atom.xml">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
   <!-- OpenGraph Social Metadata -->

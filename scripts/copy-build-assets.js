@@ -48,6 +48,7 @@ copyFileSafe(path.join(rootDir, '_redirects'), path.join(distDir, '_redirects'))
 copyFileSafe(path.join(rootDir, 'netlify.toml'), path.join(distDir, 'netlify.toml'));
 copyFileSafe(path.join(rootDir, 'robots.txt'), path.join(distDir, 'robots.txt'));
 copyFileSafe(path.join(rootDir, 'sitemap.xml'), path.join(distDir, 'sitemap.xml'));
+copyFileSafe(path.join(rootDir, 'atom.xml'), path.join(distDir, 'atom.xml'));
 copyFileSafe(path.join(rootDir, 'favicon.ico'), path.join(distDir, 'favicon.ico'));
 copyFileSafe(path.join(rootDir, 'ads.txt'), path.join(distDir, 'ads.txt'));
 copyFileSafe(path.join(rootDir, 'googlee78d1d7978fc82fc.html'), path.join(distDir, 'googlee78d1d7978fc82fc.html'));
