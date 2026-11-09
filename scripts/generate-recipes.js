@@ -63,10 +63,22 @@ recipes.forEach(r => {
   const htmlContent = `<!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JKTGG3XLJC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JKTGG3XLJC');
+  </script>
+  <meta name="google-adsense-account" content="ca-pub-1410868323930404">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1410868323930404"
+     crossorigin="anonymous"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${r.title} Recipe | Chef Bubble Kitchen</title>
-  <meta name="description" content="${r.shortIntro}">
+  <meta name="description" content="${(r.shortIntro || '').replace(/"/g, '&quot;')}">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/css/responsive.css">
   <link rel="stylesheet" href="/css/recipe.css">
